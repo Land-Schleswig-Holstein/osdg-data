@@ -1,0 +1,26 @@
+exploring_data_sources: Datenquellenanalyse
+overall_reporting_status: Gesamtstatus der Berichterstattung
+reported_online: Daten verfügbar
+reporting_status: Berichtsstatus
+statistics_in_progress: in Bearbeitung
+not_applicable: Nicht zutreffend
+status_by_goal: Status nach Ziel
+status_by_field: Status von %field
+disaggregation_status: 'Status der Disaggregation'
+disaggregation_status_overall: 'Gesamter Disaggregationsstatus'
+disaggregation_status_complete: 'Vollständig disaggregiert'
+disaggregation_status_inprogress: 'Teilweise disaggregiert'
+disaggregation_status_notstarted: 'Nicht disaggregiert'
+disaggregation_status_notapplicable: 'Außerhalb des Bereichs'
+disaggregation_status_by_field: 'Disaggregation nach %Feld'
+not_specified: Nicht angegeben
+reported: Gemeldet
+description: Der Berichtsstatus gibt einen Überblick darüber, wie viele Daten zu den
+  Sustainable Development Goals (SDGs) %country.name meldet.
+progress_status: Status des Fortschritts
+progress_not_available: Nicht verfügbar
+progress_challenges_remain: Herausforderungen bleiben bestehen
+progress_approaching_target: Annäherung an das Ziel
+progress_target_achieved: Ziel erreicht
+no_data_available: Keine Daten verfügbar
+progress_help: Wie weit sind wir mit dem Ziel für 2030?
