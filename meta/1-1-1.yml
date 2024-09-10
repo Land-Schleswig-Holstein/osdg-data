@@ -1,3 +1,12 @@
+indicator_name: Name des Indikators
+indicator_number: 1.1.1
+computation_units: Anzahl der Punkte
+source_active_1: true
+source_organisation_1: Quelle 
+source_url_1: "https://quelle-1.org"
+graph_title: ""
+reporting_status: complete
+
 SDG_GOAL: >-
   Goal 1: End poverty in all its forms everywhere
 SDG_TARGET: >-
