@@ -12,18 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH",
-                "Bund",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

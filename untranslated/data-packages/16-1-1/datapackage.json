@@ -12,19 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
-            "title": "Jahr"
+            "type": "integer"
+          },
+          {
+            "name": "Gruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH",
+                "Bund",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "type": "number"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "16-1",
-  "title": "Straftäter Häufigkeitszahlen"
+  "name": "16-1-1",
+  "title": "16-1-1"
 }
