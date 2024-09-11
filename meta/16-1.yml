@@ -1,6 +1,6 @@
-indicator_name: Name des Indikators
-indicator_number: 1.1.1
-computation_units: Anzahl der Punkte
+indicator_name: Straftäter Häufigkeitszahlen
+indicator_number: 16.1
+computation_units: Anzahl
 source_active_1: true
 source_organisation_1: 
 source_url_1:
