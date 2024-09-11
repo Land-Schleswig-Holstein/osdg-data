@@ -1,4 +1,4 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-1-1,complete,,,,,Anzahl der Punkte,line
-#16-1,complete,,,,,Straftäter Häufigkeitszahlen,line
-#16-1-1,complete,,,,,,line
+#16-1,complete,,True,,,Straftäter Häufigkeitszahlen,line
+#16-1-1,notstarted,,,,,,line
