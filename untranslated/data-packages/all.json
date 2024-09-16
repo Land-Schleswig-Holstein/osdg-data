@@ -72,8 +72,8 @@
       "title": "Erwerbstätigenquote"
     },
     {
-      "path": "1-1-2-1/data.csv",
-      "name": "1-1-2-1",
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -104,7 +104,7 @@
           }
         ]
       },
-      "title": "Arbeitslosenquote"
+      "title": "1-2-1"
     },
     {
       "path": "1-2-2/data.csv",
@@ -160,6 +160,28 @@
         ]
       },
       "title": "Arbeitslosenanteile"
+    },
+    {
+      "path": "1-1-2-1/data.csv",
+      "name": "1-1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Arbeitslosenquote"
     }
   ]
 }
