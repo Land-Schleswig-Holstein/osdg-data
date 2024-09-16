@@ -54,25 +54,28 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Gruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "Menschen mit Migrationshintergrund",
+                "Männer mit Migrationshintergrund",
+                "Frauen mit Migrationshintergrund",
+                "Männer",
+                "Frauen",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Gruppe"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Name des Indikators"
+      "title": "Erwerbstätigenquote"
     }
   ]
 }
