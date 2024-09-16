@@ -1,10 +1,10 @@
-indicator_name: Name des Indikators
+indicator_name: Erwerbstätigenquote
 indicator_number: 1.1.1
-computation_units: Anzahl der Punkte
+computation_units: "Erwerbstätigenquote (Anteil Alter 20-64 Jahre) in Prozent (%)"
 source_active_1: true
-source_organisation_1: Quelle 
-source_url_1: "https://quelle-1.org"
-graph_title: ""
+source_organisation_1:  
+source_url_1:
+graph_title: 
 reporting_status: complete
 
 SDG_GOAL: >-
