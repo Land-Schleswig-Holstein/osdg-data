@@ -1,7 +1,6 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-1,complete,,,,,Prozent (%),line
-#1-1-2-2,complete,,True,,,Prozent (%),line
 #1-2-1,complete,,,,,Prozent (%),line
-#1-2-2,complete,,,,,,line
+#1-2-2,complete,,,,,Prozent (%),line
 #16-1,notstarted,,,,,,line
 #16-1-1,complete,,,,,Straftaten,line
