@@ -131,7 +131,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Unnamed: 1",
+            "name": "Gruppe",
             "type": "string",
             "constraints": {
               "enum": [
@@ -140,7 +140,7 @@
                 ""
               ]
             },
-            "title": "Unnamed: 1"
+            "title": "Gruppe"
           },
           {
             "name": "Value",

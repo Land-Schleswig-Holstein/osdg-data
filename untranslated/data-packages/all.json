@@ -121,7 +121,7 @@
             "type": "integer"
           },
           {
-            "name": "Unnamed: 1",
+            "name": "Gruppe",
             "type": "string",
             "constraints": {
               "enum": [
