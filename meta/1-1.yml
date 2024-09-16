@@ -1,5 +1,5 @@
 indicator_name: Erwerbstätigenquote
-indicator_number: 1.1.1
+indicator_number: 1.1
 computation_units: "Prozent (%)"
 source_active_1: true
 source_organisation_1:  
