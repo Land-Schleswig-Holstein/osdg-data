@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Gruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH",
+                "Bund",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -23,6 +34,6 @@
     }
   ],
   "profile": "data-package",
-  "name": "16-1",
-  "title": "16-1"
+  "name": "16-1-1",
+  "title": "16-1-1"
 }
