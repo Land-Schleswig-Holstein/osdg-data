@@ -1,4 +1,4 @@
-indicator_name: Straftaten Häufigkeitszahlen
+# indicator_name: Straftaten Häufigkeitszahlen
 indicator_number: 16.1
 computation_units: Straftaten
 source_active_1: true
