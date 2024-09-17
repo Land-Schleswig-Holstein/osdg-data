@@ -1,5 +1,5 @@
 computation_units: 'Arbeitslose'
 graph_title: Arbeitslosenanteile
-indicator_name: Arbeitslosenanteile
+# indicator_name: Arbeitslosenanteile
 indicator_number: '1.2.2'
 reporting_status: complete
