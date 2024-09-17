@@ -39,8 +39,8 @@
       "title": "16-1"
     },
     {
-      "path": "1-1/data.csv",
-      "name": "1-1",
+      "path": "1-1-1/data.csv",
+      "name": "1-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -75,7 +75,7 @@
           }
         ]
       },
-      "title": "1-1"
+      "title": "1-1-1"
     },
     {
       "path": "1-2-1/data.csv",

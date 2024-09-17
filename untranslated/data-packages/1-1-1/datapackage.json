@@ -12,8 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
+            "type": "integer"
           },
           {
             "name": "Gruppe",
@@ -27,19 +26,17 @@
                 "Frauen mit Migrationshintergrund",
                 ""
               ]
-            },
-            "title": "Gruppe"
+            }
           },
           {
             "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "type": "number"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "1-1",
-  "title": "1-1"
+  "name": "1-1-1",
+  "title": "1-1-1"
 }
