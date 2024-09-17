@@ -21,7 +21,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH",
                 "Bund",
                 ""
               ]
