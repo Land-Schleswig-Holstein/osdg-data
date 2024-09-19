@@ -15,25 +15,13 @@
             "type": "integer"
           },
           {
-            "name": "Unnamed: 1",
+            "name": "Bevölkerung",
             "type": "string",
             "constraints": {
               "enum": [
                 "Bevölkerung SH bis Regelaltersgrenze",
                 "SGB II-Quote der unter 15-jährigen",
                 "Bevölkerung SH U 15",
-                "Bevölkerung SH U 16",
-                "Bevölkerung SH U 17",
-                "Bevölkerung SH U 18",
-                "Bevölkerung SH U 19",
-                "Bevölkerung SH U 20",
-                "Bevölkerung SH U 21",
-                "Bevölkerung SH U 22",
-                "Bevölkerung SH U 23",
-                "Bevölkerung SH U 24",
-                "Bevölkerung SH U 25",
-                "Bevölkerung SH U 26",
-                "Bevölkerung SH U 27",
                 ""
               ]
             }
