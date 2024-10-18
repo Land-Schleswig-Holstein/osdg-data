@@ -1,1 +1,6 @@
 graph_title: Armutsrisikoquoten der Bevölkerung insgesamt und nach Familientypen
+data_start_values:
+  - field: Gruppe
+    value: Deutschland
+  - field: Gruppe
+    value: Migrationshintergrund DE
