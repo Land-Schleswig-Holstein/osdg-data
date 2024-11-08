@@ -1,10 +1,10 @@
-# indicator_name: Straftaten Häufigkeitszahlen
+indicator_name: Straftaten
 indicator_number: 16.1.1
 computation_units: Straftaten
 source_active_1: true
 source_organisation_1: 
 source_url_1:
-graph_title:
+graph_title: Häufigkeitszahlen der Straftaten
 reporting_status: complete
 
 SDG_GOAL: >-
