@@ -7,7 +7,7 @@ source_url_1: www.quelle.de
 graph_title: Hier ist die Beschreibung.
 graph_type: bar
 publications:
-  - title: Mehr Informationen:
+  - title: 'Mehr Informationen:'
     link: 'https://www.example.de'
     description: 'Weiterführende Informationen zu diesem Indikator im Nachhaltigkeitsbericht des Landes Shleswig-Holstein.'
     placeholder: 'Noch keine Daten hinterlegt...'
