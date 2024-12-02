@@ -4,7 +4,7 @@ Year,Gruppe,Value
 3,Männer,5
 4,Männer,66
 5,Männer,88
-6,Männer,87
+6,Männer,12
 7,Männer,45
 8,Männer,34
 1,Frauen,34
@@ -12,7 +12,7 @@ Year,Gruppe,Value
 3,Frauen,34
 4,Frauen,34
 5,Frauen,65
-6,Frauen,32
+6,Frauen,34
 7,Frauen,76
 8,Frauen,33
 1,Kinder,23
@@ -20,7 +20,7 @@ Year,Gruppe,Value
 3,Kinder,65
 4,Kinder,75
 5,Kinder,46
-6,Kinder,64
+6,Kinder,55
 7,Kinder,7
 8,Kinder,42
 1,Greise,44
@@ -28,6 +28,14 @@ Year,Gruppe,Value
 3,Greise,7
 4,Greise,97
 5,Greise,8
-6,Greise,65
+6,Greise,66
 7,Greise,54
 8,Greise,42
+1,Babys,45
+2,Babys,66
+3,Babys,78
+4,Babys,35
+5,Babys,54
+6,Babys,65
+7,Babys,43
+8,Babys,22

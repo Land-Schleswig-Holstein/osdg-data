@@ -199,6 +199,7 @@
                 "Frauen",
                 "Kinder",
                 "Greise",
+                "Babys",
                 ""
               ]
             }
@@ -244,7 +245,7 @@
           }
         ]
       },
-      "title": "8-2"
+      "title": "Indikator für Nachhaltigkeit"
     },
     {
       "path": "5-5-5/data.csv",
