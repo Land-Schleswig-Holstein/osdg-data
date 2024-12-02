@@ -6,5 +6,5 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-4-1,complete,,,,,,line
 #1-5-1,complete,,,,,Einwohner,line
 #16-1-1,complete,,,,,Straftaten,line
-#4-1,complete,,,,,,line
+#4-1,complete,,,,,EINHEIT,bar
 #5-5-5,complete,,,,,EINHEIT,bar

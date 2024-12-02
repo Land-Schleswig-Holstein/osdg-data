@@ -211,10 +211,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Blam",
-                "Blom",
-                "Blum",
-                "Blem",
+                "Männer",
+                "Frauen",
+                "Kinder",
+                "Greise",
                 ""
               ]
             },
@@ -227,7 +227,7 @@
           }
         ]
       },
-      "title": "4-1"
+      "title": "Indikator für Nachhaltigkeit"
     },
     {
       "path": "5-5-5/data.csv",
