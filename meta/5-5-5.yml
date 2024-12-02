@@ -1,0 +1,10 @@
+indicator_name: Test 2 
+indicator_number: 5-5-5
+computation_units: EINHEIT
+source_active_1: true
+source_organisation_1: Quelle 
+source_url_1: www.quelle.de 
+graph_title: Test
+
+graph_type: bar
+reporting_status: complete
