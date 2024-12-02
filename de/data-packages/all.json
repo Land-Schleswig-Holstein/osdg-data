@@ -230,6 +230,44 @@
       "title": "4-1"
     },
     {
+      "path": "5-5-5/data.csv",
+      "name": "5-5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Gruppe ",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Blam",
+                "Blom",
+                "Karamba",
+                "SPAEM",
+                ""
+              ]
+            },
+            "title": "Gruppe "
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Test 2"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
