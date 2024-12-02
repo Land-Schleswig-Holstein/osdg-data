@@ -1,10 +1,15 @@
-indicator_name: Test 2 
+indicator_name: Nachhaltigkeitsindikator
 indicator_number: 5-5-5
 computation_units: EINHEIT
 source_active_1: true
 source_organisation_1: Quelle 
 source_url_1: www.quelle.de 
-graph_title: Test
-
+graph_title: Hier ist die Beschreibung.
 graph_type: bar
+publications:
+  - title: Mehr Informationen:
+    link: 'https://www.example.de'
+    description: 'Weiterführende Informationen zu diesem Indikator im Nachhaltigkeitsbericht des Landes Shleswig-Holstein.'
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2024-12-02
 reporting_status: complete
