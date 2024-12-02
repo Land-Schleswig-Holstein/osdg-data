@@ -230,6 +230,44 @@
       "title": "Indikator für Nachhaltigkeit"
     },
     {
+      "path": "8-2/data.csv",
+      "name": "8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Gruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Männer",
+                "Frauen",
+                "Kinder",
+                "Greise",
+                ""
+              ]
+            },
+            "title": "Gruppe"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "8-2"
+    },
+    {
       "path": "5-5-5/data.csv",
       "name": "5-5-5",
       "profile": "tabular-data-resource",
