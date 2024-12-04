@@ -1,9 +1,1 @@
-indicator_name: Indikator für Nachhaltigkeit
-indicator_number: 4-1
-computation_units: qm
-source_active_1: true
-source_organisation_1: Quelle
-source_url_1: www.quelle.de
-graph_title: Was immer dieser Wert anzeigen soll.
-graph_type: bar
-reporting_status: complete
+
