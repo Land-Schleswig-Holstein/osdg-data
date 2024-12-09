@@ -1,0 +1,18 @@
+indicator_name: 'Indikator für Nachhaltigkeit'
+indicator_number: 7-1
+computation_units: 'Anzahl Sonnenstrahlen'
+source_active_1: true
+source_organisation_1: 'Land SH'
+source_url_1: 'https://www.landsh.de'
+graph_title: 'Dieser Wert ist gut.'
+graph_type: bar
+data_start_values:
+  - field: 'Jahreszeit'
+    value: 'Sommer'
+publications:
+  - title: 'Indikator Indikator für Nachhaltigkeit'
+    link: 'https://www.landsh.de'
+    description: 'Weiterführende Informationen zu diesem Indikator im Nachhaltigkeitsbericht des Landes Shleswig-Holstein.'
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2024-12-09
+reporting_status: complete
