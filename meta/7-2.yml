@@ -1,0 +1,18 @@
+indicator_name: 'Indikator für Nachhaltigkeit'
+indicator_number: 7-2
+computation_units: 'Tsd. Personen'
+source_active_1: true
+source_organisation_1: 'Land SH'
+source_url_1: 'https://landsh.de'
+graph_title: 'Definition'
+graph_type: line
+data_start_values:
+  - field: 'Geschlecht'
+    value: 'Frauen'
+publications:
+  - title: 'Indikator Indikator für Nachhaltigkeit'
+    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/haeufigkeitszahl-straftaten'
+    description: 'Weiterführende Informationen zu diesem Indikator im Nachhaltigkeitsbericht des Landes Shleswig-Holstein.'
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2024-12-09
+reporting_status: complete
