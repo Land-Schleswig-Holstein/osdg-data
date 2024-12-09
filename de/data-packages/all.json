@@ -192,6 +192,44 @@
       "title": "1-4-1"
     },
     {
+      "path": "7-1/data.csv",
+      "name": "7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Jahreszeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Winter",
+                "Frühling",
+                "Sommer",
+                "Herbst",
+                ""
+              ]
+            },
+            "title": "Jahreszeit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "7-1"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
