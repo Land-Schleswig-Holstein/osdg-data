@@ -8,6 +8,9 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "euc_jp",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
@@ -15,7 +18,7 @@
             "type": "integer"
           },
           {
-            "name": "Bezeichnung der Gliederung",
+            "name": "'Bezeichnung der Gliederung",
             "type": "string",
             "constraints": {
               "enum": [
@@ -29,7 +32,7 @@
             }
           },
           {
-            "name": " z.B. Jahreszeiten",
+            "name": " z.B. Jahreszeiten'",
             "type": "string",
             "constraints": {
               "enum": [
