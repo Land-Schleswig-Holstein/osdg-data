@@ -269,6 +269,42 @@
       "title": "Indikator für Nachhaltigkeit"
     },
     {
+      "path": "12-13/data.csv",
+      "name": "12-13",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Gliederung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "MM",
+                ""
+              ]
+            },
+            "title": "Gliederung"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-13"
+    },
+    {
       "path": "7-2/data.csv",
       "name": "7-2",
       "profile": "tabular-data-resource",
