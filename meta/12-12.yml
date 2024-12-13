@@ -12,7 +12,7 @@ data_start_values:
 publications:
   - title: 'Indikator Indikatorbezeichnung - z.B. Sonnentage'
     link: 'https://www.link-zur-langen-beschreibung.de'
-    description: 'Weiterführende Informationen zu diesem Indikator im Nachhaltigkeitsbericht des Landes Shleswig-Holstein.'
+    description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2024-12-13
 reporting_status: complete
