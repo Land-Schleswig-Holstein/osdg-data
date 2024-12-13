@@ -8,9 +8,6 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "euc_jp",
-      "dialect": {
-        "quoteChar": "\""
-      },
       "schema": {
         "fields": [
           {
@@ -19,43 +16,23 @@
             "title": "Jahr"
           },
           {
-            "name": "'Bezeichnung der Gliederung",
+            "name": "Bezeichnung der Gliederung - z.B. Jahreszeiten",
             "type": "string",
             "constraints": {
               "enum": [
-                "'Summe'",
-                "'Winter'",
-                "'Frühling'",
-                "'Sommer'",
-                "'Herbst'",
+                "Summe",
+                "Winter",
+                "Frühling",
+                "Sommer",
+                "Herbst",
                 ""
               ]
             },
-            "title": "'Bezeichnung der Gliederung"
-          },
-          {
-            "name": " z.B. Jahreszeiten'",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "4",
-                "9",
-                "15",
-                "16",
-                "1",
-                "2",
-                "3",
-                "5",
-                "6",
-                "0",
-                ""
-              ]
-            },
-            "title": " z.B. Jahreszeiten'"
+            "title": "Bezeichnung der Gliederung - z.B. Jahreszeiten"
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
