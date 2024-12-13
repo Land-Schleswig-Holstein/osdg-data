@@ -1,0 +1,20 @@
+indicator_name: 'Sonnentage'
+indicator_number: 12-13
+computation_units: 'Tage'
+source_active_1: true
+source_organisation_1: 'Matthias Mieder'
+source_url_1: 'https://www.url-zur-quelle.de'
+graph_title: 'Kurzbeschreibung des Indikators'
+graph_type: bar
+data_start_values:
+  - field: 'Gliederung'
+    value: 'M'
+  - field: 'Gliederung'
+    value: 'MM'
+publications:
+  - title: 'Indikator Sonnentage'
+    link: 'https://www.link-zur-langen-beschreibung.de'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2024-12-13
+reporting_status: complete
