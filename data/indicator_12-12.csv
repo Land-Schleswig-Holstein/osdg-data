@@ -1,0 +1,21 @@
+Year,Bezeichnung der Gliederung, z.B. Jahreszeiten,Value
+2001,Summe,4
+2002,Summe,9
+2003,Summe,15
+2004,Summe,16
+2001,Winter,1
+2002,Winter,2
+2003,Winter,3
+2004,Winter,4
+2001,Frühling,2
+2002,Frühling,3
+2003,Frühling,4
+2004,Frühling,5
+2001,Sommer,1
+2002,Sommer,3
+2003,Sommer,6
+2004,Sommer,4
+2001,Herbst,0
+2002,Herbst,1
+2003,Herbst,2
+2004,Herbst,3
