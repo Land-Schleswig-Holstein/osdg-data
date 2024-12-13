@@ -214,11 +214,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Summe",
-                "Winter",
-                "Frühling",
-                "Sommer",
-                "Herbst",
+                "'Summe'",
+                "'Winter'",
+                "'Frühling'",
+                "'Sommer'",
+                "'Herbst'",
                 ""
               ]
             },
