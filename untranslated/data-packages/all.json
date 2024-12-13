@@ -177,6 +177,61 @@
       "title": "1-4-1"
     },
     {
+      "path": "12-12/data.csv",
+      "name": "12-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "euc_jp",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Bezeichnung der Gliederung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Summe",
+                "Winter",
+                "Frühling",
+                "Sommer",
+                "Herbst",
+                ""
+              ]
+            }
+          },
+          {
+            "name": " z.B. Jahreszeiten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "4",
+                "9",
+                "15",
+                "16",
+                "1",
+                "2",
+                "3",
+                "5",
+                "6",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Indikatorbezeichnung, z.B. Sonnentage"
+    },
+    {
       "path": "7-1/data.csv",
       "name": "7-1",
       "profile": "tabular-data-resource",
