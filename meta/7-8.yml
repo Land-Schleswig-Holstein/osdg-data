@@ -1,0 +1,24 @@
+indicator_name: 'Indikator für Test'
+indicator_number: 7-8
+computation_units: 'Anzahl Sonnenstrahlen'
+source_active_1: true
+source_organisation_1: 'Land SH'
+source_url_1: 'https://www.landsh.de'
+graph_title: 'Dieser Wert ist Test.'
+graph_type: bar
+data_start_values:
+  - field: 'Jahreszeit'
+    value: 'Winter'
+  - field: 'Jahreszeit'
+    value: 'Frühling'
+  - field: 'Jahreszeit'
+    value: 'Sommer'
+  - field: 'Jahreszeit'
+    value: 'Herbst'
+publications:
+  - title: 'Indikator Indikator für Test'
+    link: 'https://www.landsh.de'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2024-12-17
+reporting_status: complete
