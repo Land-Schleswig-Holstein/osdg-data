@@ -1,0 +1,16 @@
+indicator_name: 'Bildung in SH'
+indicator_number: 4-1
+computation_units: 'Kinder/Jahr'
+source_active_1: true
+source_organisation_1: 'DESTATIS'
+source_url_1: 'www.destatis.de'
+graph_title: 'Der Indikator zeigt die Kinder pro Jahr, die auf einem m²-Fläche Platz finden'
+graph_type: line
+data_start_values:
+publications:
+  - title: 'Indikator Bildung in SH'
+    link: 'https://bne-in-sh.de'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2024-12-18
+reporting_status: complete
