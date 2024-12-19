@@ -417,40 +417,6 @@
       "title": "Indikator für Test"
     },
     {
-      "path": "9-1-/data.csv",
-      "name": "9-1-",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "euc_kr",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
-                "Gesamt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "9-1-"
-    },
-    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
