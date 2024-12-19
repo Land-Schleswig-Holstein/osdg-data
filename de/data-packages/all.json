@@ -76,43 +76,6 @@
       "title": "Straftaten"
     },
     {
-      "path": "9-2/data.csv",
-      "name": "9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
-                "Gesamt",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "TestIndikator"
-    },
-    {
       "path": "1-5-1/data.csv",
       "name": "1-5-1",
       "profile": "tabular-data-resource",
@@ -600,6 +563,30 @@
         ]
       },
       "title": "1-2-2"
+    },
+    {
+      "path": "9-2/data.csv",
+      "name": "9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "TestIndikator"
     }
   ]
 }
