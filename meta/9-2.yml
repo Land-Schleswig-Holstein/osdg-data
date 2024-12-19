@@ -1,0 +1,20 @@
+indicator_name: 'TestIndikator'
+indicator_number: 9-2
+computation_units: 'Personen'
+source_active_1: true
+source_organisation_1: 'Test-Quelle'
+source_url_1: 'https://www.schleswig-holstein.de/DE/landesportal/landesportal_node.html'
+graph_title: 'Dieser Indikator ist ein Test'
+graph_type: bar
+data_start_values:
+  - field: 'Geschlecht'
+    value: 'Frauen'
+  - field: 'Geschlecht'
+    value: 'Männer'
+publications:
+  - title: 'Indikator TestIndikator'
+    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/haeufigkeitszahl-straftaten'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2024-12-19
+reporting_status: complete
