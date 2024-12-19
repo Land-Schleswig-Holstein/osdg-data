@@ -13,4 +13,4 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #7-2,complete,,,,,Tsd. Personen,line
 #7-8,complete,,,,,Anzahl Sonnenstrahlen,bar
 #7-9,complete,,,,,Anzahl Sonnenstrahlen,bar
-#9-3,complete,,,,,,line
+#9-3,complete,,,,,Ausbaustand in %,line
