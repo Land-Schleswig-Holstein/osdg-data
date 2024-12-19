@@ -14,7 +14,7 @@ data_start_values:
 publications:
   - title: 'Indikator TestIndikator'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/haeufigkeitszahl-straftaten'
-    description: ' '
+    description: 'Testdescription'
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2024-12-19
 reporting_status: complete
