@@ -1,0 +1,43 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
+                "Zahlen des Breitbandatlasses des Bundes",
+                "Prognose des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
+                ""
+              ]
+            },
+            "title": "Institution"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-3",
+  "title": "9-3"
+}

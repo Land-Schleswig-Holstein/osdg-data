@@ -382,6 +382,40 @@
       "title": "Indikator für Nachhaltigkeit"
     },
     {
+      "path": "9-3/data.csv",
+      "name": "9-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
+                "Zahlen des Breitbandatlasses des Bundes",
+                "Prognose des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-3"
+    },
+    {
       "path": "7-8/data.csv",
       "name": "7-8",
       "profile": "tabular-data-resource",
