@@ -1,0 +1,16 @@
+indicator_name: 'Mein Indikator'
+indicator_number: 2-2-2
+computation_units: 'Menschen'
+source_active_1: true
+source_organisation_1: 'unbekannt'
+source_url_1: ''
+graph_title: 'Mein Indikator ist ein Test'
+graph_type: bar
+data_start_values:
+publications:
+  - title: 'Indikator Mein Indikator'
+    link: 'https://schleswig-holstein.de.7cx.de/'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-01-16
+reporting_status: complete
