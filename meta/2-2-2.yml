@@ -7,6 +7,10 @@ source_url_1: ''
 graph_title: 'Mein Indikator ist ein Test'
 graph_type: bar
 data_start_values:
+  - field: 'Gruppe'
+    value: 'Männer'
+  - field: 'Gruppe'
+    value: 'Frauen'
 publications:
   - title: 'Indikator Mein Indikator'
     link: 'https://schleswig-holstein.de.7cx.de/'
