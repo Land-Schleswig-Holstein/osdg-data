@@ -4,7 +4,7 @@ computation_units: 'Menschen'
 source_active_1: true
 source_organisation_1: 'unbekannt'
 source_url_1: ''
-graph_title: 'Mein Indikator ist ein Test'
+graph_title: 'Dieser Indikator ist ein Test.'
 graph_type: bar
 graph_stacked_disaggregation: : 'Gruppe'
 data_start_values:
@@ -17,5 +17,5 @@ publications:
     link: 'https://schleswig-holstein.de.7cx.de/'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
-    date: 2025-01-16
+    date: 2025-01-17
 reporting_status: complete
