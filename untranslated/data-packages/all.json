@@ -3,6 +3,75 @@
   "title": "All indicators",
   "resources": [
     {
+      "path": "12-12/data.csv",
+      "name": "12-12",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "euc_jp",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Bezeichnung der Gliederung - z.B. Jahreszeiten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Summe",
+                "Winter",
+                "Frühling",
+                "Sommer",
+                "Herbst",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Indikatorbezeichnung - z.B. Sonnentage"
+    },
+    {
+      "path": "1-2-2/data.csv",
+      "name": "1-2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Langzeitarbeitslose",
+                "Arbeitslose ohne Berufsausbildung",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1-2-2"
+    },
+    {
       "path": "1-2-1/data.csv",
       "name": "1-2-1",
       "profile": "tabular-data-resource",
@@ -36,72 +105,6 @@
         ]
       },
       "title": "1-2-1"
-    },
-    {
-      "path": "16-1-1/data.csv",
-      "name": "16-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bund",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Straftaten"
-    },
-    {
-      "path": "1-5-1/data.csv",
-      "name": "1-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Bevölkerung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung SH bis Regelaltersgrenze",
-                "SGB II-Quote der unter 15-jährigen",
-                "Bevölkerung SH U 15",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Leistungsberechtigte nach SGB II"
     },
     {
       "path": "7-9/data.csv",
@@ -139,8 +142,8 @@
       "title": "Indikator für Test"
     },
     {
-      "path": "1-3-1/data.csv",
-      "name": "1-3-1",
+      "path": "2-2-2/data.csv",
+      "name": "2-2-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -165,11 +168,78 @@
           },
           {
             "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Mein Indikator"
+    },
+    {
+      "path": "4-1/data.csv",
+      "name": "4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kinder",
+                "Kinder (bis 10 Jahre)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
             "type": "integer"
           }
         ]
       },
-      "title": "1-3-1"
+      "title": "Bildung in SH"
+    },
+    {
+      "path": "9-3/data.csv",
+      "name": "9-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Institution",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
+                "Zahlen des Breitbandatlasses des Bundes",
+                "Prognose des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Glasfaser"
     },
     {
       "path": "1-4-1/data.csv",
@@ -212,42 +282,6 @@
       "title": "1-4-1"
     },
     {
-      "path": "12-12/data.csv",
-      "name": "12-12",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "euc_jp",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Bezeichnung der Gliederung - z.B. Jahreszeiten",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Summe",
-                "Winter",
-                "Frühling",
-                "Sommer",
-                "Herbst",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Indikatorbezeichnung - z.B. Sonnentage"
-    },
-    {
       "path": "7-1/data.csv",
       "name": "7-1",
       "profile": "tabular-data-resource",
@@ -283,8 +317,8 @@
       "title": "Indikator für Nachhaltigkeit"
     },
     {
-      "path": "4-1/data.csv",
-      "name": "4-1",
+      "path": "16-1-1/data.csv",
+      "name": "16-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -301,23 +335,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Kinder",
-                "Kinder (bis 10 Jahre)",
+                "Bund",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
-      "title": "Bildung in SH"
+      "title": "Straftaten"
     },
     {
-      "path": "12-13/data.csv",
-      "name": "12-13",
+      "path": "1-3-1/data.csv",
+      "name": "1-3-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -330,12 +363,12 @@
             "type": "integer"
           },
           {
-            "name": "Gliederung",
+            "name": "Gruppe",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "MM",
+                "Männer",
+                "Frauen",
                 ""
               ]
             }
@@ -346,7 +379,41 @@
           }
         ]
       },
-      "title": "Sonnentage"
+      "title": "1-3-1"
+    },
+    {
+      "path": "1-5-1/data.csv",
+      "name": "1-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Bevölkerung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bevölkerung SH bis Regelaltersgrenze",
+                "SGB II-Quote der unter 15-jährigen",
+                "Bevölkerung SH U 15",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Leistungsberechtigte nach SGB II"
     },
     {
       "path": "7-2/data.csv",
@@ -380,40 +447,6 @@
         ]
       },
       "title": "Indikator für Nachhaltigkeit"
-    },
-    {
-      "path": "9-3/data.csv",
-      "name": "9-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
-                "Zahlen des Breitbandatlasses des Bundes",
-                "Prognose des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Glasfaser"
     },
     {
       "path": "7-8/data.csv",
@@ -451,6 +484,39 @@
       "title": "Indikator für Test"
     },
     {
+      "path": "12-13/data.csv",
+      "name": "12-13",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gliederung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "MM",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Sonnentage"
+    },
+    {
       "path": "1-1-1/data.csv",
       "name": "1-1-1",
       "profile": "tabular-data-resource",
@@ -485,72 +551,6 @@
         ]
       },
       "title": "1-1-1"
-    },
-    {
-      "path": "1-2-2/data.csv",
-      "name": "1-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Langzeitarbeitslose",
-                "Arbeitslose ohne Berufsausbildung",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "1-2-2"
-    },
-    {
-      "path": "2-2-2/data.csv",
-      "name": "2-2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Männer",
-                "Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "Mein Indikator"
     }
   ]
 }
