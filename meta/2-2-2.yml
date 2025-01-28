@@ -5,8 +5,8 @@ source_active_1: true
 source_organisation_1: 'unbekannt'
 source_url_1: ''
 graph_title: 'Dieser Indikator ist ein Test.'
-graph_type: bar
-graph_stacked_disaggregation: 'Gruppe'
+graph_type: line
+# graph_stacked_disaggregation: 'Gruppe'
 data_start_values:
   - field: 'Gruppe'
     value: 'Männer'
