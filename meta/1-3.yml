@@ -1,0 +1,9 @@
+indicator_name: 'SGB-II-Quote gesamt'
+indicator_number: 1-3
+computation_units: '%'
+graph_title: 'Der Indikator zeigt den Anteil der Leistungsberechtigten (LB) nach dem SGB II an der Bevölkerung von 0 Jahren bis zur Regelaltersgrenze in Prozent an.'
+graph_type: line
+data_start_values:
+  - field: 'Gruppe'
+    value: 'SGB-II-Leistungsbeziehende'
+reporting_status: complete
