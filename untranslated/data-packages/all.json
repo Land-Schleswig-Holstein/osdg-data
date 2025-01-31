@@ -103,40 +103,6 @@
       "title": "SGB-II-Quote der unter 15-Jährigen"
     },
     {
-      "path": "9-3/data.csv",
-      "name": "9-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
-                "Zahlen des Breitbandatlasses des Bundes",
-                "Prognose des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Glasfaser"
-    },
-    {
       "path": "1-4-1/data.csv",
       "name": "1-4-1",
       "profile": "tabular-data-resource",
@@ -464,6 +430,28 @@
         ]
       },
       "title": "Indikator für Nachhaltigkeit"
+    },
+    {
+      "path": "9-3/data.csv",
+      "name": "9-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Glasfaser"
     },
     {
       "path": "16-1-1/data.csv",

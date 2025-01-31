@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Institution",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
-                "Zahlen des Breitbandatlasses des Bundes",
-                "Prognose des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)",
-                ""
-              ]
-            },
-            "title": "Institution"
           },
           {
             "name": "Value",
