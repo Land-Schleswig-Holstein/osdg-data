@@ -9,7 +9,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-5-1,complete,,,,,Einwohner,line
 #12-12,complete,,True,,,Einheit - z.B. Tage,bar
 #12-13,complete,,True,,,Tage,bar
-#16-1-1,complete,,,,,Straftaten,line
+#16-1-1,complete,,True,,,Straftaten,line
 #2-2-2,complete,,,,,Menschen,line
 #4-1,complete,,,,,Kinder/Jahr,line
 #7-1,complete,,,,,Anzahl Sonnenstrahlen,bar
