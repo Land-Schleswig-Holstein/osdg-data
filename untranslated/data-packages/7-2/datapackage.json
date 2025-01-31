@@ -7,23 +7,12 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_kr",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
