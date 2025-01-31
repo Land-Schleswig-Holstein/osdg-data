@@ -278,28 +278,6 @@
       "title": "1-1-1"
     },
     {
-      "path": "7-8/data.csv",
-      "name": "7-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Indikator für Test"
-    },
-    {
       "path": "7-9/data.csv",
       "name": "7-9",
       "profile": "tabular-data-resource",
