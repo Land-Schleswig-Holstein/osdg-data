@@ -7,5 +7,4 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #1-4,complete,,,,,%,line
 #1-4-1,complete,,,,,,line
 #1-5-1,complete,,,,,Einwohner,line
-#7-9,complete,,True,,,Anzahl Sonnenstrahlen,bar
 #9-3,complete,,True,,,Ausbaustand in %,line
