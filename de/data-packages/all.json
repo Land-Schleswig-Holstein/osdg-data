@@ -77,44 +77,6 @@
       "title": "1-2-1"
     },
     {
-      "path": "7-9/data.csv",
-      "name": "7-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Jahreszeit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Winter",
-                "Frühling",
-                "Sommer",
-                "Herbst",
-                ""
-              ]
-            },
-            "title": "Jahreszeit"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Indikator für Test"
-    },
-    {
       "path": "1-4/data.csv",
       "name": "1-4",
       "profile": "tabular-data-resource",
@@ -447,6 +409,30 @@
         ]
       },
       "title": "Bildung in SH"
+    },
+    {
+      "path": "7-9/data.csv",
+      "name": "7-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Indikator für Test"
     },
     {
       "path": "12-12/data.csv",

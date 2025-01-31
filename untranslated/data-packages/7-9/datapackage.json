@@ -12,24 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Jahreszeit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Winter",
-                "Frühling",
-                "Sommer",
-                "Herbst",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
