@@ -7,30 +7,16 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "euc_jp",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Bezeichnung der Gliederung - z.B. Jahreszeiten",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Summe",
-                "Winter",
-                "Frühling",
-                "Sommer",
-                "Herbst",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
