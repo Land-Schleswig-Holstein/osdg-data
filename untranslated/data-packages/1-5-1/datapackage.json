@@ -12,23 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Bevölkerung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Bevölkerung SH bis Regelaltersgrenze",
-                "SGB II-Quote der unter 15-jährigen",
-                "Bevölkerung SH U 15",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
