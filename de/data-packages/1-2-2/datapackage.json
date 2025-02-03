@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Langzeitarbeitslose",
-                "Arbeitslose ohne Berufsausbildung",
-                ""
-              ]
-            },
-            "title": "Gruppe"
           },
           {
             "name": "Value",

@@ -12,20 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Männer",
-                "Frauen",
-                "Ausländer",
-                "Langzeitarbeitslose",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
