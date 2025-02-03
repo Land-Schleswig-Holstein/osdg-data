@@ -12,25 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "Alleinerziehende mit Kind(ern) SH",
-                "Alleinerziehende mit Kind(ern) DE",
-                "Paar mit drei oder mehr Kindern SH",
-                "Paar mit drei oder mehr Kindern DE",
-                "Migrationshintergrund SH",
-                "Migrationshintergrund DE",
-                "Ohne deutsche Staatsangehörigkeit SH",
-                "Ohne deutsche Staatsangehörigkeit DE",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
