@@ -12,21 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Männer",
-                "Frauen",
-                "Menschen mit Migrationshintergrund",
-                "Männer mit Migrationshintergrund",
-                "Frauen mit Migrationshintergrund",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
