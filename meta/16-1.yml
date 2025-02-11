@@ -1,0 +1,17 @@
+indicator_name: 'Häufigkeitszahl Straftaten'
+indicator_number: 16-1
+computation_units: 'Straftaten/100T Einwohner/innen'
+graph_title: 'Der Indikator gibt die Anzahl der Straftaten, die der Polizei angezeigt werden, je 100.000 Einwohnerinnen und Einwohner an.'
+graph_type: line
+data_start_values:
+  - field: 'Gebietskörperschaft'
+    value: 'Schleswig-Holstein'
+  - field: 'Gebietskörperschaft'
+    value: 'Bund'
+publications:
+  - title: 'Indikator Häufigkeitszahl Straftaten'
+    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/haeufigkeitszahl-straftaten'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-02-11
+reporting_status: complete
