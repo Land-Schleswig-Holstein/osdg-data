@@ -1,0 +1,7 @@
+indicator_name: 'Haushalte mit Glasfaseranschluss'
+indicator_number: 9-3
+computation_units: '% der Haushalte mit Glasfaseranschluss'
+graph_title: 'Zahl der Haushalte, für die ein Glasfaseranschluss (FTTB/FTTH) verfügbar ist'
+graph_type: line
+data_start_values:
+reporting_status: complete
