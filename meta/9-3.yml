@@ -1,0 +1,13 @@
+indicator_name: 'Haushalte mit Glasfaseranschluss'
+indicator_number: 9-3
+computation_units: '% der Haushalte mit Glasfaseranschluss'
+graph_title: 'Zahl der Haushalte, für die ein Glasfaseranschluss (FTTB/FTTH) verfügbar ist'
+graph_type: line
+data_start_values:
+  - field: 'Institution'
+    value: 'Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)'
+  - field: 'Institution'
+    value: 'Zahlen des Breitbandatlasses des Bundes'
+  - field: 'Institution'
+    value: 'Prognose des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)'
+reporting_status: complete
