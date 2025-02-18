@@ -10,7 +10,7 @@ data_start_values:
     value: 'Bund'
 publications:
   - title: 'Indikator Häufigkeitszahl Straftaten'
-    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/haeufigkeitszahl-straftaten'
+    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/161-haeufigkeitszahl-straftaten'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-02-11
