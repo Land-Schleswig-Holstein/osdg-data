@@ -15,6 +15,9 @@ graph_limits:
   - series: ''
     minimum: 5000
     maximum: 9000
+graph_target_lines:
+  - label_content: 'Ziel 2025'
+    value: 6500
 publications:
   - title: 'Indikator Häufigkeitszahl Straftaten'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/161-haeufigkeitszahl-straftaten'
