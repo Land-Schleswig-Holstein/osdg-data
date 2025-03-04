@@ -16,6 +16,6 @@ publications:
     date: 2025-02-11
 graph_limits:
   - unit:
-    minimum: 5000
-    maximum: 9000
+    minimum: 5,000
+    maximum: 9,000
 reporting_status: complete
