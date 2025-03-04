@@ -13,7 +13,7 @@ data_notice_heading: Wichtiger Hinweis!
 data_notice_text: Mit viel Suchen und Ausprobieren geht eine ganze Menge...
 graph_limits:
   - series: ''
-    minimum: 5000
+    minimum: 6000
     maximum: 9000
 graph_target_lines:
   - label_content: 'Ziel 2025'
