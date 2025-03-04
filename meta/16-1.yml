@@ -14,10 +14,4 @@ publications:
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-02-11
-graph_limits:
-  - series: ''
-    minimum: 5000
-    maximum: 9000
-graph_target_lines:
-  - value: 8750
 reporting_status: complete
