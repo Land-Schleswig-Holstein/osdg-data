@@ -15,7 +15,6 @@ publications:
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-02-11
 graph_limits:
-  - unit:
-    minimum: 5,000
-    maximum: 9,000
+    minimum: '5000'
+    maximum: '9000'
 reporting_status: complete
