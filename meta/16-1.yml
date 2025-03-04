@@ -13,9 +13,7 @@ data_notice_heading: Important Note
 data_notice_text: My note text
 graph_limits:
     minimum: 5000
-    maximum: 9000
- graph_target_lines:
-  - value: 8500   
+    maximum: 9000  
 publications:
   - title: 'Indikator Häufigkeitszahl Straftaten'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/161-haeufigkeitszahl-straftaten'
