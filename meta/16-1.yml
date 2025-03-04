@@ -20,7 +20,8 @@ graph_target_lines:
     value: 6500
 graph_series_breaks:
   - label_content: 'Zeitreihenunterbrechung'
-    value: 9
+    value: 8.5
+    value: 9.5
 publications:
   - title: 'Indikator Häufigkeitszahl Straftaten'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/161-haeufigkeitszahl-straftaten'
