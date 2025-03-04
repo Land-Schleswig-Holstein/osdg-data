@@ -15,7 +15,7 @@ publications:
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-02-11
 graph_limits:
-  - unit: Straftaten / 100T Einwohner/innen
+  - unit:
     minimum: 5000
     maximum: 9000
 reporting_status: complete
