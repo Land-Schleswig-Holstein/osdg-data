@@ -9,8 +9,8 @@ data_start_values:
   - field: 'Gebietskörperschaft'
     value: 'Bund'
 data_notice_class: success
-data_notice_heading: Important Note
-data_notice_text: My note text
+data_notice_heading: Wichtiger Hinweis!
+data_notice_text: Mit viel Suchen und Ausprobieren geht eine ganze Menge...
 graph_limits:
   - series: ''
     minimum: 5000
