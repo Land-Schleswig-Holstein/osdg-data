@@ -19,9 +19,8 @@ graph_target_lines:
   - label_content: 'Ziel 2025'
     value: 6500
 graph_series_breaks:
-  - value: 8.5
-graph_series_breaks:
-  - value: 9.5
+ - label_content: 'Zeitreihenunterbrechung'
+   value: 8.5
 publications:
   - title: 'Indikator Häufigkeitszahl Straftaten'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/161-haeufigkeitszahl-straftaten'
