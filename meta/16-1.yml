@@ -19,8 +19,7 @@ graph_target_lines:
   - label_content: 'Ziel 2025'
     value: 6500
 graph_series_breaks:
-  - label_content: 'Zeitreihenunterbrechung'
-    value: 8.5
+  - value: 8.5
 graph_series_breaks:
   - value: 9.5
 publications:
