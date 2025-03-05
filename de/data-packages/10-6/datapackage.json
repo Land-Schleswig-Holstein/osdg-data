@@ -7,42 +7,17 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "cp1252",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
-            "name": "Kreis/kreisfreie Stadt",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "NF",
-                "PI",
-                "OD",
-                "RZ",
-                "RD",
-                "OH",
-                "SE",
-                "SL-FL",
-                "IZ",
-                "HEI",
-                "PLÖ",
-                "NMS",
-                "KI",
-                "FL",
-                "Gesamt",
-                ""
-              ]
-            },
-            "title": "Kreis/kreisfreie Stadt"
-          },
-          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
