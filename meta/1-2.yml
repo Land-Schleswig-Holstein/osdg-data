@@ -1,0 +1,19 @@
+indicator_name: 'Mindestsicherungsquote'
+indicator_number: 1-2
+computation_units: 'Leistungsempfängerinnen und Leistungsempfänger'
+source_active_1: true
+source_organisation_1: 'Sozialberichterstattung'
+source_url_1: ''
+graph_title: 'Der Indikator zeigt den Anteil der Empfängerinnen und Empfänger sozialer Mindestsicherungsleistungen an.'
+graph_type: bar
+graph_stacked_disaggregation: 'Hilfearten'
+data_start_values:
+  - field: 'Hilfearten'
+    value: 'SGB XII - HLU'
+  - field: 'Hilfearten'
+    value: 'AsylbLG'
+  - field: 'Hilfearten'
+    value: 'SGB XII - Grundsicherung'
+  - field: 'Hilfearten'
+    value: 'SGB II'
+reporting_status: complete
