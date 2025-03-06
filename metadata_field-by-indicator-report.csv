@@ -1,4 +1,5 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
+#1-2,complete,,,,,,line
 #1-3,complete,,,,,%,line
 #1-4,complete,,,,,%,line
 #10-6,complete,,True,,,Anzahl,bar

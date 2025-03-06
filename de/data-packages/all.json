@@ -182,6 +182,44 @@
       "title": "Häufigkeitszahl Straftaten"
     },
     {
+      "path": "1-2/data.csv",
+      "name": "1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Hilfearten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SGB XII - HLU",
+                "AsylbLG",
+                "SGB XII - Grundsicherung",
+                "SGB II",
+                ""
+              ]
+            },
+            "title": "Hilfearten"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1-2"
+    },
+    {
       "path": "10-6/data.csv",
       "name": "10-6",
       "profile": "tabular-data-resource",
