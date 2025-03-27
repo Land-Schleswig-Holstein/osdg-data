@@ -1,4 +1,4 @@
-indicator_name: 'Mindestsicherungsquote'
+indicator_name: 'Mindestsicherung'
 indicator_number: 1-2
 computation_units: 'Leistungsempfängerinnen und Leistungsempfänger'
 source_active_1: true
