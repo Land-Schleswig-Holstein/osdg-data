@@ -178,24 +178,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Hilfearten",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SGB XII - HLU",
-                "AsylbLG",
-                "SGB XII - Grundsicherung",
-                "SGB II",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },
