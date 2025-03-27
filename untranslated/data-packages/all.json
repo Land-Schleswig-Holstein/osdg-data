@@ -37,39 +37,6 @@
       "title": "Haushalte mit Glasfaseranschluss"
     },
     {
-      "path": "16-3/data.csv",
-      "name": "16-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "mac-roman",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebietskörperschaft",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Deutschland",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Inhaftierungsquote"
-    },
-    {
       "path": "1-4/data.csv",
       "name": "1-4",
       "profile": "tabular-data-resource",
@@ -134,6 +101,28 @@
         ]
       },
       "title": "Kommunen mit Vertretungen für Kinder und Jugendliche"
+    },
+    {
+      "path": "16-3/data.csv",
+      "name": "16-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Inhaftierungsquote"
     },
     {
       "path": "1-3/data.csv",
