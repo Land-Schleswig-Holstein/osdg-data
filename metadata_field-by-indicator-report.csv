@@ -1,6 +1,5 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #1-2,complete,,True,,,Leistungsempfängerinnen und Leistungsempfänger,bar
-#1-4,complete,,True,,,%,line
 #10-6,complete,,True,,,Anzahl,bar
 #16-1,complete,,True,,,Straftaten / 100T Einwohner/innen,line
 #16-3,complete,,True,,,Inhaftierte / 100T Einwohner/innen,line
