@@ -12,17 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "SGB-II-Quote U 15",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SGB-II-Quote U 15",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
