@@ -12,19 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Gruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SGB-II-Leistungsbeziehende",
-                ""
-              ]
-            },
-            "title": "Gruppe"
           },
           {
             "name": "Value",
