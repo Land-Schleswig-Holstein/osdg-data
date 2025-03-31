@@ -1,0 +1,24 @@
+indicator_name: 'Betriebliche Beschäftigungsquote Menschen mit Behinderungen'
+indicator_number: 10-2
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Quellenbezeichnung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil schwerbehinderter Beschäftigter an allen Beschäftigten in Betrieben mit über 20 Mitarbeiterinnen und Mitarbeitern'
+graph_type: line
+data_start_values:
+  - field: 'Arbeitgeber (AG)'
+    value: 'Quote priv. AG'
+  - field: 'Arbeitgeber (AG)'
+    value: 'Quote öffentl. AG'
+  - field: 'Arbeitgeber (AG)'
+    value: 'gesamt'
+  - field: 'Arbeitgeber (AG)'
+    value: 'Zielwert'
+publications:
+  - title: 'Indikator Betriebliche Beschäftigungsquote Menschen mit Behinderungen'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
