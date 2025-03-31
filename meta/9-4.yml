@@ -1,0 +1,18 @@
+indicator_name: 'Private und öffentliche Ausgaben für Forschung und Entwicklung'
+indicator_number: 9-4
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Statistikamt Nord'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Private und öffentliche Ausgaben für Forschung und Entwicklung im Verhältnis zum Bruttoinlandsprodukt'
+graph_type: line
+data_start_values:
+  - field: 'Ausgaben für Forschung und Entwicklung'
+    value: 'FuE in Relation zum BIP'
+publications:
+  - title: 'Indikator Private und öffentliche Ausgaben für Forschung und Entwicklung'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
