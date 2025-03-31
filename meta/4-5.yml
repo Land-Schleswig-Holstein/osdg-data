@@ -1,0 +1,28 @@
+indicator_name: 'Studierende mit ausländischer Staatsangehörigkeit'
+indicator_number: 4-5
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Quellenbezeichnung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil der Studierenden mit ausländischer Staatsangehörigkeit an allen Studierenden – nach Kontinenten'
+graph_type: bar
+data_start_values:
+  - field: 'Kontinente'
+    value: 'Europa ohne DE'
+  - field: 'Kontinente'
+    value: 'Asien'
+  - field: 'Kontinente'
+    value: 'Afrika'
+  - field: 'Kontinente'
+    value: 'Amerika'
+  - field: 'Kontinente'
+    value: 'Austr./Ozean.'
+  - field: 'Kontinente'
+    value: 'sonst./unbek.'
+publications:
+  - title: 'Indikator Studierende mit ausländischer Staatsangehörigkeit'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
