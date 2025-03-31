@@ -1,0 +1,18 @@
+indicator_name: 'Erreichbarkeit von Zentren mit dem ÖPNV'
+indicator_number: 11-1
+computation_units: 'Minuten'
+source_active_1: true
+source_organisation_1: 'Bundesinstitut für Bau-, Stadt- und Raumforschung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Durchschnittliche Reisezeit mit öffentlichen Verkehrsmitteln zum nächsten Mittel- oder Oberzentrum'
+graph_type: line
+data_start_values:
+  - field: 'Reisezeit'
+    value: 'Durchschnittliche Reisezeit'
+publications:
+  - title: 'Indikator Erreichbarkeit von Zentren mit dem ÖPNV'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
