@@ -194,6 +194,46 @@
       "title": "Erwerbstätigenquote"
     },
     {
+      "path": "10-5/data.csv",
+      "name": "10-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Erwerbstätigenquote",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre insgesamt)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre m)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre w)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre insgesamt)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre m)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre w)",
+                ""
+              ]
+            },
+            "title": "Erwerbstätigenquote"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "10-5"
+    },
+    {
       "path": "4-8/data.csv",
       "name": "4-8",
       "profile": "tabular-data-resource",
