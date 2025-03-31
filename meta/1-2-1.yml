@@ -1,0 +1,28 @@
+indicator_name: 'Mindestsicherungsquote'
+indicator_number: 1-2-1
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Sozialberichterstattung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil der Empfängerinnen und Empfänger sozialer Mindestsicherungsleistungen an der Gesamtbevölkerung Schleswig-Holsteins'
+graph_type: line
+data_start_values:
+  - field: 'Geschlecht'
+    value: 'Schleswig-Holstein insgesamt'
+  - field: 'Geschlecht'
+    value: 'Deutschland insgesamt'
+  - field: 'Geschlecht'
+    value: 'Schleswig-Holstein Männer'
+  - field: 'Geschlecht'
+    value: 'Deutschland Männer'
+  - field: 'Geschlecht'
+    value: 'Schleswig-Holstein Frauen'
+  - field: 'Geschlecht'
+    value: 'Deutschland Frauen'
+publications:
+  - title: 'Indikator Mindestsicherungsquote'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
