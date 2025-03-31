@@ -14,7 +14,7 @@ data_start_values:
   - field: 'Arbeitgeber (AG)'
     value: 'gesamt'
 graph_target_lines:
-  - label_content: 'Test 2030'
+  - label_content: 'Ziel 2030'
     value: 5.0
 publications:
   - title: 'Indikator Betriebliche Beschäftigungsquote Menschen mit Behinderungen'
