@@ -1,0 +1,22 @@
+indicator_name: 'Bildungsstand der Bevölkerung - Anteil der 25- bis 34-Jährigen, die mindestens über einen Abschluss des Sekundarbereichs II verfügen (Stufen 3-8 der Internationalen Standardklassifikation des Bildungswesens, ISCED'
+indicator_number: 4-8
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Quelle'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil der 25- bis 34-Jährigen an, die mindestens über einen Abschluss des Sekundarbereichs II verfügen'
+graph_type: bar
+data_start_values:
+  - field: 'Raum'
+    value: 'Deutschland'
+  - field: 'Raum'
+    value: 'Schleswig-Holstein'
+  - field: 'Raum'
+    value: 'OECD-Durchschnitt'
+publications:
+  - title: 'Indikator Bildungsstand der Bevölkerung - Anteil der 25- bis 34-Jährigen, die mindestens über einen Abschluss des Sekundarbereichs II verfügen (Stufen 3-8 der Internationalen Standardklassifikation des Bildungswesens, ISCED'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
