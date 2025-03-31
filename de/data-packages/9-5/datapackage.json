@@ -1,0 +1,42 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Patentanmeldungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Patentanmeldungen (Anzahl)",
+                "Patentanmeldungen (Anzahl/100.000 Einwohner)",
+                ""
+              ]
+            },
+            "title": "Patentanmeldungen"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "9-5",
+  "title": "9-5"
+}

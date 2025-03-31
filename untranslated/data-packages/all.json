@@ -36,6 +36,39 @@
       "title": "Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA"
     },
     {
+      "path": "9-5/data.csv",
+      "name": "9-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Patentanmeldungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Patentanmeldungen (Anzahl)",
+                "Patentanmeldungen (Anzahl/100.000 Einwohner)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "9-5"
+    },
+    {
       "path": "1-4/data.csv",
       "name": "1-4",
       "profile": "tabular-data-resource",
