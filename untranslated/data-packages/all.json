@@ -179,6 +179,38 @@
       "title": "Erwerbstätigenquote"
     },
     {
+      "path": "10-4/data.csv",
+      "name": "10-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "10-4"
+    },
+    {
       "path": "10-5/data.csv",
       "name": "10-5",
       "profile": "tabular-data-resource",
