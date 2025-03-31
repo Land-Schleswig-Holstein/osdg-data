@@ -1,0 +1,20 @@
+indicator_name: 'Verdienstabstand zwischen Frauen und Männern'
+indicator_number: 5-1-2
+computation_units: 'Euro'
+source_active_1: true
+source_organisation_1: 'Quellenbezeichnung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Verdienst von Frauen und Männern mit vergleichbaren Qualifikationen, Tätigkeiten und Erwerbsbiografien – bereinigter Verdienstabstand'
+graph_type: line
+data_start_values:
+  - field: 'Raum'
+    value: 'Deutschland - unbereinigt'
+  - field: 'Raum'
+    value: 'Deutschland - bereinigt'
+publications:
+  - title: 'Indikator Verdienstabstand zwischen Frauen und Männern'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
