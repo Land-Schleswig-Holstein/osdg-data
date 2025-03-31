@@ -1,0 +1,20 @@
+indicator_name: 'Anstieg Siedlungs- und Verkehrsflächen'
+indicator_number: 15-1
+computation_units: 'Veränderung (ha/d)'
+source_active_1: true
+source_organisation_1: 'Statistikamt Nord'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anstieg der Siedlungs- und Verkehrsflächen in Hektar pro Tag – gleitender Mittelwert über vier Jahre'
+graph_type: bar
+data_start_values:
+  - field: 'Raum'
+    value: 'Schleswig-Holstein'
+  - field: 'Raum'
+    value: 'Deutschland'
+publications:
+  - title: 'Indikator Anstieg Siedlungs- und Verkehrsflächen'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
