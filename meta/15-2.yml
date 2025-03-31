@@ -1,0 +1,18 @@
+indicator_name: 'Freiraumverlust'
+indicator_number: 15-2
+computation_units: 'Quadratmeter je Einwohnerin und Einwohner'
+source_active_1: true
+source_organisation_1: 'Quellenbezeichnung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Veränderung der Freiraumfläche in Quadratmetern je Einwohnerin und Einwohner – gleitender Mittelwert über vier Jahre'
+graph_type: bar
+data_start_values:
+  - field: 'Gruppe'
+    value: 'Freiraumverlust (m²/Einwohner)'
+publications:
+  - title: 'Indikator Freiraumverlust'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
