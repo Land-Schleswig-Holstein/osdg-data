@@ -1,6 +1,6 @@
 Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geographical coverage,Units,Graph type
 #10-2,complete,,,,,Prozent,line
-#10-4,complete,,,,,,line
+#10-4,complete,,,,,Gini-Koeffizient,bar
 #10-5,complete,,,,,Prozent,line
 #16-3,complete,,,,,Gefangene je 100T Einwohnerinnen und Einwohner,line
 #3-1,complete,,,,,je 1.000 Lebendgeborene,line
