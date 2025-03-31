@@ -448,6 +448,44 @@
       "title": "SGB-II-Quote gesamt"
     },
     {
+      "path": "4-5/data.csv",
+      "name": "4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Kontinente",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inländer",
+                "Europa ohne DE",
+                "Asien",
+                "Afrika",
+                "Amerika",
+                "Austr./Ozean.",
+                "sonst./unbek.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "4-5"
+    },
+    {
       "path": "16-3/data.csv",
       "name": "16-3",
       "profile": "tabular-data-resource",
