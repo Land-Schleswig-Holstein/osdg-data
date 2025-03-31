@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Arbeitgeber (AG)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quote priv. AG",
+                "Quote öffentl. AG",
+                "gesamt",
+                "Zielwert",
+                "schwerbehinderte Beschäftigte",
+                ""
+              ]
+            },
+            "title": "Arbeitgeber (AG)"
           },
           {
             "name": "Value",
@@ -25,6 +40,6 @@
     }
   ],
   "profile": "data-package",
-  "name": "1-2",
-  "title": "Mindestsicherung"
+  "name": "10-2",
+  "title": "10-2"
 }

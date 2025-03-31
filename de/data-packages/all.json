@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "1-2/data.csv",
-      "name": "1-2",
+      "path": "10-2/data.csv",
+      "name": "10-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -14,8 +14,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Arbeitgeber (AG)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quote priv. AG",
+                "Quote öffentl. AG",
+                "gesamt",
+                "Zielwert",
+                "schwerbehinderte Beschäftigte",
+                ""
+              ]
+            },
+            "title": "Arbeitgeber (AG)"
           },
           {
             "name": "Value",
@@ -24,7 +39,7 @@
           }
         ]
       },
-      "title": "Mindestsicherung"
+      "title": "10-2"
     }
   ]
 }
