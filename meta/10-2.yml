@@ -13,10 +13,8 @@ data_start_values:
     value: 'Quote öffentl. AG'
   - field: 'Arbeitgeber (AG)'
     value: 'gesamt'
-  - field: 'Arbeitgeber (AG)'
-    value: 'Zielwert'
 graph_target_lines:
-  - label_content: Ziel 2030
+  - label_content: Test 2030
     value: 5.0
 publications:
   - title: 'Indikator Betriebliche Beschäftigungsquote Menschen mit Behinderungen'
