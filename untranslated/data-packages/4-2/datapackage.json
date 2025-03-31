@@ -1,0 +1,47 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Art des Abschlusses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ohne ESA (ohne Migrationshintergrund)",
+                "ohne ESA (mit Migrationshintergrund)",
+                "ESA (ohne Migrationshintergrund)",
+                "ESA (mit Migrationshintergrund)",
+                "MSA (ohne Migrationshintergrund)",
+                "MSA (mit Migrationshintergrund)",
+                "Fachhochschulreife (ohne Migrationshintergrund)",
+                "Fachhochschulreife (mit Migrationshintergrund)",
+                "Hochschulreife (ohne Migrationshintergrund)",
+                "Hochschulreife (mit Migrationshintergrund)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-2",
+  "title": "4-2"
+}
