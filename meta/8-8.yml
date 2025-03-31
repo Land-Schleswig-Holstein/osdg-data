@@ -1,0 +1,24 @@
+indicator_name: 'Erwerbstätigenquote'
+indicator_number: 8-8
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Quellenbezeichnung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil der Erwerbstätigen im Alter zwischen 20 und 64 Jahren differenziert nach Alter (60 – 64) und Geschlecht'
+graph_type: line
+data_start_values:
+  - field: 'Erwerbstätigenquote'
+    value: 'SH - Anteil Alter 20-64 Jahre insgesamt'
+  - field: 'Erwerbstätigenquote'
+    value: 'Bund - Anteil Alter 20-64 Jahre insgesamt'
+  - field: 'Erwerbstätigenquote'
+    value: 'SH -  Anteil Alter 60-64 Jahre insgesamt'
+  - field: 'Erwerbstätigenquote'
+    value: 'Bund - Anteil Alter 60-64 Jahre insgesamt'
+publications:
+  - title: 'Indikator Erwerbstätigenquote'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
