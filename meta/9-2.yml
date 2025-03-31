@@ -1,0 +1,18 @@
+indicator_name: 'Mobilfunkabdeckung'
+indicator_number: 9-2
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Quellenbezeichnung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil der Haushalte in Schleswig-Holstein, die über ein LTE-Mobilfunknetz verfügen'
+graph_type: line
+data_start_values:
+  - field: 'Ausbaustand Mobilfunk LTE'
+    value: 'Ausbaustand Mobilfunk LTE'
+publications:
+  - title: 'Indikator Mobilfunkabdeckung'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
