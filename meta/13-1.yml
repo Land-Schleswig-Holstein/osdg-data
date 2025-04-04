@@ -1,0 +1,22 @@
+indicator_name: 'Treibhausgasemissionen'
+indicator_number: 13-1
+computation_units: 'Mio. t CO2-Äquivalente'
+graph_title: 'Minderung der Emissionen der Treibhausgasemissionen in CO2-Äquivalenten und nach Sektoren'
+graph_type: bar
+graph_stacked_disaggregation: 'Sektor'
+data_start_values:
+  - field: 'Sektor'
+    value: 'Energiewirtschaft'
+  - field: 'Sektor'
+    value: 'Industrie'
+  - field: 'Sektor'
+    value: 'Gewerbe Handel Dienstleistungen'
+  - field: 'Sektor'
+    value: 'Verkehr'
+  - field: 'Sektor'
+    value: 'Haushalte'
+  - field: 'Sektor'
+    value: 'Abfallwirtschaft'
+  - field: 'Sektor'
+    value: 'Landwirtschaft'
+reporting_status: complete
