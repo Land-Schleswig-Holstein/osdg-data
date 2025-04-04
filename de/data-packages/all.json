@@ -110,6 +110,46 @@
       "title": "SGB-II-Quote der unter 15-Jährigen"
     },
     {
+      "path": "12-1/data.csv",
+      "name": "12-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Aufkommen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Siedlungsabfälle (SH)",
+                "Haus- und Sperrmüll (SH)",
+                "Leichtverpackungen (SH)",
+                "Siedlungsabfälle (Deutschland)",
+                "Haus- und Sperrmüll (Deutschland)",
+                "Leichtverpackungen (Deutschland)",
+                ""
+              ]
+            },
+            "title": "Aufkommen"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "12-1"
+    },
+    {
       "path": "7-1/data.csv",
       "name": "7-1",
       "profile": "tabular-data-resource",
