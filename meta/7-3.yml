@@ -1,0 +1,8 @@
+indicator_name: 'Energieverbrauch nach Sektoren'
+indicator_number: 7-3
+computation_units: 'GWh'
+graph_title: 'Endenergieverbrauch nach Verbrauchssektoren ­– Verkehr, Industrie, private Haushalte, Gewerbe / Handel / Dienstleistungen'
+graph_type: bar
+graph_stacked_disaggregation: 'Verbrauchssektor'
+data_start_values:
+reporting_status: complete
