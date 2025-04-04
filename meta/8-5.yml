@@ -1,0 +1,9 @@
+indicator_name: 'Materialverbrauch'
+indicator_number: 8-5
+computation_units: 'Materialverbrauch je Einwohnerin und Einwohner [t/E]'
+graph_title: 'Verbrauchte Menge Rohstoffe, Hilfsstoffe und Betriebsstoffe pro Einwohnerin und Einwohner im Jahresmittel'
+graph_type: line
+data_start_values:
+  - field: 'Materialverbrauch'
+    value: 'Materialverbrauch'
+reporting_status: complete
