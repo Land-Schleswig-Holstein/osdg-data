@@ -1,0 +1,9 @@
+indicator_name: 'Rohstoffproduktivität'
+indicator_number: 8-6
+computation_units: 'BIP/DMIa'
+graph_title: 'Wirtschaftliche Leistung in Euro pro Tonne Materialeinsatz'
+graph_type: bar
+data_start_values:
+  - field: 'Rohstoffproduktivität'
+    value: 'Rohstoffproduktivität'
+reporting_status: complete
