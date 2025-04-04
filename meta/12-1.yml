@@ -1,0 +1,13 @@
+indicator_name: 'Siedlungsabfallaufkommen'
+indicator_number: 12-1
+computation_units: 'kg/Einwohner'
+graph_title: 'Aufkommen von ausgewählten Siedlungsabfällen, Haus- und Sperrmüll sowie Leichtverpackungsabfällen bezogen auf Einwohnerinnen und Einwohner'
+graph_type: line
+data_start_values:
+  - field: 'Aufkommen'
+    value: 'Siedlungsabfälle (SH)'
+  - field: 'Aufkommen'
+    value: 'Haus- und Sperrmüll (SH)'
+  - field: 'Aufkommen'
+    value: 'Leichtverpackungen (SH)'
+reporting_status: complete
