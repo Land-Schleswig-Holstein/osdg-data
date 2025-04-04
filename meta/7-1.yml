@@ -1,0 +1,11 @@
+indicator_name: 'Treibhausgas- und Energieproduktivität'
+indicator_number: 7-1
+computation_units: 'Index'
+graph_title: 'Entwicklung der Treibhausgas- und Endenergieproduktivität auf Basis des preisbereinigten Bruttoinlandsprodukts'
+graph_type: line
+data_start_values:
+  - field: 'Produktivitätsindex'
+    value: 'THG'
+  - field: 'Produktivitätsindex'
+    value: 'EEV'
+reporting_status: complete
