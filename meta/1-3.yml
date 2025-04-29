@@ -1,0 +1,18 @@
+indicator_name: 'SGB-II-Quote gesamt'
+indicator_number: 1-3
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Statistik der Bundesagentur für Arbeit'
+source_url_1: 'https://statistikportal.de/de/sbe/ergebnisse/mindestsicherung/sgb-ii'
+graph_title: 'Anteil der Leistungsberechtigten gemäß Sozialgesetzbuch II an der Bevölkerung von null Jahren bis zur Regelaltersgrenze'
+graph_type: line
+data_start_values:
+  - field: 'SGB-II-Leistungsberechtigte'
+    value: 'SGB-II-Leistungsberechtigte'
+publications:
+  - title: 'Indikator SGB-II-Quote gesamt'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
