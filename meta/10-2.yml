@@ -4,6 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Quellenbezeichnung'
 source_url_1: 'Link zur Quelle'
+source_url_text_1: 'beliebiger Text'
 graph_title: 'Anteil schwerbehinderter Beschäftigter an allen Beschäftigten in Betrieben mit über 20 Mitarbeiterinnen und Mitarbeitern'
 graph_type: line
 data_start_values:
@@ -13,6 +14,7 @@ data_start_values:
     value: 'Quote öffentl. AG'
   - field: 'Arbeitgeber (AG)'
     value: 'gesamt'
+data_footnote: ergänzende Fußnote
 graph_target_lines:
   - label_content: 'Ziel 2030'
     value: 5.0
