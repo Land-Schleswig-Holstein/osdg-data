@@ -8,11 +8,9 @@ source_url_text_1: 'beliebiger Text'
 graph_title: 'Anteil schwerbehinderter Beschäftigter an allen Beschäftigten in Betrieben mit über 20 Mitarbeiterinnen und Mitarbeitern'
 graph_type: line
 footer_fields:
-  - unit: percentage
-    label: My field for percentages
+  - label: My field for percentages
     value: My field content
-  - unit: total
-    label: My field for totals
+  - label: My field for totals
     value: My other field content
 data_start_values:
   - field: 'Arbeitgeber (AG)'
