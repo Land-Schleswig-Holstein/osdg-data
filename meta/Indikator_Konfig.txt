@@ -1,3 +1,5 @@
+Entnommen aus Dokumentation (https://open-sdg.readthedocs.io/en/latest/indicator-configuration/)
+
 # Anzeigetext für Link zur Quelle:   
   source_url_text_1: 'beliebiger Text'
 
@@ -13,3 +15,21 @@
 
 # Fussnote für Daten
   data_footnote: My additional information
+
+# Begrenzung y-Achse
+  graph_limits
+    - unit: tons
+      minimum: 2
+      maximum: 20
+  - unit: passengers
+      minimum: 200
+      maximum: 2000
+
+# Unterbrechungen in der Zeitreihe 
+(To show a series break midway between 2013 and 2014 on a graph which has years 2005 - 2018, the value would be 2013.5-2005 = 8.5)
+  graph_series_breaks
+     - unit: My computation units name
+      value: 8.5
+  graph_series_breaks:
+      - series: My series name
+      value: 8.5¶
