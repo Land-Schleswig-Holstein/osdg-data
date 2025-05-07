@@ -1,28 +1,63 @@
 Year,Raum/Geschlecht,Value
-2005,SH_m√§nnlich,330.3
-2006,SH_m√§nnlich,319.4
-2007,SH_m√§nnlich,312.3
-2008,SH_m√§nnlich,309.2
-2009,SH_m√§nnlich,311.3
-2010,SH_m√§nnlich,305.3
-2011,SH_m√§nnlich,301
-2012,SH_m√§nnlich,287.4
-2013,SH_m√§nnlich,302.3
-2014,SH_m√§nnlich,281.7
-2015,SH_m√§nnlich,298.4
-2016,SH_m√§nnlich,292.3
-2005, DE_m√§nnlich,329.4
-2006, DE_m√§nnlich,318.4
-2007, DE_m√§nnlich,312.9
-2008, DE_m√§nnlich,307.8
-2009, DE_m√§nnlich,304.8
-2010, DE_m√§nnlich,300.6
-2011, DE_m√§nnlich,298.7
-2012, DE_m√§nnlich,292.3
-2013, DE_m√§nnlich,291.9
-2014, DE_m√§nnlich,281.2
-2015, DE_m√§nnlich,288.1
-2016, DE_m√§nnlich,283.8
+1998,SH_m‰nnlich,389.4
+1999,SH_m‰nnlich,385.6
+2000,SH_m‰nnlich,380.5
+2001,SH_m‰nnlich,364.2
+2002,SH_m‰nnlich,355.9
+2003,SH_m‰nnlich,348.3
+2004,SH_m‰nnlich,343.6
+2005,SH_m‰nnlich,330.3
+2006,SH_m‰nnlich,319.4
+2007,SH_m‰nnlich,312.3
+2008,SH_m‰nnlich,309.2
+2009,SH_m‰nnlich,311.3
+2010,SH_m‰nnlich,305.3
+2011,SH_m‰nnlich,301
+2012,SH_m‰nnlich,287.4
+2013,SH_m‰nnlich,302.3
+2014,SH_m‰nnlich,281.7
+2015,SH_m‰nnlich,298.4
+2016,SH_m‰nnlich,292.3
+2017,SH_m‰nnlich,281.1
+2018,SH_m‰nnlich,293.1
+2019,SH_m‰nnlich,286.8
+2020,SH_m‰nnlich,279
+2021,SH_m‰nnlich,278.2
+2022,SH_m‰nnlich,293.3
+2023,SH_m‰nnlich,273.9
+1998,DE_m‰nnlich,404.3
+1999,DE_m‰nnlich,391.7
+2000,DE_m‰nnlich,381.8
+2001,DE_m‰nnlich,366.5
+2002,DE_m‰nnlich,360
+2003,DE_m‰nnlich,355.5
+2004,DE_m‰nnlich,337.3
+2005,DE_m‰nnlich,329.4
+2006,DE_m‰nnlich,318.4
+2007,DE_m‰nnlich,312.9
+2008,DE_m‰nnlich,307.8
+2009,DE_m‰nnlich,304.8
+2010,DE_m‰nnlich,300.6
+2011,DE_m‰nnlich,298.7
+2012,DE_m‰nnlich,292.3
+2013,DE_m‰nnlich,291.9
+2014,DE_m‰nnlich,281.2
+2015,DE_m‰nnlich,288.1
+2016,DE_m‰nnlich,283.8
+2017,DE_m‰nnlich,276
+2018,DE_m‰nnlich,279.3
+2019,DE_m‰nnlich,271
+2020,DE_m‰nnlich,276.3
+2021,DE_m‰nnlich,289.9
+2022,DE_m‰nnlich,283.7
+2023,DE_m‰nnlich,272.7
+1998,SH_weiblich,197.1
+1999,SH_weiblich,196.9
+2000,SH_weiblich,195.2
+2001,SH_weiblich,190.1
+2002,SH_weiblich,180.4
+2003,SH_weiblich,184.3
+2004,SH_weiblich,182.9
 2005,SH_weiblich,173.9
 2006,SH_weiblich,168.6
 2007,SH_weiblich,163.2
@@ -35,15 +70,36 @@ Year,Raum/Geschlecht,Value
 2014,SH_weiblich,164.7
 2015,SH_weiblich,161.3
 2016,SH_weiblich,164.4
-2005, DE_weiblich,164.7
-2006, DE_weiblich,159.2
-2007, DE_weiblich,157.9
-2008, DE_weiblich,158.8
-2009, DE_weiblich,157.4
-2010, DE_weiblich,155.4
-2011, DE_weiblich,157.1
-2012, DE_weiblich,152.9
-2013, DE_weiblich,155.8
-2014, DE_weiblich,149.1
-2015, DE_weiblich,153
-2016, DE_weiblich,151.6
+2017,SH_weiblich,165.5
+2018,SH_weiblich,166.9
+2019,SH_weiblich,159.3
+2020,SH_weiblich,154.1
+2021,SH_weiblich,164.6
+2022,SH_weiblich,163.7
+2023,SH_weiblich,162.5
+1998,DE_weiblich,193.3
+1999,DE_weiblich,188.8
+2000,DE_weiblich,184.3
+2001,DE_weiblich,179
+2002,DE_weiblich,177
+2003,DE_weiblich,173.2
+2004,DE_weiblich,166.4
+2005,DE_weiblich,164.7
+2006,DE_weiblich,159.2
+2007,DE_weiblich,157.9
+2008,DE_weiblich,158.8
+2009,DE_weiblich,157.4
+2010,DE_weiblich,155.4
+2011,DE_weiblich,157.1
+2012,DE_weiblich,152.9
+2013,DE_weiblich,155.8
+2014,DE_weiblich,149.1
+2015,DE_weiblich,153
+2016,DE_weiblich,151.6
+2017,DE_weiblich,148.7
+2018,DE_weiblich,151.1
+2019,DE_weiblich,145.9
+2020,DE_weiblich,145.4
+2021,DE_weiblich,151.8
+2022,DE_weiblich,152.7
+2023,DE_weiblich,147.5
