@@ -1,0 +1,20 @@
+indicator_name: 'Ganztagsbetreuung für Kinder'
+indicator_number: 4-1
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Statistik über Kinder und tätige Personen in Kindertageseinrichtungen'
+source_url_1: '(Sonderauswertung Statistikamt Nord)'
+graph_title: 'Anteil der Kinder in Ganztagsbetreuung von mehr als sieben Stunden an allen Kindern der gleichen Altersgruppe – ohne Tagespflege'
+graph_type: line
+data_start_values:
+  - field: 'Altersgruppe'
+    value: 'Kita 0 - 2 Jahre'
+  - field: 'Altersgruppe'
+    value: 'Kita 3 - 5 Jahre'
+publications:
+  - title: 'Indikator Ganztagsbetreuung für Kinder'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
