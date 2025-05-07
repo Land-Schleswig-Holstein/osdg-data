@@ -2,8 +2,8 @@ indicator_name: 'Verdienstabstand zwischen Frauen und Männern'
 indicator_number: 5-1-2
 computation_units: 'Euro'
 source_active_1: true
-source_organisation_1: 'Quellenbezeichnung'
-source_url_1: 'Link zur Quelle'
+source_organisation_1: '2006 bis 2018: Ergebnisse aus der Verdienststrukturerhebung. Seit 2022: Ergebnisse aus der Verdiensterhebung.'
+source_url_1: '(Sonderauswertung Statistikamt Nord) und https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-GenderPayGap/_inhalt.html#sprg633276'
 graph_title: 'Verdienst von Frauen und Männern mit vergleichbaren Qualifikationen, Tätigkeiten und Erwerbsbiografien – bereinigter Verdienstabstand'
 graph_type: line
 data_start_values:
