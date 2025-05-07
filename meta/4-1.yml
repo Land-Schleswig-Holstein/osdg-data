@@ -3,7 +3,7 @@ indicator_number: 4-1
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Statistik über Kinder und tätige Personen in Kindertageseinrichtungen'
-source_url_1: '(Sonderauswertung Statistikamt Nord)'
+source_url_1: 'Sonderauswertung Statistikamt Nord'
 graph_title: 'Anteil der Kinder in Ganztagsbetreuung von mehr als sieben Stunden an allen Kindern der gleichen Altersgruppe – ohne Tagespflege'
 graph_type: line
 data_start_values:
