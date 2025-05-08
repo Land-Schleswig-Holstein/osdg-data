@@ -1,5 +1,4 @@
 Disaggregation,Number of indicators,Number of values
-Altersgruppe,1,4
 Arbeitgeber (AG),1,3
 Art der Hilfe,1,5
 Art des Abschlusses,1,10
@@ -8,15 +7,14 @@ Ausbaustand Mobilfunk LTE,1,1
 Ausgaben für Forschung und Entwicklung,1,1
 Erwerbstätigenquote,2,18
 Gebiet,1,2
-Geschlecht,2,9
+Geschlecht,1,6
 Gruppe,1,1
 Kontinente,1,7
 Leistungsbeziehende,1,1
 Materialverbrauch,1,1
 Patentanmeldungen,1,2
 Produktivitätsindex,1,2
-Raum,7,8
-Raum/Geschlecht,1,4
+Raum,6,6
 Region,1,2
 Reisezeit,1,1
 Rohstoffproduktivität,1,1
