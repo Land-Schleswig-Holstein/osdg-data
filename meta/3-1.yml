@@ -3,7 +3,7 @@ indicator_number: 3-1
 computation_units: 'je 1.000 Lebendgeborene'
 source_active_1: true
 source_organisation_1: 'Gesundheitsberichterstattung (GBE) der Länder'
-source_url_1: 'https://www.gbe-bund.de/gbe/!isgbe.indikatoren_set_page?p_uid=gast&p_aid=20602054&p_sprache=D&p_help=2&p_indnr=633&p_ansnr=46818223&p_version=3&p_thema_id=10113&p_thema_id2=3600&p_thema_id3=3800&p_thema_id4=4000&D.000=3745&D.002=3118&D.003=1000004&D.004=1000006&D.946=1000464&D.100=10102'
+# source_url_1: 'https://www.gbe-bund.de/gbe/!isgbe.indikatoren_set_page?p_uid=gast&p_aid=20602054&p_sprache=D&p_help=2&p_indnr=633&p_ansnr=46818223&p_version=3&p_thema_id=10113&p_thema_id2=3600&p_thema_id3=3800&p_thema_id4=4000&D.000=3745&D.002=3118&D.003=1000004&D.004=1000006&D.946=1000464&D.100=10102'
 graph_title: 'Sterberate innerhalb der ersten 28 Lebenstage bezogen auf 1.000 lebendgeborene Kinder'
 graph_type: line
 data_start_values:
