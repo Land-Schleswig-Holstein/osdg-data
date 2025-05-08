@@ -3,7 +3,7 @@ indicator_number: 4-7
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Kultusministerkonferenz, Dokumentation Schülerinnen und Schüler, Klassen, Lehrer und Absolventinnen und Absolventen der Schulen'
-source_url_1: 'Link zur Quelle'
+source_url_1: 'https://www.kmk.org/dokumentation-statistik/statistik/schulstatistik/schueler-innen-klassen-lehrkraefte-und-absolvierende.html'
 graph_title: 'Anteil der Schulabgänger/innen ohne ersten allgemeinbildenden Schulabschluss (ESA)'
 graph_type: line
 data_start_values:
