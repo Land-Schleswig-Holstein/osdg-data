@@ -924,16 +924,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ohne ESA (ohne Migrationshintergrund)",
                 "ohne ESA (mit Migrationshintergrund)",
-                "ESA (ohne Migrationshintergrund)",
                 "ESA (mit Migrationshintergrund)",
-                "MSA (ohne Migrationshintergrund)",
                 "MSA (mit Migrationshintergrund)",
-                "Fachhochschulreife (ohne Migrationshintergrund)",
                 "Fachhochschulreife (mit Migrationshintergrund)",
-                "Hochschulreife (ohne Migrationshintergrund)",
                 "Hochschulreife (mit Migrationshintergrund)",
+                "ohne ESA (ohne Migrationshintergrund)",
+                "ESA (ohne Migrationshintergrund)",
+                "MSA (ohne Migrationshintergrund)",
+                "Fachhochschulreife (ohne Migrationshintergrund)",
+                "Hochschulreife (ohne Migrationshintergrund)",
                 ""
               ]
             },
