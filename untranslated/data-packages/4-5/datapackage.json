@@ -20,12 +20,14 @@
             "constraints": {
               "enum": [
                 "Inländer",
-                "Europa ohne DE",
-                "Asien",
+                "EU ohne DE",
+                "Europa ohne EU und ohne DE",
                 "Afrika",
                 "Amerika",
+                "Asien",
                 "Austr./Ozean.",
                 "sonst./unbek.",
+                "Insgesamt",
                 ""
               ]
             }
