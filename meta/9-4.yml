@@ -3,7 +3,7 @@ indicator_number: 9-4
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
-source_url_1: 'Link zur Quelle'
+source_url_1: 'https://www-genesis.destatis.de/genesis/online/statistic/21821*'
 graph_title: 'Private und öffentliche Ausgaben für Forschung und Entwicklung im Verhältnis zum Bruttoinlandsprodukt'
 graph_type: line
 data_start_values:

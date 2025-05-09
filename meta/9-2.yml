@@ -2,8 +2,8 @@ indicator_name: 'Mobilfunkabdeckung'
 indicator_number: 9-2
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'Quellenbezeichnung'
-source_url_1: 'Link zur Quelle'
+source_organisation_1: 'Breitbandatlas (BBA) des Bundesministeriums für Verkehr und digitale Infrastruktur (BMVI)'
+source_url_1: 'https://gigabitgrundbuch.bund.de/GIGA/DE/Downloads_Suche/start.html'
 graph_title: 'Anteil der Haushalte in Schleswig-Holstein, die über ein LTE-Mobilfunknetz verfügen'
 graph_type: line
 data_start_values:
