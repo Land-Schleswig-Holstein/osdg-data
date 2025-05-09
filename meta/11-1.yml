@@ -3,7 +3,7 @@ indicator_number: 11-1
 computation_units: 'Minuten'
 source_active_1: true
 source_organisation_1: 'Bundesinstitut für Bau-, Stadt- und Raumforschung'
-source_url_1: 'Link zur Quelle'
+source_url_1: 'https://www.statistikportal.de/de/nachhaltigkeit/ergebnisse/ziel-11-nachhaltige-staedte-und-gemeinden/erreichbarkeit-von-mittel-und'
 graph_title: 'Durchschnittliche Reisezeit mit öffentlichen Verkehrsmitteln zum nächsten Mittel- oder Oberzentrum'
 graph_type: line
 data_start_values:

@@ -3,7 +3,7 @@ indicator_number: 15-1
 computation_units: 'Veränderung (ha/d)'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
-source_url_1: 'Link zur Quelle'
+source_url_1: 'https://www.regionalstatistik.de/genesis/online?operation=previous&levelindex=3&step=2&titel=Tabellenaufbau&levelid=1744722002706&levelid=1744721999214#abreadcrumb'
 graph_title: 'Anstieg der Siedlungs- und Verkehrsflächen in Hektar pro Tag – gleitender Mittelwert über vier Jahre'
 graph_type: bar
 data_start_values:
