@@ -19,11 +19,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SGB XII - HLU",
-                "AsylbLG",
-                "SGB XII - Grundsicherung",
-                "SGB II",
                 "Gesamt",
+                "SGB II",
+                "SGB XII - HLU",
+                "SGB XII - Grundsicherung",
+                "AsylbLG",
                 ""
               ]
             }
