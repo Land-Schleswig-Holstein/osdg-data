@@ -16,6 +16,13 @@ Entnommen aus Dokumentation (https://open-sdg.readthedocs.io/en/latest/indicator
 # Fussnote für Daten
   data_footnote: My additional information
 
+# weitere Ergänzungen in Fussnoten
+footer_fields:
+  - label: My field for percentages
+    value: My field content
+  - label: My field for totals
+    value: My other field content
+
 # Begrenzung y-Achse
   graph_limits
     - unit: tons
