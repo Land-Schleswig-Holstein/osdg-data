@@ -577,7 +577,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
