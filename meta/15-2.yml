@@ -1,10 +1,10 @@
 indicator_name: 'Freiraumverlust'
 indicator_number: 15-2
-computation_units: 'Quadratmeter je Einwohnerin und Einwohner'
+computation_units: 'm² je Einwohnerin und Einwohner'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
 source_url_1: 'Link zur Quelle'
-graph_title: 'Veränderung der Freiraumfläche in Quadratmetern je Einwohnerin und Einwohner – gleitender Mittelwert über vier Jahre'
+graph_title: 'Veränderung der Freiraumfläche in m² je Einwohnerin und Einwohner – gleitender Mittelwert über vier Jahre'
 graph_type: bar
 data_start_values:
   - field: 'Gruppe'
