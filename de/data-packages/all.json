@@ -656,6 +656,44 @@
       "title": "Rohstoffproduktivität"
     },
     {
+      "path": "3-2/data.csv",
+      "name": "3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum/Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH_männlich",
+                "DE_männlich",
+                "SH_weiblich",
+                "DE_weiblich",
+                ""
+              ]
+            },
+            "title": "Raum/Geschlecht"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Vorzeitige Sterblichkeit"
+    },
+    {
       "path": "4-7/data.csv",
       "name": "4-7",
       "profile": "tabular-data-resource",
@@ -1170,30 +1208,6 @@
         ]
       },
       "title": "Freiraumverlust"
-    },
-    {
-      "path": "3-2/data.csv",
-      "name": "3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Vorzeitige Sterblichkeit"
     }
   ]
 }
