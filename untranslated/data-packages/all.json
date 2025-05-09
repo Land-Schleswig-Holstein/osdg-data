@@ -137,10 +137,10 @@
             "constraints": {
               "enum": [
                 "Siedlungsabfälle (SH)",
-                "Haus- und Sperrmüll (SH)",
-                "Leichtverpackungen (SH)",
                 "Siedlungsabfälle (Deutschland)",
+                "Haus- und Sperrmüll (SH)",
                 "Haus- und Sperrmüll (Deutschland)",
+                "Leichtverpackungen (SH)",
                 "Leichtverpackungen (Deutschland)",
                 ""
               ]
@@ -148,7 +148,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -392,8 +392,8 @@
                 "Energiewirtschaft",
                 "Industrie",
                 "Gewerbe Handel Dienstleistungen",
-                "Verkehr",
                 "Haushalte",
+                "Verkehr",
                 "Abfallwirtschaft",
                 "Landwirtschaft",
                 ""
@@ -1063,7 +1063,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Raum",
@@ -1078,7 +1078,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },
@@ -1128,7 +1128,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Gruppe",
@@ -1142,7 +1142,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       },

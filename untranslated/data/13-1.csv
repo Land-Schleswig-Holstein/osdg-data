@@ -1,92 +1,169 @@
 Year,Sektor,Value
-2005,Energiewirtschaft,6609.0
-2006,Energiewirtschaft,6730.3
-2007,Energiewirtschaft,5957.4
-2008,Energiewirtschaft,6503.5
-2009,Energiewirtschaft,6631.9
-2010,Energiewirtschaft,7091.4
-2011,Energiewirtschaft,5818.0
-2012,Energiewirtschaft,6142.7
-2013,Energiewirtschaft,5891.9
-2014,Energiewirtschaft,5599.3
-2015,Energiewirtschaft,5453.3
-2016,Energiewirtschaft,5164.3
-2017,Energiewirtschaft,4837.1
-2005,Industrie,4283.2
-2006,Industrie,4228.8
-2007,Industrie,4049.7
-2008,Industrie,4457.8
-2009,Industrie,3801.9
-2010,Industrie,3573.1
-2011,Industrie,3835.3
-2012,Industrie,3763.7
-2013,Industrie,3663.8
-2014,Industrie,3312.3
-2015,Industrie,2911.6
-2016,Industrie,3069.0
-2017,Industrie,3412.5
-2005,Gewerbe Handel Dienstleistungen,1925.0
-2006,Gewerbe Handel Dienstleistungen,1968.0
-2007,Gewerbe Handel Dienstleistungen,1519.1
-2008,Gewerbe Handel Dienstleistungen,1736.0
-2009,Gewerbe Handel Dienstleistungen,1584.8
-2010,Gewerbe Handel Dienstleistungen,1681.4
-2011,Gewerbe Handel Dienstleistungen,1721.2
-2012,Gewerbe Handel Dienstleistungen,1796.7
-2013,Gewerbe Handel Dienstleistungen,1933.4
-2014,Gewerbe Handel Dienstleistungen,1898.1
-2015,Gewerbe Handel Dienstleistungen,1873.5
-2016,Gewerbe Handel Dienstleistungen,1833.0
-2017,Gewerbe Handel Dienstleistungen,2176.7
-2005,Verkehr,5581.5
-2006,Verkehr,5419.8
-2007,Verkehr,5305.8
-2008,Verkehr,5208.6
-2009,Verkehr,5199.7
-2010,Verkehr,5209.3
-2011,Verkehr,5159.8
-2012,Verkehr,5168.6
-2013,Verkehr,5339.7
-2014,Verkehr,5359.2
-2015,Verkehr,5419.9
-2016,Verkehr,5537.3
-2017,Verkehr,5594.3
-2005,Haushalte,4065.4
-2006,Haushalte,4186.1
-2007,Haushalte,3212.1
-2008,Haushalte,3887.2
-2009,Haushalte,3726.6
-2010,Haushalte,3978.2
-2011,Haushalte,3473.9
-2012,Haushalte,3565.1
-2013,Haushalte,3697.5
-2014,Haushalte,3203.7
-2015,Haushalte,3305.9
-2016,Haushalte,3448.5
-2017,Haushalte,3437.4
-2005,Abfallwirtschaft,746.8
-2006,Abfallwirtschaft,791.5
-2007,Abfallwirtschaft,878.9
-2008,Abfallwirtschaft,794.7
-2009,Abfallwirtschaft,789.6
-2010,Abfallwirtschaft,762.5
-2011,Abfallwirtschaft,692.7
-2012,Abfallwirtschaft,789.2
-2013,Abfallwirtschaft,791.9
-2014,Abfallwirtschaft,739.3
-2015,Abfallwirtschaft,762.6
-2016,Abfallwirtschaft,739.7
-2017,Abfallwirtschaft,716.1
-2005,Landwirtschaft,4869.4
-2006,Landwirtschaft,4793.4
-2007,Landwirtschaft,4786.5
-2008,Landwirtschaft,5005.8
-2009,Landwirtschaft,4943.2
-2010,Landwirtschaft,4923.4
-2011,Landwirtschaft,5053.8
-2012,Landwirtschaft,5016.3
-2013,Landwirtschaft,5092.2
-2014,Landwirtschaft,5125.5
-2015,Landwirtschaft,5044.5
-2016,Landwirtschaft,5049.9
-2017,Landwirtschaft,5049.9
+1990,Energiewirtschaft,6705.013378
+1995,Energiewirtschaft,6069.588279
+2000,Energiewirtschaft,6004.442641
+2003,Energiewirtschaft,7320.443611
+2004,Energiewirtschaft,6597.401493
+2005,Energiewirtschaft,6517.683795
+2006,Energiewirtschaft,6576.565498
+2007,Energiewirtschaft,5904.455922
+2008,Energiewirtschaft,6370.568603
+2009,Energiewirtschaft,6295.979381
+2010,Energiewirtschaft,6862.560504
+2011,Energiewirtschaft,5627.615603
+2012,Energiewirtschaft,6317.303996
+2013,Energiewirtschaft,5965.089405
+2014,Energiewirtschaft,5823.357201
+2015,Energiewirtschaft,5588.302539
+2016,Energiewirtschaft,5284.406585
+2017,Energiewirtschaft,5022.339334
+2018,Energiewirtschaft,5241.15219
+2019,Energiewirtschaft,4400.4696
+2020,Energiewirtschaft,4071.117631
+2021,Energiewirtschaft,4173.689853
+2022,Energiewirtschaft,4252.770521
+2023,Energiewirtschaft,3781.740526
+1990,Industrie,6461.606003
+1995,Industrie,6441.827397
+2000,Industrie,6079.167602
+2003,Industrie,4784.144245
+2004,Industrie,4621.68274
+2005,Industrie,4967.015301
+2006,Industrie,5011.996014
+2007,Industrie,4916.151993
+2008,Industrie,5289.725481
+2009,Industrie,4831.303146
+2010,Industrie,4567.617254
+2011,Industrie,4779.073123
+2012,Industrie,4804.74285
+2013,Industrie,4734.871411
+2014,Industrie,4222.831542
+2015,Industrie,3926.253665
+2016,Industrie,3978.084363
+2017,Industrie,4124.644155
+2018,Industrie,4103.498285
+2019,Industrie,4129.913485
+2020,Industrie,4105.021683
+2021,Industrie,3936.031079
+2022,Industrie,3742.501865
+2023,Industrie,3430.546578
+1990,Gewerbe Handel Dienstleistungen,2026.576482
+1995,Gewerbe Handel Dienstleistungen,2107.855686
+2000,Gewerbe Handel Dienstleistungen,1747.159607
+2003,Gewerbe Handel Dienstleistungen,1877.593866
+2004,Gewerbe Handel Dienstleistungen,1918.757782
+2005,Gewerbe Handel Dienstleistungen,1383.153981
+2006,Gewerbe Handel Dienstleistungen,1407.696248
+2007,Gewerbe Handel Dienstleistungen,977.9274195
+2008,Gewerbe Handel Dienstleistungen,1188.363362
+2009,Gewerbe Handel Dienstleistungen,1054.370642
+2010,Gewerbe Handel Dienstleistungen,1148.295518
+2011,Gewerbe Handel Dienstleistungen,1114.418806
+2012,Gewerbe Handel Dienstleistungen,1787.817296
+2013,Gewerbe Handel Dienstleistungen,2090.926416
+2014,Gewerbe Handel Dienstleistungen,1962.091837
+2015,Gewerbe Handel Dienstleistungen,1955.620403
+2016,Gewerbe Handel Dienstleistungen,1854.960231
+2017,Gewerbe Handel Dienstleistungen,2037.222431
+2018,Gewerbe Handel Dienstleistungen,1769.304618
+2019,Gewerbe Handel Dienstleistungen,1257.786214
+2020,Gewerbe Handel Dienstleistungen,1639.690712
+2021,Gewerbe Handel Dienstleistungen,1732.38011
+2022,Gewerbe Handel Dienstleistungen,1848.027635
+2023,Gewerbe Handel Dienstleistungen,1750.334177
+1990,Haushalte,5137.829346
+1995,Haushalte,5048.069124
+2000,Haushalte,4386.965492
+2003,Haushalte,4625.677557
+2004,Haushalte,4257.445834
+2005,Haushalte,4079.691148
+2006,Haushalte,4203.865559
+2007,Haushalte,3233.73399
+2008,Haushalte,3908.374549
+2009,Haushalte,3748.660912
+2010,Haushalte,4006.079181
+2011,Haushalte,3502.727514
+2012,Haushalte,3595.387551
+2013,Haushalte,3728.606141
+2014,Haushalte,3230.654188
+2015,Haushalte,3324.001786
+2016,Haushalte,3458.075655
+2017,Haushalte,3454.080691
+2018,Haushalte,3444.294139
+2019,Haushalte,3413.363847
+2020,Haushalte,3534.156405
+2021,Haushalte,3546.599211
+2022,Haushalte,3060.936922
+2023,Haushalte,2808.121941
+1990,Verkehr,6174.005426
+1995,Verkehr,6322.742164
+2000,Verkehr,6363.780609
+2003,Verkehr,5844.685158
+2004,Verkehr,5775.204788
+2005,Verkehr,5462.598589
+2006,Verkehr,5290.157684
+2007,Verkehr,5144.429776
+2008,Verkehr,5122.651445
+2009,Verkehr,5130.422169
+2010,Verkehr,5150.05774
+2011,Verkehr,5119.312943
+2012,Verkehr,5131.61101
+2013,Verkehr,5295.637593
+2014,Verkehr,5334.703681
+2015,Verkehr,5449.195823
+2016,Verkehr,5574.638086
+2017,Verkehr,5635.433712
+2018,Verkehr,5459.866328
+2019,Verkehr,5489.420247
+2020,Verkehr,4981.205
+2021,Verkehr,5018.762797
+2022,Verkehr,5033.339433
+2023,Verkehr,4971.785895
+1990,Abfallwirtschaft,1211.161905
+1995,Abfallwirtschaft,1125.735003
+2000,Abfallwirtschaft,784.4029928
+2003,Abfallwirtschaft,669.1294918
+2004,Abfallwirtschaft,606.512727
+2005,Abfallwirtschaft,590.8234921
+2006,Abfallwirtschaft,537.6008737
+2007,Abfallwirtschaft,503.475885
+2008,Abfallwirtschaft,455.8295698
+2009,Abfallwirtschaft,421.393607
+2010,Abfallwirtschaft,389.7906255
+2011,Abfallwirtschaft,369.5560811
+2012,Abfallwirtschaft,344.2405872
+2013,Abfallwirtschaft,319.4221832
+2014,Abfallwirtschaft,298.2522474
+2015,Abfallwirtschaft,272.6098623
+2016,Abfallwirtschaft,258.3463497
+2017,Abfallwirtschaft,245.7718587
+2018,Abfallwirtschaft,212.6193596
+2019,Abfallwirtschaft,158.0495787
+2020,Abfallwirtschaft,115.3813255
+2021,Abfallwirtschaft,86.82738544
+2022,Abfallwirtschaft,75.83443216
+2023,Abfallwirtschaft,77.22422574
+1990,Landwirtschaft,6173.249323
+1995,Landwirtschaft,5636.554733
+2000,Landwirtschaft,5453.187586
+2003,Landwirtschaft,5399.836575
+2004,Landwirtschaft,5280.77196
+2005,Landwirtschaft,5204.229874
+2006,Landwirtschaft,5170.791817
+2007,Landwirtschaft,5199.871696
+2008,Landwirtschaft,5282.171391
+2009,Landwirtschaft,5277.583165
+2010,Landwirtschaft,5290.055598
+2011,Landwirtschaft,5328.500636
+2012,Landwirtschaft,5303.473757
+2013,Landwirtschaft,5414.554653
+2014,Landwirtschaft,5477.500012
+2015,Landwirtschaft,5486.322199
+2016,Landwirtschaft,5443.770124
+2017,Landwirtschaft,5365.458827
+2018,Landwirtschaft,5283.871696
+2019,Landwirtschaft,5129.257974
+2020,Landwirtschaft,5054.750185
+2021,Landwirtschaft,4935.18638
+2022,Landwirtschaft,4851.036925
+2023,Landwirtschaft,4786.451881

@@ -20,10 +20,10 @@
             "constraints": {
               "enum": [
                 "Siedlungsabfälle (SH)",
-                "Haus- und Sperrmüll (SH)",
-                "Leichtverpackungen (SH)",
                 "Siedlungsabfälle (Deutschland)",
+                "Haus- und Sperrmüll (SH)",
                 "Haus- und Sperrmüll (Deutschland)",
+                "Leichtverpackungen (SH)",
                 "Leichtverpackungen (Deutschland)",
                 ""
               ]
@@ -31,7 +31,7 @@
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

@@ -1,79 +1,115 @@
 Year,Aufkommen,Value
-2005,Siedlungsabfälle (SH),451.0
-2006,Siedlungsabfälle (SH),457.0
-2007,Siedlungsabfälle (SH),457.0
-2008,Siedlungsabfälle (SH),454.0
-2009,Siedlungsabfälle (SH),457.0
-2010,Siedlungsabfälle (SH),454.0
-2011,Siedlungsabfälle (SH),468.0
-2012,Siedlungsabfälle (SH),460.0
-2013,Siedlungsabfälle (SH),448.0
-2014,Siedlungsabfälle (SH),465.0
-2015,Siedlungsabfälle (SH),467.0
-2016,Siedlungsabfälle (SH),468.0
-2017,Siedlungsabfälle (SH),473.0
-2005,Haus- und Sperrmüll (SH),234.0
-2006,Haus- und Sperrmüll (SH),233.0
-2007,Haus- und Sperrmüll (SH),231.0
-2008,Haus- und Sperrmüll (SH),227.0
-2009,Haus- und Sperrmüll (SH),229.0
-2010,Haus- und Sperrmüll (SH),226.0
-2011,Haus- und Sperrmüll (SH),234.0
-2012,Haus- und Sperrmüll (SH),230.0
-2013,Haus- und Sperrmüll (SH),224.0
-2014,Haus- und Sperrmüll (SH),234.0
-2015,Haus- und Sperrmüll (SH),230.0
-2016,Haus- und Sperrmüll (SH),229.0
-2017,Haus- und Sperrmüll (SH),228.0
-2005,Leichtverpackungen (SH),31.0
-2006,Leichtverpackungen (SH),33.0
-2007,Leichtverpackungen (SH),31.0
-2008,Leichtverpackungen (SH),32.0
-2009,Leichtverpackungen (SH),32.0
-2010,Leichtverpackungen (SH),33.0
-2011,Leichtverpackungen (SH),34.0
-2012,Leichtverpackungen (SH),33.0
-2013,Leichtverpackungen (SH),34.0
-2014,Leichtverpackungen (SH),34.0
-2015,Leichtverpackungen (SH),34.0
-2016,Leichtverpackungen (SH),35.0
-2017,Leichtverpackungen (SH),35.0
-2005,Siedlungsabfälle (Deutschland),400.0
-2006,Siedlungsabfälle (Deutschland),405.0
-2007,Siedlungsabfälle (Deutschland),403.0
-2008,Siedlungsabfälle (Deutschland),397.0
-2009,Siedlungsabfälle (Deutschland),401.0
-2010,Siedlungsabfälle (Deutschland),399.0
-2011,Siedlungsabfälle (Deutschland),403.0
-2012,Siedlungsabfälle (Deutschland),396.0
-2013,Siedlungsabfälle (Deutschland),393.0
-2014,Siedlungsabfälle (Deutschland),396.0
-2015,Siedlungsabfälle (Deutschland),391.0
-2016,Siedlungsabfälle (Deutschland),395.0
-2017,Siedlungsabfälle (Deutschland),
-2005,Haus- und Sperrmüll (Deutschland),206.0
-2006,Haus- und Sperrmüll (Deutschland),206.0
-2007,Haus- und Sperrmüll (Deutschland),203.0
-2008,Haus- und Sperrmüll (Deutschland),200.0
-2009,Haus- und Sperrmüll (Deutschland),202.0
-2010,Haus- und Sperrmüll (Deutschland),201.0
-2011,Haus- und Sperrmüll (Deutschland),199.0
-2012,Haus- und Sperrmüll (Deutschland),193.0
-2013,Haus- und Sperrmüll (Deutschland),191.0
-2014,Haus- und Sperrmüll (Deutschland),191.0
-2015,Haus- und Sperrmüll (Deutschland),188.0
-2016,Haus- und Sperrmüll (Deutschland),188.0
-2017,Haus- und Sperrmüll (Deutschland),
-2005,Leichtverpackungen (Deutschland),30.0
-2006,Leichtverpackungen (Deutschland),31.0
-2007,Leichtverpackungen (Deutschland),30.0
-2008,Leichtverpackungen (Deutschland),30.0
-2009,Leichtverpackungen (Deutschland),30.0
-2010,Leichtverpackungen (Deutschland),31.0
-2011,Leichtverpackungen (Deutschland),32.0
-2012,Leichtverpackungen (Deutschland),32.0
-2013,Leichtverpackungen (Deutschland),32.0
-2014,Leichtverpackungen (Deutschland),33.0
-2015,Leichtverpackungen (Deutschland),33.0
-2016,Leichtverpackungen (Deutschland),33.0
-2017,Leichtverpackungen (Deutschland),
+2005,Siedlungsabfälle (SH),450.5065395
+2006,Siedlungsabfälle (SH),456.8321798
+2007,Siedlungsabfälle (SH),457.0028861
+2008,Siedlungsabfälle (SH),448.7616729
+2009,Siedlungsabfälle (SH),457.3161072
+2010,Siedlungsabfälle (SH),453.5322085
+2011,Siedlungsabfälle (SH),467.6885157
+2012,Siedlungsabfälle (SH),459.979895
+2013,Siedlungsabfälle (SH),448.4745094
+2014,Siedlungsabfälle (SH),464.6444449
+2015,Siedlungsabfälle (SH),466.8903671
+2016,Siedlungsabfälle (SH),468.4799218
+2017,Siedlungsabfälle (SH),473.0716321
+2018,Siedlungsabfälle (SH),465.9480397
+2019,Siedlungsabfälle (SH),470.1289216
+2020,Siedlungsabfälle (SH),483.7598004
+2021,Siedlungsabfälle (SH),483.4637789
+2022,Siedlungsabfälle (SH),452.4829443
+2023,Siedlungsabfälle (SH),446.1137552
+2005,Siedlungsabfälle (Deutschland),400
+2006,Siedlungsabfälle (Deutschland),405
+2007,Siedlungsabfälle (Deutschland),403
+2008,Siedlungsabfälle (Deutschland),397
+2009,Siedlungsabfälle (Deutschland),401
+2010,Siedlungsabfälle (Deutschland),399
+2011,Siedlungsabfälle (Deutschland),403
+2012,Siedlungsabfälle (Deutschland),396
+2013,Siedlungsabfälle (Deutschland),393
+2014,Siedlungsabfälle (Deutschland),396
+2015,Siedlungsabfälle (Deutschland),391
+2016,Siedlungsabfälle (Deutschland),395
+2017,Siedlungsabfälle (Deutschland),395
+2018,Siedlungsabfälle (Deutschland),391
+2019,Siedlungsabfälle (Deutschland),393
+2020,Siedlungsabfälle (Deutschland),410
+2021,Siedlungsabfälle (Deutschland),413
+2022,Siedlungsabfälle (Deutschland),379
+2023,Siedlungsabfälle (Deutschland),.
+2005,Haus- und Sperrmüll (SH),233.9624959
+2006,Haus- und Sperrmüll (SH),233.2689351
+2007,Haus- und Sperrmüll (SH),230.8409709
+2008,Haus- und Sperrmüll (SH),227.3013031
+2009,Haus- und Sperrmüll (SH),229.3244416
+2010,Haus- und Sperrmüll (SH),226.1005723
+2011,Haus- und Sperrmüll (SH),233.6462955
+2012,Haus- und Sperrmüll (SH),229.883087
+2013,Haus- und Sperrmüll (SH),223.5508344
+2014,Haus- und Sperrmüll (SH),234.142495
+2015,Haus- und Sperrmüll (SH),230.4518067
+2016,Haus- und Sperrmüll (SH),229.0896904
+2017,Haus- und Sperrmüll (SH),227.8505243
+2018,Haus- und Sperrmüll (SH),225.7737445
+2019,Haus- und Sperrmüll (SH),227.6910805
+2020,Haus- und Sperrmüll (SH),233.3307085
+2021,Haus- und Sperrmüll (SH),233.1082715
+2022,Haus- und Sperrmüll (SH),220.3681602
+2023,Haus- und Sperrmüll (SH),217.956408
+2005,Haus- und Sperrmüll (Deutschland),206
+2006,Haus- und Sperrmüll (Deutschland),206
+2007,Haus- und Sperrmüll (Deutschland),203
+2008,Haus- und Sperrmüll (Deutschland),200
+2009,Haus- und Sperrmüll (Deutschland),202
+2010,Haus- und Sperrmüll (Deutschland),201
+2011,Haus- und Sperrmüll (Deutschland),199
+2012,Haus- und Sperrmüll (Deutschland),193
+2013,Haus- und Sperrmüll (Deutschland),191
+2014,Haus- und Sperrmüll (Deutschland),191
+2015,Haus- und Sperrmüll (Deutschland),188
+2016,Haus- und Sperrmüll (Deutschland),188
+2017,Haus- und Sperrmüll (Deutschland),188
+2018,Haus- und Sperrmüll (Deutschland),187
+2019,Haus- und Sperrmüll (Deutschland),187
+2020,Haus- und Sperrmüll (Deutschland),194
+2021,Haus- und Sperrmüll (Deutschland),196
+2022,Haus- und Sperrmüll (Deutschland),181
+2023,Haus- und Sperrmüll (Deutschland),.
+2005,Leichtverpackungen (SH),31.43415245
+2006,Leichtverpackungen (SH),33.79619099
+2007,Leichtverpackungen (SH),31.30722276
+2008,Leichtverpackungen (SH),32.74755054
+2009,Leichtverpackungen (SH),32.5650412
+2010,Leichtverpackungen (SH),33.75984899
+2011,Leichtverpackungen (SH),34.09237738
+2012,Leichtverpackungen (SH),32.6986846
+2013,Leichtverpackungen (SH),34.04642617
+2014,Leichtverpackungen (SH),34.36346289
+2015,Leichtverpackungen (SH),34.4581798
+2016,Leichtverpackungen (SH),34.63953342
+2017,Leichtverpackungen (SH),34.80055304
+2018,Leichtverpackungen (SH),34.50740115
+2019,Leichtverpackungen (SH),34.30172331
+2020,Leichtverpackungen (SH),37.08271259
+2021,Leichtverpackungen (SH),37.66309024
+2022,Leichtverpackungen (SH),36.15382085
+2023,Leichtverpackungen (SH),35.69199635
+2005,Leichtverpackungen (Deutschland),30
+2006,Leichtverpackungen (Deutschland),31
+2007,Leichtverpackungen (Deutschland),30
+2008,Leichtverpackungen (Deutschland),30
+2009,Leichtverpackungen (Deutschland),30
+2010,Leichtverpackungen (Deutschland),31
+2011,Leichtverpackungen (Deutschland),32
+2012,Leichtverpackungen (Deutschland),32
+2013,Leichtverpackungen (Deutschland),32
+2014,Leichtverpackungen (Deutschland),33
+2015,Leichtverpackungen (Deutschland),33
+2016,Leichtverpackungen (Deutschland),33
+2017,Leichtverpackungen (Deutschland),33
+2018,Leichtverpackungen (Deutschland),33
+2019,Leichtverpackungen (Deutschland),33
+2020,Leichtverpackungen (Deutschland),35
+2021,Leichtverpackungen (Deutschland),35
+2022,Leichtverpackungen (Deutschland),32
+2023,Leichtverpackungen (Deutschland),32
