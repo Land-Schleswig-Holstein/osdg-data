@@ -3,7 +3,7 @@ indicator_number: 4-2
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Statistik der allgemeinbildenden Schulen'
-source_url_1: '(Sonderauswertung Statistikamt Nord)'
+source_url_text_1: 'Sonderauswertung Statistikamt Nord'
 graph_title: 'Anteil der Absolventinnen und Absolventen ohne und mit Migrationshintergrund nach Schulabschlussart'
 graph_type: bar
 data_start_values:
