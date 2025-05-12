@@ -22,6 +22,7 @@
               "enum": [
                 "Deutschland - unbereinigt",
                 "Deutschland - bereinigt",
+                "SH - bereinigt",
                 ""
               ]
             },
