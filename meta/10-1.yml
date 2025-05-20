@@ -1,0 +1,20 @@
+indicator_name: 'Engagement-Quote'
+indicator_number: 10-1
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Bundesministerium für Familie, Frauen, Senioren und Jugend'
+source_url_1: 'https://www.bmfsfj.de/bmfsfj/service/publikationen/freiwilliges-engagement-in-deutschland-176834'
+graph_title: 'Anteil über 14-Jähriger an der Wohnbevölkerung Schleswig-Holsteins, die sich aktiv und freiwillig bürgerschaftlich engagieren'
+graph_type: bar
+data_start_values:
+  - field: 'Raum'
+    value: 'Schleswig-Holstein'
+  - field: 'Raum'
+    value: 'Deutschland'
+publications:
+  - title: 'Indikator Engagement-Quote'
+    link: 'https://www.bmfsfj.de/bmfsfj/themen/engagement-und-gesellschaft/engagement-staerken/freiwilligensurveys/der-deutsche-freiwilligensurvey-100090#:~:text=Der%20F%C3%BCnfte%20Deutsche%20Freiwilligensurvey%202019%20erm%C3%B6glicht%20differenzierte%20Aussagen,Ergebnissen%20des%20Surveys%20wurde%20im%20M%C3%A4rz%202021%20ver%C3%B6ffentlicht.'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-20
+reporting_status: complete
