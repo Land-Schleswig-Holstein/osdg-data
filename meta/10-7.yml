@@ -1,0 +1,24 @@
+indicator_name: 'Kommunen mit Vertretungen für Seniorinnen und Senioren'
+indicator_number: 10-7
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Ministerium für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung (MSJFSIG)'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil der Kommunen mit Seniorinnen- und Seniorenvertretungen an allen Kommunen in Schleswig-Holstein'
+graph_type: bar
+data_start_values:
+  - field: 'Einwohnerzahl'
+    value: 'unter 2.000'
+  - field: 'Einwohnerzahl'
+    value: '2.000-5.000'
+  - field: 'Einwohnerzahl'
+    value: '5.000-10.000'
+  - field: 'Einwohnerzahl'
+    value: 'über 10.000'
+publications:
+  - title: 'Indikator Kommunen mit Vertretungen für Seniorinnen und Senioren'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-20
+reporting_status: complete
