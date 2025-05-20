@@ -22,7 +22,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #3-7,complete,,,,,Menschen,line
 #4-1,complete,,,,,Prozent,line
 #4-2,complete,,,,,Prozent,bar
-#4-4,complete,,,,,,line
+#4-4,complete,,,,,Anzahl,bar
 #4-5,complete,,,,,Prozent,bar
 #4-7,complete,,,,,Prozent,line
 #4-8,complete,,,,,Prozent,bar
