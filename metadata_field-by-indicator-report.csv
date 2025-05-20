@@ -8,6 +8,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #10-4,complete,,,,,Gini-Koeffizient,bar
 #10-5,complete,,,,,Prozent,line
 #10-6,complete,,,,,Anzahl,bar
+#10-7,complete,,,,,,line
 #11-1,complete,,,,,Minuten,line
 #12-1,complete,,,,,kg/Einwohner,line
 #13-1,complete,,,,,Mio. t CO2-Äquivalente,bar
