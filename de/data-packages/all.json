@@ -1057,6 +1057,42 @@
       "title": "Zertifizierte außerschulische Bildungseinrichtungen für Nachhaltigkeit"
     },
     {
+      "path": "16-1/data.csv",
+      "name": "16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Bund",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "16-1"
+    },
+    {
       "path": "9-4/data.csv",
       "name": "9-4",
       "profile": "tabular-data-resource",
