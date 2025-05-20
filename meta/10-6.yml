@@ -1,0 +1,18 @@
+indicator_name: 'Kommunen mit Vertretungen für Kinder und Jugendliche'
+indicator_number: 10-6
+computation_units: 'Anzahl'
+source_active_1: true
+source_organisation_1: 'Offene Abfrage'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anzahl repräsentativer Beteiligungsformate für Kinder und Jugendliche in Gemeinden, Städten, kreisfreien Städten und Kreisen Schleswig-Holsteins'
+graph_type: bar
+data_start_values:
+  - field: 'Kreis/Gemeinde/kreisfreie Stadt'
+    value: 'Gesamt'
+publications:
+  - title: 'Indikator Kommunen mit Vertretungen für Kinder und Jugendliche'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-20
+reporting_status: complete
