@@ -1,0 +1,7 @@
+indicator_name: 'Lärmbelastung'
+indicator_number: 3-7
+computation_units: 'Menschen'
+graph_title: 'Anzahl der Personen, die an ihrem Hauptwohnsitz Lärmbelastungen über 65 dB(A) LDEN ganztags und über 55 dB(A) LNight nachts durch Hauptlärmquellen gem. § 47 Bundesimmissionsschutzgesetz ausgesetzt sind – Straßen- Schienenverkehrs- und Fluglärm'
+graph_type: line
+data_start_values:
+reporting_status: complete
