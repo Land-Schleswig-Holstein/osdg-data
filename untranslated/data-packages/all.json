@@ -1122,6 +1122,39 @@
       "title": "Zertifizierte außerschulische Bildungseinrichtungen für Nachhaltigkeit"
     },
     {
+      "path": "10-3/data.csv",
+      "name": "10-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Ausgaben für Barrierefreiheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "investive Vorhaben",
+                "nichtinvestive Vorhaben",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "10-3"
+    },
+    {
       "path": "16-1/data.csv",
       "name": "16-1",
       "profile": "tabular-data-resource",
