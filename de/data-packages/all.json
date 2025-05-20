@@ -1022,6 +1022,41 @@
       "title": "Betriebliche Beschäftigungsquote Menschen mit Behinderungen"
     },
     {
+      "path": "4-4/data.csv",
+      "name": "4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Zertifizierte Bildungsakteure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zertifizierte gesamt",
+                ""
+              ]
+            },
+            "title": "Zertifizierte Bildungsakteure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-4"
+    },
+    {
       "path": "9-4/data.csv",
       "name": "9-4",
       "profile": "tabular-data-resource",
