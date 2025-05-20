@@ -1,0 +1,26 @@
+indicator_name: 'Frauen in Führungspositionen  im öffentlichen Dienst'
+indicator_number: 5-5
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Gleichstellungsbericht Schleswig-Holstein'
+source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/VIII/Service/Broschueren/Broschueren_VIII/Frauen_Gleichstellung/gleichstellungsbericht_v06.pdf?__blob=publicationFile&v=2'
+graph_title: 'Anteil von Frauen an Führungspositionen in obersten Landesbehörden'
+graph_type: bar
+data_start_values:
+  - field: 'Frauenanteil'
+    value: 'Abteilungsleitung oberste Landesbehörden'
+  - field: 'Frauenanteil'
+    value: 'Referatsleitung oberste Landesbehörden'
+  - field: 'Frauenanteil'
+    value: 'Justiz'
+  - field: 'Frauenanteil'
+    value: 'Hochschulprofessuren'
+  - field: 'Frauenanteil'
+    value: 'Juniorprofessuren'
+publications:
+  - title: 'Indikator Frauen in Führungspositionen  im öffentlichen Dienst'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-20
+reporting_status: complete
