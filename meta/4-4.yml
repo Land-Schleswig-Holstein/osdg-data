@@ -1,0 +1,7 @@
+indicator_name: 'Zertifizierte außerschulische Bildungseinrichtungen für Nachhaltigkeit'
+indicator_number: 4-4
+computation_units: 'Anzahl'
+graph_title: 'Anzahl der außerschulischen Bildungseinrichtungen, die das Zertifikat „norddeutsch und nachhaltig“ tragen'
+graph_type: bar
+data_start_values:
+reporting_status: complete
