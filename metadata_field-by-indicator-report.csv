@@ -17,7 +17,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #16-3,complete,,,,,Gefangene je 100T Einwohnerinnen und Einwohner,line
 #3-1,complete,,,,,je 1.000 Lebendgeborene,line
 #3-2,complete,,,,,je 100.000 Einwohnerinnen und Einwohner,line
-#3-7,complete,,,,,,line
+#3-7,complete,,,,,Menschen,line
 #4-1,complete,,,,,Prozent,line
 #4-2,complete,,,,,Prozent,bar
 #4-5,complete,,,,,Prozent,bar
