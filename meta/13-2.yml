@@ -1,0 +1,7 @@
+indicator_name: 'Anzahl kommunaler Klimaschutzkonzepte'
+indicator_number: 13-2
+computation_units: 'Anzahl'
+graph_title: 'Anzahl der durch den Bund geförderten kommunalen Klimaschutzkonzepte in Schleswig-Holstein'
+graph_type: bar
+data_start_values:
+reporting_status: complete
