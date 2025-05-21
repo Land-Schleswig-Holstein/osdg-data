@@ -1,0 +1,27 @@
+indicator_name: 'Modal Split'
+indicator_number: 11-2
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'o'trend GmbH, Landesweite Marktforschung in Schleswig-Holstein 2023'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil der Verkehrsträger im Personenverkehr Schleswig-Holsteins an einem mittleren Tag (bezogen auf die Anzahl der zurückgelegten Wege)'
+graph_type: bar
+graph_stacked_disaggregation: 'Verkehrsmittel'
+data_start_values:
+  - field: 'Verkehrsmittel'
+    value: 'zu Fuß'
+  - field: 'Verkehrsmittel'
+    value: 'Fahrrad'
+  - field: 'Verkehrsmittel'
+    value: 'ÖV'
+  - field: 'Verkehrsmittel'
+    value: 'MIV Mitfahrer:in/ Taxi'
+  - field: 'Verkehrsmittel'
+    value: 'MIV Fahrer:in'
+publications:
+  - title: 'Indikator Modal Split'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
+reporting_status: complete
