@@ -14,6 +14,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #11-1,complete,,,,,Minuten,line
 #11-2,complete,,,,,Prozent,bar
 #12-1,complete,,,,,kg/Einwohner,line
+#12-3,complete,,,,,,line
 #13-1,complete,,,,,Mio. t CO2-Äquivalente,bar
 #13-2,complete,,,,,Anzahl,bar
 #15-1,complete,,,,,Veränderung (ha/d),bar

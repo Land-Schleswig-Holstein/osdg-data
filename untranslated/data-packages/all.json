@@ -1160,6 +1160,39 @@
       "title": "Energieverbrauch nach Sektoren"
     },
     {
+      "path": "12-3/data.csv",
+      "name": "12-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Deutschland",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "12-3"
+    },
+    {
       "path": "10-4/data.csv",
       "name": "10-4",
       "profile": "tabular-data-resource",
