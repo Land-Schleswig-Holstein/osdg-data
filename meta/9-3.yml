@@ -1,0 +1,20 @@
+indicator_name: 'Zahl der Haushalte, für die ein Glasfaseranschluss (FTTB/FFTH) verfügbar ist'
+indicator_number: 9-3
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Quellenbezeichnung'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Verfügbarkeit von Glasfaseranschlüssen für Haushalte in Schleswig-Holstein'
+graph_type: line
+data_start_values:
+  - field: 'Gebiet'
+    value: 'Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)'
+  - field: 'Gebiet'
+    value: 'Zahlen des Breitbandatlasses des Bundes'
+publications:
+  - title: 'Indikator Zahl der Haushalte, für die ein Glasfaseranschluss (FTTB/FFTH) verfügbar ist'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
+reporting_status: complete
