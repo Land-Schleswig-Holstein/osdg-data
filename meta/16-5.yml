@@ -1,0 +1,30 @@
+indicator_name: 'Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind, insbesondere Fokusleistungen'
+indicator_number: 16-5
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Onlinedienste-Leitstelle Staatskanzlei Schleswig-Holstein (ODL|SH)'
+source_url_1: ''
+graph_title: 'Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind'
+graph_type: bar
+data_start_values:
+  - field: 'Fokusleistungen'
+    value: 'Anlagengenehmigung und -zulassung'
+  - field: 'Fokusleistungen'
+    value: 'Bauvorbescheid und Baugenehmigung'
+  - field: 'Fokusleistungen'
+    value: 'Einbürgerung'
+  - field: 'Fokusleistungen'
+    value: 'Elterngeld'
+  - field: 'Fokusleistungen'
+    value: 'Handwerksgründung /-register /-karte'
+  - field: 'Fokusleistungen'
+    value: 'Öffentliche Vergabe'
+  - field: 'Fokusleistungen'
+    value: 'Ummeldung'
+  - field: 'Fokusleistungen'
+    value: 'Unterhaltsvorschuss'
+  - field: 'Fokusleistungen'
+    value: 'Unternehmensanmeldung und -genehmigung'
+  - field: 'Fokusleistungen'
+    value: 'Wohngeld'
+reporting_status: complete
