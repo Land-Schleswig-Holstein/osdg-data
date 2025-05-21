@@ -1,0 +1,54 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Fokusleistungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anlagengenehmigung und -zulassung",
+                "Bauvorbescheid und Baugenehmigung",
+                "Bürgergeld",
+                "Eheschließung",
+                "Einbürgerung",
+                "Elterngeld",
+                "Führerschein",
+                "Handwerksgründung /-register /-karte",
+                "Öffentliche Vergabe",
+                "Personalausweis",
+                "Ummeldung",
+                "Unterhaltsvorschuss",
+                "Unternehmensanmeldung und -genehmigung",
+                "Wohngeld",
+                ""
+              ]
+            },
+            "title": "Fokusleistungen"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-5",
+  "title": "16-5"
+}
