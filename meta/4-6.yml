@@ -1,0 +1,22 @@
+indicator_name: 'Sozialer Ausgleich im Bildungssystem - Frühe Schulabgängerinnen und Schulabgänger'
+indicator_number: 4-6
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Statistische Ämter des Bundes und der Länder (die Daten für 2007 und 2013 sind nicht berichtet worden).'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Anteil der frühen Schulabgängerinnen und Schulabgänger'
+graph_type: line
+data_start_values:
+  - field: 'Region'
+    value: 'Schleswig-Holstein'
+  - field: 'Region'
+    value: 'Deutschland'
+  - field: 'Region'
+    value: 'EU-27 (28)'
+publications:
+  - title: 'Indikator Sozialer Ausgleich im Bildungssystem - Frühe Schulabgängerinnen und Schulabgänger'
+    link: 'Link redaktioneller Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
+reporting_status: complete
