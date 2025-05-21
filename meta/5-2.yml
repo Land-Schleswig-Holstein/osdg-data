@@ -1,0 +1,22 @@
+indicator_name: 'Unterstützung im Bereich LSBTIQ*'
+indicator_number: 5-2
+computation_units: '€'
+source_active_1: true
+source_organisation_1: 'Stabsstelle Gleichstellung, MSJFSIG'
+source_url_1: ''
+graph_title: 'Landesmittel zur Unterstützung von Beratungsstellen für lesbische, schwule, bisexuelle, transsexuelle, transgender, intersexuelle und queere Menschen (LSBTIQ*)'
+graph_type: line
+data_start_values:
+  - field: 'Beratungsstelle'
+    value: 'Beratungsstelle 1 (Kiel) '
+  - field: 'Beratungsstelle'
+    value: 'Beratungsstelle 2 (Lübeck)'
+  - field: 'Beratungsstelle'
+    value: 'Gesamtförderung'
+publications:
+  - title: 'Indikator Unterstützung im Bereich LSBTIQ*'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
+reporting_status: complete
