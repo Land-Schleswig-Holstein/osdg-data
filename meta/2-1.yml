@@ -1,0 +1,20 @@
+indicator_name: 'Stickstoffüberschuss in der Landwirtschaft'
+indicator_number: 2-1
+computation_units: 'kg N/ha'
+source_active_1: true
+source_organisation_1: 'Häußermann, U. und Bach, M., im Auftrag des Umweltbundesamtes „Aktualisierung der Eingangsdaten zum Betrieb des Modelles PFLAST und zur Fortschreibung der Zeitreihe der N-Flächenbilanzierung der Landwirtschaft für die Jahre 2022 und 2023“'
+source_url_1: 'https://www.bmel-statistik.de/fileadmin/daten/0111260-0000.xlsx'
+graph_title: 'Jährlicher Stickstoffüberschuss in der Landwirtschaft berechnet aus Zufuhr und Abfuhr von Stickstoff in Kilogramm je Hektar landwirtschaftlich genutzter Fläche'
+graph_type: line
+data_start_values:
+  - field: 'Raum'
+    value: 'SH Stickstoff-Überschuss in der Landwirtschaft '
+  - field: 'Raum'
+    value: 'Deutschland Stickstoff-Überschuss in der Landwirtschaft'
+publications:
+  - title: 'Indikator Stickstoffüberschuss in der Landwirtschaft'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
+reporting_status: complete
