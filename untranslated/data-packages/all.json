@@ -1156,6 +1156,42 @@
       "title": "Unterstützung im Bereich LSBTIQ*"
     },
     {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Arbeitslosenquoten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arbeitslosenquote insgesamt",
+                "Männer",
+                "Frauen",
+                "Ausländer",
+                "Langzeitarbeitslose",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "8-3-1"
+    },
+    {
       "path": "10-2/data.csv",
       "name": "10-2",
       "profile": "tabular-data-resource",
