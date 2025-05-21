@@ -12,7 +12,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #10-6,complete,,,,,Anzahl,bar
 #10-7,complete,,,,,Prozent,bar
 #11-1,complete,,,,,Minuten,line
-#11-2,complete,,,,,,line
+#11-2,complete,,,,,Prozent,bar
 #12-1,complete,,,,,kg/Einwohner,line
 #13-1,complete,,,,,Mio. t CO2-Äquivalente,bar
 #13-2,complete,,,,,Anzahl,bar
@@ -50,5 +50,6 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #8-6,complete,,,,,BIP/DMIa,bar
 #8-8,complete,,,,,Prozent,line
 #9-2,complete,,,,,Prozent,line
+#9-3,complete,,,,,Prozent,line
 #9-4,complete,,,,,Prozent,line
 #9-5,complete,,,,,Anzahl,line
