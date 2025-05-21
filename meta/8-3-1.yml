@@ -1,0 +1,26 @@
+indicator_name: 'Arbeitslosenquote'
+indicator_number: 8-3-1
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'BA-Statistik'
+source_url_1: 'https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=27098&topic_f=gemeinde-arbeitslose-quoten'
+graph_title: 'Differenzierte Arbeitslosenquote an allen zivilen Erwerbspersonen'
+graph_type: line
+data_start_values:
+  - field: 'Arbeitslosenquoten'
+    value: 'Arbeitslosenquote insgesamt'
+  - field: 'Arbeitslosenquoten'
+    value: 'Männer'
+  - field: 'Arbeitslosenquoten'
+    value: 'Frauen'
+  - field: 'Arbeitslosenquoten'
+    value: 'Ausländer'
+  - field: 'Arbeitslosenquoten'
+    value: 'Langzeitarbeitslose'
+publications:
+  - title: 'Indikator Arbeitslosenquote'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
+reporting_status: complete
