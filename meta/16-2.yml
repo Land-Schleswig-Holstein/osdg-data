@@ -1,0 +1,26 @@
+indicator_name: 'Personalausstattung in Gerichten und Staatsanwaltschaften'
+indicator_number: 16-2
+computation_units: 'Deckungsgrad'
+source_active_1: true
+source_organisation_1: 'datapine'
+source_url_1: 'Link zur Quelle'
+graph_title: 'PEBB§Y-Deckungsgrad in Prozent – Personalausstattung in Gerichten und Staatsanwaltschaften'
+graph_type: bar
+data_start_values:
+  - field: 'Bereich'
+    value: 'Richter-Geschäfte'
+  - field: 'Bereich'
+    value: 'Staatsanwalts-Geschäfte'
+  - field: 'Bereich'
+    value: 'Amtsanwalts-Geschäfte'
+  - field: 'Bereich'
+    value: 'Rechtspfleger-Geschäfte bzw. verglb. Tarifbeschäftigte'
+  - field: 'Bereich'
+    value: 'Serviceeinheiten-Geschäfte'
+publications:
+  - title: 'Indikator Personalausstattung in Gerichten und Staatsanwaltschaften'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-22
+reporting_status: complete
