@@ -15,9 +15,9 @@ data_start_values:
   - field: 'Verkehrsmittel'
     value: 'ÖV'
   - field: 'Verkehrsmittel'
-    value: 'MIV Mitfahrer/in/ Taxi'
+    value: 'MIV Mitfahrer:in/ Taxi'
   - field: 'Verkehrsmittel'
-    value: 'MIV Fahrer/in'
+    value: 'MIV Fahrer:in'
 publications:
   - title: 'Indikator Modal Split'
     link: 'Link zum redaktionellen Text'
