@@ -1623,6 +1623,60 @@
       "title": "SGB-II-Quote gesamt"
     },
     {
+      "path": "16-2/data.csv",
+      "name": "16-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Bereich",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Servicekräfte in Finanzgerichtsbarkeit",
+                "Rechtspfleger in Finanzgerichtsbarkeit",
+                "Richter/innen in Finanzgerichtsbarkeit",
+                "Serviceeinheiten in Arbeitsgerichtsbarkeit",
+                "Rechtspfleger in Arbeitsgerichtsbarkeit",
+                "Richterinnen in Arbeitsgerichtsbarkeit",
+                "Serviceeinheiten in Verwaltungsgerichtsbarkeit",
+                "Rechtspfleger in Verwaltungsgerichtsbarkeit",
+                "Richterinnen in Verwaltungsgerichtsbarkeit",
+                "Serviceeinheiten in Sozialgerichtsbarkeit",
+                "Rechtspfleger in Sozialgerichtsbarkeit",
+                "Richterinnen in Sozialgerichtsbarkeit",
+                "Amtsanwälte in Staatsanwaltschaft",
+                "Staatsanwälte in Staatsanwaltschaft",
+                "Rechtspfleger in Staatsanwaltschaften",
+                "Serviceeinheiten in Ordentliche Gerichtsbarkeit",
+                "Rechtspfleger/Rechtspflegerinnen in Ordentliche Gerichtsbarkeit",
+                "Richter/Richterinnen in Ordentliche Gerichtsbarkeit",
+                "Richter-Geschäfte",
+                "Staatsanwalts-Geschäfte",
+                "Amtsanwalts-Geschäfte",
+                "Rechtspfleger-Geschäfte bzw. verglb. Tarifbeschäftigte",
+                "Serviceeinheiten-Geschäfte",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "16-2"
+    },
+    {
       "path": "4-2/data.csv",
       "name": "4-2",
       "profile": "tabular-data-resource",
