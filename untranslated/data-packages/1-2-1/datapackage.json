@@ -12,22 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein insgesamt",
-                "Deutschland insgesamt",
-                "Schleswig-Holstein Männer",
-                "Deutschland Männer",
-                "Schleswig-Holstein Frauen",
-                "Deutschland Frauen",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
