@@ -116,6 +116,49 @@
       "title": "Anteil der Personen unterhalb der Armutsgrenze"
     },
     {
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein insgesamt",
+                "Deutschland insgesamt",
+                "Schleswig-Holstein Männer",
+                "Deutschland Männer",
+                "Schleswig-Holstein Frauen",
+                "Deutschland Frauen",
+                "Früheres Bundesgebiet insgesamt",
+                "Neue Bundesländer (einschließlich Berlin) insgesamt",
+                "Früheres Bundesgebiet Männer",
+                "Neue Bundesländer (einschließlich Berlin) Männer",
+                "Früheres Bundesgebiet Frauen",
+                "Neue Bundesländer (einschließlich Berlin) Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Mindestsicherungsquote"
+    },
+    {
       "path": "10-6/data.csv",
       "name": "10-6",
       "profile": "tabular-data-resource",
@@ -1961,28 +2004,6 @@
         ]
       },
       "title": "Freiraumverlust"
-    },
-    {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Mindestsicherungsquote"
     }
   ]
 }

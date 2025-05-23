@@ -1,1 +1,217 @@
-Year,Value
+Year,Geschlecht,Value
+2006,Schleswig-Holstein insgesamt,10.1
+2007,Schleswig-Holstein insgesamt,9.8
+2008,Schleswig-Holstein insgesamt,9.4
+2009,Schleswig-Holstein insgesamt,9.3
+2010,Schleswig-Holstein insgesamt,8.9
+2011,Schleswig-Holstein insgesamt,9.0
+2012,Schleswig-Holstein insgesamt,9.1
+2013,Schleswig-Holstein insgesamt,9.3
+2014,Schleswig-Holstein insgesamt,9.5
+2015,Schleswig-Holstein insgesamt,10.3
+2016,Schleswig-Holstein insgesamt,10.3
+2017,Schleswig-Holstein insgesamt,10.0
+2018,Schleswig-Holstein insgesamt,9.5
+2019,Schleswig-Holstein insgesamt,9.0
+2020,Schleswig-Holstein insgesamt,9.1
+2021,Schleswig-Holstein insgesamt,8.5
+2022,Schleswig-Holstein insgesamt,8.8
+2023,Schleswig-Holstein insgesamt,9.0
+2006,Deutschland insgesamt,9.8
+2007,Deutschland insgesamt,9.5
+2008,Deutschland insgesamt,9.1
+2009,Deutschland insgesamt,9.2
+2010,Deutschland insgesamt,8.8
+2011,Deutschland insgesamt,8.7
+2012,Deutschland insgesamt,8.7
+2013,Deutschland insgesamt,8.9
+2014,Deutschland insgesamt,9.1
+2015,Deutschland insgesamt,9.7
+2016,Deutschland insgesamt,9.5
+2017,Deutschland insgesamt,9.2
+2018,Deutschland insgesamt,8.7
+2019,Deutschland insgesamt,8.3
+2020,Deutschland insgesamt,8.3
+2021,Deutschland insgesamt,8.0
+2022,Deutschland insgesamt,8.5
+2023,Deutschland insgesamt,8.6
+2006,Schleswig-Holstein Männer,10.3
+2007,Schleswig-Holstein Männer,9.9
+2008,Schleswig-Holstein Männer,9.4
+2009,Schleswig-Holstein Männer,9.4
+2010,Schleswig-Holstein Männer,9.0
+2011,Schleswig-Holstein Männer,9.2
+2012,Schleswig-Holstein Männer,9.2
+2013,Schleswig-Holstein Männer,9.4
+2014,Schleswig-Holstein Männer,9.7
+2015,Schleswig-Holstein Männer,10.9
+2016,Schleswig-Holstein Männer,10.8
+2017,Schleswig-Holstein Männer,10.4
+2018,Schleswig-Holstein Männer,9.9
+2019,Schleswig-Holstein Männer,9.4
+2020,Schleswig-Holstein Männer,9.5
+2021,Schleswig-Holstein Männer,8.8
+2022,Schleswig-Holstein Männer,9.0
+2023,Schleswig-Holstein Männer,9.3
+2006,Deutschland Männer,9.9
+2007,Deutschland Männer,9.6
+2008,Deutschland Männer,9.0
+2009,Deutschland Männer,9.2
+2010,Deutschland Männer,8.8
+2011,Deutschland Männer,8.7
+2012,Deutschland Männer,8.7
+2013,Deutschland Männer,8.9
+2014,Deutschland Männer,9.2
+2015,Deutschland Männer,10.1
+2016,Deutschland Männer,10.0
+2017,Deutschland Männer,9.5
+2018,Deutschland Männer,8.9
+2019,Deutschland Männer,8.5
+2020,Deutschland Männer,8.6
+2021,Deutschland Männer,8.2
+2022,Deutschland Männer,8.6
+2023,Deutschland Männer,8.8
+2006,Schleswig-Holstein Frauen,9.9
+2007,Schleswig-Holstein Frauen,9.7
+2008,Schleswig-Holstein Frauen,9.4
+2009,Schleswig-Holstein Frauen,9.2
+2010,Schleswig-Holstein Frauen,8.8
+2011,Schleswig-Holstein Frauen,8.9
+2012,Schleswig-Holstein Frauen,8.9
+2013,Schleswig-Holstein Frauen,9.2
+2014,Schleswig-Holstein Frauen,9.3
+2015,Schleswig-Holstein Frauen,9.8
+2016,Schleswig-Holstein Frauen,9.8
+2017,Schleswig-Holstein Frauen,9.5
+2018,Schleswig-Holstein Frauen,9.1
+2019,Schleswig-Holstein Frauen,8.7
+2020,Schleswig-Holstein Frauen,8.7
+2021,Schleswig-Holstein Frauen,8.1
+2022,Schleswig-Holstein Frauen,8.7
+2023,Schleswig-Holstein Frauen,8.7
+2006,Deutschland Frauen,9.7
+2007,Deutschland Frauen,9.5
+2008,Deutschland Frauen,9.1
+2009,Deutschland Frauen,9.1
+2010,Deutschland Frauen,8.7
+2011,Deutschland Frauen,8.6
+2012,Deutschland Frauen,8.7
+2013,Deutschland Frauen,8.8
+2014,Deutschland Frauen,8.9
+2015,Deutschland Frauen,9.3
+2016,Deutschland Frauen,9.1
+2017,Deutschland Frauen,8.8
+2018,Deutschland Frauen,8.4
+2019,Deutschland Frauen,8.0
+2020,Deutschland Frauen,8.0
+2021,Deutschland Frauen,7.7
+2022,Deutschland Frauen,8.5
+2023,Deutschland Frauen,8.5
+2006,Früheres Bundesgebiet insgesamt,8.3
+2007,Früheres Bundesgebiet insgesamt,8.1
+2008,Früheres Bundesgebiet insgesamt,7.8
+2009,Früheres Bundesgebiet insgesamt,8.0
+2010,Früheres Bundesgebiet insgesamt,7.7
+2011,Früheres Bundesgebiet insgesamt,7.6
+2012,Früheres Bundesgebiet insgesamt,7.6
+2013,Früheres Bundesgebiet insgesamt,7.9
+2014,Früheres Bundesgebiet insgesamt,8.2
+2015,Früheres Bundesgebiet insgesamt,8.9
+2016,Früheres Bundesgebiet insgesamt,8.9
+2017,Früheres Bundesgebiet insgesamt,8.6
+2018,Früheres Bundesgebiet insgesamt,8.2
+2019,Früheres Bundesgebiet insgesamt,7.9
+2020,Früheres Bundesgebiet insgesamt,8.0
+2021,Früheres Bundesgebiet insgesamt,7.7
+2022,Früheres Bundesgebiet insgesamt,8.3
+2023,Früheres Bundesgebiet insgesamt,8.4
+2006,Neue Bundesländer (einschließlich Berlin) insgesamt,15.6
+2007,Neue Bundesländer (einschließlich Berlin) insgesamt,15.2
+2008,Neue Bundesländer (einschließlich Berlin) insgesamt,14.3
+2009,Neue Bundesländer (einschließlich Berlin) insgesamt,14.0
+2010,Neue Bundesländer (einschließlich Berlin) insgesamt,13.2
+2011,Neue Bundesländer (einschließlich Berlin) insgesamt,13.1
+2012,Neue Bundesländer (einschließlich Berlin) insgesamt,13.0
+2013,Neue Bundesländer (einschließlich Berlin) insgesamt,12.9
+2014,Neue Bundesländer (einschließlich Berlin) insgesamt,12.8
+2015,Neue Bundesländer (einschließlich Berlin) insgesamt,13.0
+2016,Neue Bundesländer (einschließlich Berlin) insgesamt,12.2
+2017,Neue Bundesländer (einschließlich Berlin) insgesamt,11.4
+2018,Neue Bundesländer (einschließlich Berlin) insgesamt,10.6
+2019,Neue Bundesländer (einschließlich Berlin) insgesamt,9.9
+2020,Neue Bundesländer (einschließlich Berlin) insgesamt,9.7
+2021,Neue Bundesländer (einschließlich Berlin) insgesamt,9.2
+2022,Neue Bundesländer (einschließlich Berlin) insgesamt,9.7
+2023,Neue Bundesländer (einschließlich Berlin) insgesamt,9.7
+2006,Früheres Bundesgebiet Männer,8.3
+2007,Früheres Bundesgebiet Männer,8.0
+2008,Früheres Bundesgebiet Männer,7.6
+2009,Früheres Bundesgebiet Männer,7.9
+2010,Früheres Bundesgebiet Männer,7.6
+2011,Früheres Bundesgebiet Männer,7.5
+2012,Früheres Bundesgebiet Männer,7.6
+2013,Früheres Bundesgebiet Männer,7.8
+2014,Früheres Bundesgebiet Männer,8.2
+2015,Früheres Bundesgebiet Männer,9.2
+2016,Früheres Bundesgebiet Männer,9.2
+2017,Früheres Bundesgebiet Männer,8.9
+2018,Früheres Bundesgebiet Männer,8.4
+2019,Früheres Bundesgebiet Männer,8.0
+2020,Früheres Bundesgebiet Männer,8.2
+2021,Früheres Bundesgebiet Männer,7.8
+2022,Früheres Bundesgebiet Männer,8.2
+2023,Früheres Bundesgebiet Männer,8.5
+2006,Neue Bundesländer (einschließlich Berlin) Männer,16.2
+2007,Neue Bundesländer (einschließlich Berlin) Männer,15.7
+2008,Neue Bundesländer (einschließlich Berlin) Männer,14.7
+2009,Neue Bundesländer (einschließlich Berlin) Männer,14.5
+2010,Neue Bundesländer (einschließlich Berlin) Männer,13.7
+2011,Neue Bundesländer (einschließlich Berlin) Männer,13.6
+2012,Neue Bundesländer (einschließlich Berlin) Männer,13.4
+2013,Neue Bundesländer (einschließlich Berlin) Männer,13.4
+2014,Neue Bundesländer (einschließlich Berlin) Männer,13.3
+2015,Neue Bundesländer (einschließlich Berlin) Männer,13.8
+2016,Neue Bundesländer (einschließlich Berlin) Männer,12.9
+2017,Neue Bundesländer (einschließlich Berlin) Männer,12.1
+2018,Neue Bundesländer (einschließlich Berlin) Männer,11.3
+2019,Neue Bundesländer (einschließlich Berlin) Männer,10.5
+2020,Neue Bundesländer (einschließlich Berlin) Männer,10.5
+2021,Neue Bundesländer (einschließlich Berlin) Männer,9.9
+2022,Neue Bundesländer (einschließlich Berlin) Männer,10.2
+2023,Neue Bundesländer (einschließlich Berlin) Männer,10.4
+2006,Früheres Bundesgebiet Frauen,8.3
+2007,Früheres Bundesgebiet Frauen,8.2
+2008,Früheres Bundesgebiet Frauen,7.9
+2009,Früheres Bundesgebiet Frauen,8.0
+2010,Früheres Bundesgebiet Frauen,7.7
+2011,Früheres Bundesgebiet Frauen,7.7
+2012,Früheres Bundesgebiet Frauen,7.7
+2013,Früheres Bundesgebiet Frauen,8.0
+2014,Früheres Bundesgebiet Frauen,8.1
+2015,Früheres Bundesgebiet Frauen,8.6
+2016,Früheres Bundesgebiet Frauen,8.5
+2017,Früheres Bundesgebiet Frauen,8.4
+2018,Früheres Bundesgebiet Frauen,8.0
+2019,Früheres Bundesgebiet Frauen,7.7
+2020,Früheres Bundesgebiet Frauen,7.8
+2021,Früheres Bundesgebiet Frauen,7.5
+2022,Früheres Bundesgebiet Frauen,8.3
+2023,Früheres Bundesgebiet Frauen,8.3
+2006,Neue Bundesländer (einschließlich Berlin) Frauen,15.0
+2007,Neue Bundesländer (einschließlich Berlin) Frauen,14.7
+2008,Neue Bundesländer (einschließlich Berlin) Frauen,13.9
+2009,Neue Bundesländer (einschließlich Berlin) Frauen,13.5
+2010,Neue Bundesländer (einschließlich Berlin) Frauen,12.7
+2011,Neue Bundesländer (einschließlich Berlin) Frauen,12.6
+2012,Neue Bundesländer (einschließlich Berlin) Frauen,12.5
+2013,Neue Bundesländer (einschließlich Berlin) Frauen,12.5
+2014,Neue Bundesländer (einschließlich Berlin) Frauen,12.3
+2015,Neue Bundesländer (einschließlich Berlin) Frauen,12.1
+2016,Neue Bundesländer (einschließlich Berlin) Frauen,11.4
+2017,Neue Bundesländer (einschließlich Berlin) Frauen,10.7
+2018,Neue Bundesländer (einschließlich Berlin) Frauen,10.0
+2019,Neue Bundesländer (einschließlich Berlin) Frauen,9.2
+2020,Neue Bundesländer (einschließlich Berlin) Frauen,9.1
+2021,Neue Bundesländer (einschließlich Berlin) Frauen,8.5
+2022,Neue Bundesländer (einschließlich Berlin) Frauen,9.2
+2023,Neue Bundesländer (einschließlich Berlin) Frauen,9.1
