@@ -12,25 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Art der Hilfe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gesamt",
-                "SGB II",
-                "SGB XII - HLU",
-                "SGB XII - Grundsicherung",
-                "AsylbLG",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
