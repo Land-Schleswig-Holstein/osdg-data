@@ -376,6 +376,43 @@
       "title": "Arbeitslosenquote"
     },
     {
+      "path": "4-3/data.csv",
+      "name": "4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Stufe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Qualitätsstufe 1",
+                "Qualitätsstufe 2",
+                "Qualitätsstufe 3",
+                ""
+              ]
+            },
+            "title": "Stufe"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "4-3"
+    },
+    {
       "path": "9-5/data.csv",
       "name": "9-5",
       "profile": "tabular-data-resource",
