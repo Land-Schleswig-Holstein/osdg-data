@@ -19,7 +19,7 @@ data_start_values:
     value: 'Schleswig-Holstein Frauen'
   - field: 'Geschlecht'
     value: 'Deutschland Frauen'
-graph_limits
+graph_limits:
   - minimum: 7
     maximum: 17
 publications:
