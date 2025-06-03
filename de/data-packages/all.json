@@ -1737,6 +1737,56 @@
       "title": "Private und öffentliche Ausgaben für Forschung und Entwicklung"
     },
     {
+      "path": "3-3/data.csv",
+      "name": "3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamt",
+                "Flensburg",
+                "Kiel",
+                "Lübeck",
+                "Neumünster",
+                "Dithmarschen",
+                "Hzgt. Lauenburg",
+                "Nordfriesland",
+                "Ostholstein",
+                "Pinneberg",
+                "Plön",
+                "Rendsburg-Eckernförde",
+                "Segeberg",
+                "Steinburg",
+                "Stormarn",
+                "Schleswig-Flensburg",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "3-3"
+    },
+    {
       "path": "8-5/data.csv",
       "name": "8-5",
       "profile": "tabular-data-resource",
