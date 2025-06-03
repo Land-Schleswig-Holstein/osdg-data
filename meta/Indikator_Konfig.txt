@@ -25,10 +25,11 @@ footer_fields:
 
 # Begrenzung y-Achse
   graph_limits
-    - unit: tons
+    - unit: ''
       minimum: 2
       maximum: 20
-  - unit: passengers
+  # alternative Ergänzung:
+    - unit: passengers
       minimum: 200
       maximum: 2000
 
