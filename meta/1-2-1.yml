@@ -20,9 +20,8 @@ data_start_values:
   - field: 'Geschlecht'
     value: 'Deutschland Frauen'
 graph_limits
-   - unit: 
-     minimum: 7
-     maximum: 17
+  - minimum: 7
+    maximum: 17
 publications:
   - title: 'Indikator Mindestsicherungsquote'
     link: 'Link zum redaktionellen Text'
