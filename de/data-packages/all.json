@@ -2160,42 +2160,6 @@
       "title": "Erwerbstätigenquote von Menschen mit Migrationshintergrund"
     },
     {
-      "path": "15-1/data.csv",
-      "name": "15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Deutschland",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Anstieg Siedlungs- und Verkehrsflächen"
-    },
-    {
       "path": "1-4/data.csv",
       "name": "1-4",
       "profile": "tabular-data-resource",
@@ -2264,6 +2228,30 @@
         ]
       },
       "title": "Freiraumverlust"
+    },
+    {
+      "path": "15-1/data.csv",
+      "name": "15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Jahr"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Anstieg Siedlungs- und Verkehrsflächen"
     }
   ]
 }
