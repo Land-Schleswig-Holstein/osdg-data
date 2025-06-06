@@ -1043,6 +1043,46 @@
       "title": "Lärmbelastung"
     },
     {
+      "path": "4-1/data.csv",
+      "name": "4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kita 0 - 2 Jahre",
+                "Kita 3 - 5 Jahre",
+                "Kita u. TP 0 - 2 Jahre",
+                "Kita u. TP 3 - 5 Jahre",
+                "TP ohne Kita 0 - 2 Jahre",
+                "TP ohne Kita 3 - 5 Jahre",
+                ""
+              ]
+            },
+            "title": "Altersgruppe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ganztagsbetreuung für Kinder"
+    },
+    {
       "path": "8-6/data.csv",
       "name": "8-6",
       "profile": "tabular-data-resource",
@@ -2224,30 +2264,6 @@
         ]
       },
       "title": "Freiraumverlust"
-    },
-    {
-      "path": "4-1/data.csv",
-      "name": "4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ganztagsbetreuung für Kinder"
     }
   ]
 }
