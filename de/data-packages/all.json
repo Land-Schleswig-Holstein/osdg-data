@@ -2244,7 +2244,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Gruppe",
+            "name": "Freiraumverlust",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2252,7 +2252,7 @@
                 ""
               ]
             },
-            "title": "Gruppe"
+            "title": "Freiraumverlust"
           },
           {
             "name": "Value",

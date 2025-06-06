@@ -2069,7 +2069,7 @@
             "type": "string"
           },
           {
-            "name": "Gruppe",
+            "name": "Freiraumverlust",
             "type": "string",
             "constraints": {
               "enum": [
