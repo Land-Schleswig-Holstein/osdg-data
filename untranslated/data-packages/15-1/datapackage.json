@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Deutschland",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }
