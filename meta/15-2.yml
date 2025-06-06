@@ -7,8 +7,8 @@ source_url_1: 'Link zur Quelle'
 graph_title: 'Veränderung der Freiraumfläche in m² je Einwohnerin und Einwohner – gleitender Mittelwert über vier Jahre'
 graph_type: bar
 data_start_values:
-  - field: 'Gruppe'
-    value: 'Freiraumverlust (m²/Einwohner)'
+  - field: 'Freiraumverlust'
+    value: 'Freiraumverlust'
 publications:
   - title: 'Indikator Freiraumverlust'
     link: 'Link zum redaktionellen Text'
