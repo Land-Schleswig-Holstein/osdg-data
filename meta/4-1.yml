@@ -15,6 +15,10 @@ data_start_values:
     value: 'Kita u. TP 0 - 2 Jahre'
   - field: 'Altersgruppe'
     value: 'Kita u. TP 3 - 5 Jahre'
+  - field: 'Altersgruppe'
+    value: 'TP ohne Kita 0 - 2 Jahre'
+  - field: 'Altersgruppe'
+    value: 'TP ohne Kita 3 - 5 Jahre'
 publications:
   - title: 'Indikator Ganztagsbetreuung für Kinder'
     link: 'Link zum redaktionellen Text'
