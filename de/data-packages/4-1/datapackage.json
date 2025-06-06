@@ -12,22 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Altersgruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kita 0 - 2 Jahre",
-                "Kita 3 - 5 Jahre",
-                "Kita u. TP 0 - 2 Jahre",
-                "Kita u. TP 3 - 5 Jahre",
-                ""
-              ]
-            },
-            "title": "Altersgruppe"
           },
           {
             "name": "Value",
