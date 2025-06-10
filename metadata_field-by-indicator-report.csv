@@ -45,7 +45,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #5-1-1,complete,,,,,Euro,bar
 #5-1-2,complete,,,,,Euro,line
 #5-2,complete,,,,,€,line
-#5-4,complete,,,,,,line
+#5-4,complete,,,,,Prozent,bar
 #5-5,complete,,,,,Prozent,bar
 #7-1,complete,,,,,Index,line
 #7-3,complete,,,,,GWh,bar

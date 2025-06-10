@@ -3,8 +3,8 @@
   "title": "All indicators",
   "resources": [
     {
-      "path": "3-6/data.csv",
-      "name": "3-6",
+      "path": "4-8/data.csv",
+      "name": "4-8",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -18,18 +18,56 @@
             "title": "Jahr"
           },
           {
-            "name": "Jahresmittelwert PM10",
+            "name": "Raum",
             "type": "string",
             "constraints": {
               "enum": [
-                "maximaler Jahresmittelwert",
-                "minimaler Jahresmittelwert",
-                "3 Jahres Mittelwert über alle Stationen",
-                "Orientierungswert der WHO",
+                "Deutschland",
+                "Schleswig-Holstein",
+                "OECD-Durchschnitt",
                 ""
               ]
             },
-            "title": "Jahresmittelwert PM10"
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Bildungsstand der Bevölkerung - Anteil der 25- bis 34-Jährigen, die mindestens über einen Abschluss des Sekundarbereichs II verfügen (Stufen 3-8 der Internationalen Standardklassifikation des Bildungswesens, ISCED"
+    },
+    {
+      "path": "5-4/data.csv",
+      "name": "5-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Frauenanteil",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Landesparlament",
+                "Kommunalvertretungen",
+                "Landesregierung",
+                "Kommunale Verwaltungsspitzen",
+                "Orientierungswert",
+                ""
+              ]
+            },
+            "title": "Frauenanteil"
           },
           {
             "name": "Value",
@@ -38,7 +76,164 @@
           }
         ]
       },
-      "title": "Feinstaubbelastung"
+      "title": "Frauen in Führungspositionen in der Politik"
+    },
+    {
+      "path": "11-2/data.csv",
+      "name": "11-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Verkehrsmittel",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "zu Fuß",
+                "Fahrrad",
+                "ÖV",
+                "MIV Mitfahrer:in/ Taxi",
+                "MIV Fahrer:in",
+                ""
+              ]
+            },
+            "title": "Verkehrsmittel"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Modal Split"
+    },
+    {
+      "path": "8-8/data.csv",
+      "name": "8-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-9",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Erwerbstätigenquote",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH - Anteil Alter 20-64 Jahre insgesamt",
+                "Bund - Anteil Alter 20-64 Jahre insgesamt",
+                "SH -  Anteil Alter 60-64 Jahre insgesamt",
+                "Bund - Anteil Alter 60-64 Jahre insgesamt",
+                "SH - Anteil Alter 20-64 Jahre m",
+                "SH - Anteil Alter 20-64 Jahre w",
+                "SH - Anteil Alter 60-64 Jahre m",
+                "SH - Anteil Alter 60-64 Jahre w",
+                "Bund - Anteil Alter 20-64 Jahre m",
+                "Bund - Anteil Alter 20-64 Jahre w",
+                "Bund - Anteil Alter 60-64 Jahre m",
+                "Bund - Anteil Alter 60-64 Jahre w",
+                ""
+              ]
+            },
+            "title": "Erwerbstätigenquote"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Erwerbstätigenquote"
+    },
+    {
+      "path": "15-6/data.csv",
+      "name": "15-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Bund",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Landwirtschaftsflächen mit hohem Naturwert – High Nature Value Farmland (HNV)"
+    },
+    {
+      "path": "7-1/data.csv",
+      "name": "7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Produktivitätsindex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EEV",
+                "THG",
+                ""
+              ]
+            },
+            "title": "Produktivitätsindex"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Treibhausgas- und Energieproduktivität"
     },
     {
       "path": "9-3/data.csv",
@@ -75,6 +270,455 @@
         ]
       },
       "title": "Zahl der Haushalte, für die ein Glasfaseranschluss (FTTB/FFTH) verfügbar ist"
+    },
+    {
+      "path": "15-2/data.csv",
+      "name": "15-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Jahr"
+          },
+          {
+            "name": "Freiraumverlust",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Freiraumverlust",
+                ""
+              ]
+            },
+            "title": "Freiraumverlust"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Freiraumverlust"
+    },
+    {
+      "path": "4-4/data.csv",
+      "name": "4-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Zertifizierte Bildungsakteure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Zertifizierte gesamt",
+                ""
+              ]
+            },
+            "title": "Zertifizierte Bildungsakteure"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Zertifizierte außerschulische Bildungseinrichtungen für Nachhaltigkeit"
+    },
+    {
+      "path": "4-6/data.csv",
+      "name": "4-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Deutschland",
+                "EU-27 (28)",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Sozialer Ausgleich im Bildungssystem - Frühe Schulabgängerinnen und Schulabgänger"
+    },
+    {
+      "path": "12-1/data.csv",
+      "name": "12-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Aufkommen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Siedlungsabfälle (SH)",
+                "Siedlungsabfälle (Deutschland)",
+                "Haus- und Sperrmüll (SH)",
+                "Haus- und Sperrmüll (Deutschland)",
+                "Leichtverpackungen (SH)",
+                "Leichtverpackungen (Deutschland)",
+                ""
+              ]
+            },
+            "title": "Aufkommen"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Siedlungsabfallaufkommen"
+    },
+    {
+      "path": "3-7/data.csv",
+      "name": "3-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-1",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LDEN",
+                "LNIGHT>55",
+                ""
+              ]
+            },
+            "title": "Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Lärmbelastung"
+    },
+    {
+      "path": "8-2/data.csv",
+      "name": "8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Schuldenstand",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schuldenstand je Einwohnerin und Einwohner",
+                ""
+              ]
+            },
+            "title": "Schuldenstand"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Schuldenstand"
+    },
+    {
+      "path": "1-3/data.csv",
+      "name": "1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "SGB-II-Leistungsberechtigte",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SGB-II-Leistungsberechtigte",
+                ""
+              ]
+            },
+            "title": "SGB-II-Leistungsberechtigte"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "SGB-II-Quote gesamt"
+    },
+    {
+      "path": "8-6/data.csv",
+      "name": "8-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Rohstoffproduktivität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rohstoffproduktivität",
+                ""
+              ]
+            },
+            "title": "Rohstoffproduktivität"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Rohstoffproduktivität"
+    },
+    {
+      "path": "4-1/data.csv",
+      "name": "4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Altersgruppe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kita 0 - 2 Jahre",
+                "Kita 3 - 5 Jahre",
+                "Kita u. TP 0 - 2 Jahre",
+                "Kita u. TP 3 - 5 Jahre",
+                "TP ohne Kita 0 - 2 Jahre",
+                "TP ohne Kita 3 - 5 Jahre",
+                ""
+              ]
+            },
+            "title": "Altersgruppe"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ganztagsbetreuung für Kinder"
+    },
+    {
+      "path": "10-5/data.csv",
+      "name": "10-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Erwerbstätigenquote",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre insgesamt)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre m)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre w)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre insgesamt)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre m)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre w)",
+                ""
+              ]
+            },
+            "title": "Erwerbstätigenquote"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Erwerbstätigenquote von Menschen mit Migrationshintergrund"
+    },
+    {
+      "path": "7-3/data.csv",
+      "name": "7-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Verbrauchssektor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Industrie",
+                "Verkehr",
+                "Haushalte",
+                "Gewerbe Handel Dienstleistungen",
+                ""
+              ]
+            },
+            "title": "Verbrauchssektor"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Energieverbrauch nach Sektoren"
+    },
+    {
+      "path": "4-5/data.csv",
+      "name": "4-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Kontinente",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inländer",
+                "EU ohne DE",
+                "Europa ohne EU und ohne DE",
+                "Afrika",
+                "Amerika",
+                "Asien",
+                "Austr./Ozean.",
+                "sonst./unbek.",
+                "Insgesamt",
+                ""
+              ]
+            },
+            "title": "Kontinente"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Studierende mit ausländischer Staatsangehörigkeit"
     },
     {
       "path": "1-1/data.csv",
@@ -125,8 +769,972 @@
       "title": "Anteil der Personen unterhalb der Armutsgrenze"
     },
     {
-      "path": "1-2-1/data.csv",
-      "name": "1-2-1",
+      "path": "16-1/data.csv",
+      "name": "16-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Bund",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Häufigkeitszahl Straftaten"
+    },
+    {
+      "path": "4-9/data.csv",
+      "name": "4-9",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "Schleswig-Holstein",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
+    },
+    {
+      "path": "4-3/data.csv",
+      "name": "4-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Stufe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Qualitätsstufe 1",
+                "Qualitätsstufe 2",
+                "Qualitätsstufe 3",
+                ""
+              ]
+            },
+            "title": "Stufe"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Zukunftsschulen"
+    },
+    {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Arbeitslosenquoten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arbeitslosenquote insgesamt",
+                "Männer",
+                "Frauen",
+                "Ausländer",
+                "Langzeitarbeitslose",
+                ""
+              ]
+            },
+            "title": "Arbeitslosenquoten"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Arbeitslosenquote"
+    },
+    {
+      "path": "16-5/data.csv",
+      "name": "16-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Fokusleistungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anlagengenehmigung und -zulassung",
+                "Bauvorbescheid und Baugenehmigung",
+                "Bürgergeld",
+                "Eheschließung",
+                "Einbürgerung",
+                "Elterngeld",
+                "Führerschein",
+                "Handwerksgründung /-register /-karte",
+                "Öffentliche Vergabe",
+                "Personalausweis",
+                "Ummeldung",
+                "Unterhaltsvorschuss",
+                "Unternehmensanmeldung und -genehmigung",
+                "Wohngeld",
+                ""
+              ]
+            },
+            "title": "Fokusleistungen"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind, insbesondere Fokusleistungen"
+    },
+    {
+      "path": "8-3-2/data.csv",
+      "name": "8-3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Anteil der Arbeitslosen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anteil Langzeitarbeitslose",
+                "Anteil Alleinerziehende",
+                "Anteil Menschen ohne abgeschlossene Berufsausbildung",
+                ""
+              ]
+            },
+            "title": "Anteil der Arbeitslosen"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Arbeitslosenquote"
+    },
+    {
+      "path": "9-2/data.csv",
+      "name": "9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Ausbaustand Mobilfunk LTE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ausbaustand Mobilfunk LTE",
+                ""
+              ]
+            },
+            "title": "Ausbaustand Mobilfunk LTE"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Mobilfunkabdeckung"
+    },
+    {
+      "path": "8-5/data.csv",
+      "name": "8-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Materialverbrauch",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Materialverbrauch",
+                ""
+              ]
+            },
+            "title": "Materialverbrauch"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Materialverbrauch"
+    },
+    {
+      "path": "5-5/data.csv",
+      "name": "5-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Frauenanteil",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Abteilungsleitung oberste Landesbehörden",
+                "Referatsleitung oberste Landesbehörden",
+                "Justiz",
+                "Hochschulprofessuren",
+                "Juniorprofessuren",
+                ""
+              ]
+            },
+            "title": "Frauenanteil"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Frauen in Führungspositionen  im öffentlichen Dienst"
+    },
+    {
+      "path": "2-1/data.csv",
+      "name": "2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH Stickstoff-Überschuss in der Landwirtschaft ",
+                "Deutschland Stickstoff-Überschuss in der Landwirtschaft",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Stickstoffüberschuss in der Landwirtschaft"
+    },
+    {
+      "path": "1-4/data.csv",
+      "name": "1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Leistungsbeziehende",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SGB II - U 15 Leistungsbeziehende",
+                ""
+              ]
+            },
+            "title": "Leistungsbeziehende"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "SGB-II-Quote der unter 15-Jährigen"
+    },
+    {
+      "path": "10-7/data.csv",
+      "name": "10-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Einwohnerzahl",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "unter 2.000",
+                "2.000-5.000",
+                "5.000-10.000",
+                "über 10.000",
+                ""
+              ]
+            },
+            "title": "Einwohnerzahl"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Kommunen mit Vertretungen für Seniorinnen und Senioren"
+    },
+    {
+      "path": "3-3/data.csv",
+      "name": "3-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamt",
+                "Flensburg",
+                "Kiel",
+                "Lübeck",
+                "Neumünster",
+                "Dithmarschen",
+                "Hzgt. Lauenburg",
+                "Nordfriesland",
+                "Ostholstein",
+                "Pinneberg",
+                "Plön",
+                "Rendsburg-Eckernförde",
+                "Segeberg",
+                "Steinburg",
+                "Stormarn",
+                "Schleswig-Flensburg",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Flächendeckendes Angebot von Pflegestützpunkten"
+    },
+    {
+      "path": "10-2/data.csv",
+      "name": "10-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Arbeitgeber (AG)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quote priv. AG",
+                "Quote öffentl. AG",
+                "gesamt",
+                ""
+              ]
+            },
+            "title": "Arbeitgeber (AG)"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Betriebliche Beschäftigungsquote Menschen mit Behinderungen"
+    },
+    {
+      "path": "5-2/data.csv",
+      "name": "5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Beratungsstelle",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beratungsstelle 1 (Kiel) ",
+                "Beratungsstelle 2 (Lübeck)",
+                "Gesamtförderung",
+                ""
+              ]
+            },
+            "title": "Beratungsstelle"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unterstützung im Bereich LSBTIQ*"
+    },
+    {
+      "path": "12-3/data.csv",
+      "name": "12-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ökologische Landwirtschaftsfläche"
+    },
+    {
+      "path": "10-3/data.csv",
+      "name": "10-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Ausgaben für Barrierefreiheit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "investive Vorhaben",
+                "nichtinvestive Vorhaben",
+                ""
+              ]
+            },
+            "title": "Ausgaben für Barrierefreiheit"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Ausgaben für Barrierefreiheit"
+    },
+    {
+      "path": "3-6/data.csv",
+      "name": "3-6",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Jahresmittelwert PM10",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "maximaler Jahresmittelwert",
+                "minimaler Jahresmittelwert",
+                "3 Jahres Mittelwert über alle Stationen",
+                "Orientierungswert der WHO",
+                ""
+              ]
+            },
+            "title": "Jahresmittelwert PM10"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Feinstaubbelastung"
+    },
+    {
+      "path": "13-2/data.csv",
+      "name": "13-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Anzahl",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anzahl Klimaschutzkonzepte",
+                ""
+              ]
+            },
+            "title": "Anzahl"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Anzahl kommunaler Klimaschutzkonzepte"
+    },
+    {
+      "path": "9-5/data.csv",
+      "name": "9-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Patentanmeldungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Patentanmeldungen (Anzahl)",
+                "Patentanmeldungen (Anzahl/100.000 Einwohner)",
+                ""
+              ]
+            },
+            "title": "Patentanmeldungen"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Patentanmeldungen"
+    },
+    {
+      "path": "11-1/data.csv",
+      "name": "11-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Reisezeit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Durchschnittliche Reisezeit",
+                ""
+              ]
+            },
+            "title": "Reisezeit"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Erreichbarkeit von Zentren mit dem ÖPNV"
+    },
+    {
+      "path": "16-2/data.csv",
+      "name": "16-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Bereich",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Servicekräfte in Finanzgerichtsbarkeit",
+                "Rechtspfleger in Finanzgerichtsbarkeit",
+                "Richter/innen in Finanzgerichtsbarkeit",
+                "Serviceeinheiten in Arbeitsgerichtsbarkeit",
+                "Rechtspfleger in Arbeitsgerichtsbarkeit",
+                "Richterinnen in Arbeitsgerichtsbarkeit",
+                "Serviceeinheiten in Verwaltungsgerichtsbarkeit",
+                "Rechtspfleger in Verwaltungsgerichtsbarkeit",
+                "Richterinnen in Verwaltungsgerichtsbarkeit",
+                "Serviceeinheiten in Sozialgerichtsbarkeit",
+                "Rechtspfleger in Sozialgerichtsbarkeit",
+                "Richterinnen in Sozialgerichtsbarkeit",
+                "Amtsanwälte in Staatsanwaltschaft",
+                "Staatsanwälte in Staatsanwaltschaft",
+                "Rechtspfleger in Staatsanwaltschaften",
+                "Serviceeinheiten in Ordentliche Gerichtsbarkeit",
+                "Rechtspfleger/Rechtspflegerinnen in Ordentliche Gerichtsbarkeit",
+                "Richter/Richterinnen in Ordentliche Gerichtsbarkeit",
+                "Richter-Geschäfte",
+                "Staatsanwalts-Geschäfte",
+                "Amtsanwalts-Geschäfte",
+                "Rechtspfleger-Geschäfte bzw. verglb. Tarifbeschäftigte",
+                "Serviceeinheiten-Geschäfte",
+                ""
+              ]
+            },
+            "title": "Bereich"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Personalausstattung in Gerichten und Staatsanwaltschaften"
+    },
+    {
+      "path": "16-3/data.csv",
+      "name": "16-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Gebiet",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Gebiet"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Inhaftierungsquote"
+    },
+    {
+      "path": "4-7/data.csv",
+      "name": "4-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA"
+    },
+    {
+      "path": "4-2/data.csv",
+      "name": "4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Art des Abschlusses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ohne ESA (mit Migrationshintergrund)",
+                "ESA (mit Migrationshintergrund)",
+                "MSA (mit Migrationshintergrund)",
+                "Fachhochschulreife (mit Migrationshintergrund)",
+                "Hochschulreife (mit Migrationshintergrund)",
+                "ohne ESA (ohne Migrationshintergrund)",
+                "ESA (ohne Migrationshintergrund)",
+                "MSA (ohne Migrationshintergrund)",
+                "Fachhochschulreife (ohne Migrationshintergrund)",
+                "Hochschulreife (ohne Migrationshintergrund)",
+                ""
+              ]
+            },
+            "title": "Art des Abschlusses"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Schulabsolventinnen und Schulabsolventen mit Migrationshintergrund"
+    },
+    {
+      "path": "5-1-1/data.csv",
+      "name": "5-1-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -144,18 +1752,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Schleswig-Holstein insgesamt",
-                "Deutschland insgesamt",
-                "Schleswig-Holstein Männer",
-                "Deutschland Männer",
-                "Schleswig-Holstein Frauen",
-                "Deutschland Frauen",
-                "Früheres Bundesgebiet insgesamt",
-                "Neue Bundesländer (einschließlich Berlin) insgesamt",
-                "Früheres Bundesgebiet Männer",
-                "Neue Bundesländer (einschließlich Berlin) Männer",
-                "Früheres Bundesgebiet Frauen",
-                "Neue Bundesländer (einschließlich Berlin) Frauen",
+                "Frauen",
+                "Männer",
+                "unbereinigter Gender Pay Gap ",
                 ""
               ]
             },
@@ -168,7 +1767,151 @@
           }
         ]
       },
-      "title": "Mindestsicherungsquote"
+      "title": "Verdienstabstand zwischen Frauen und Männern"
+    },
+    {
+      "path": "3-4/data.csv",
+      "name": "3-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Impfung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eine Impfung (Alter 15 Monate)",
+                "Zwei Impfungen (Alter 24 Monate)",
+                ""
+              ]
+            },
+            "title": "Impfung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Masernelimination"
+    },
+    {
+      "path": "15-1/data.csv",
+      "name": "15-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "string",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Anstieg Siedlungs- und Verkehrsflächen"
+    },
+    {
+      "path": "9-4/data.csv",
+      "name": "9-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "mac-roman",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Ausgaben für Forschung und Entwicklung",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FuE in Relation zum BIP",
+                ""
+              ]
+            },
+            "title": "Ausgaben für Forschung und Entwicklung"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Private und öffentliche Ausgaben für Forschung und Entwicklung"
+    },
+    {
+      "path": "5-1-2/data.csv",
+      "name": "5-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland - unbereinigt",
+                "Deutschland - bereinigt",
+                "SH - bereinigt",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Verdienstabstand zwischen Frauen und Männern"
     },
     {
       "path": "10-6/data.csv",
@@ -218,722 +1961,6 @@
         ]
       },
       "title": "Kommunen mit Vertretungen für Kinder und Jugendliche"
-    },
-    {
-      "path": "7-1/data.csv",
-      "name": "7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "mac-roman",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Produktivitätsindex",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EEV",
-                "THG",
-                ""
-              ]
-            },
-            "title": "Produktivitätsindex"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Treibhausgas- und Energieproduktivität"
-    },
-    {
-      "path": "12-1/data.csv",
-      "name": "12-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Aufkommen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Siedlungsabfälle (SH)",
-                "Siedlungsabfälle (Deutschland)",
-                "Haus- und Sperrmüll (SH)",
-                "Haus- und Sperrmüll (Deutschland)",
-                "Leichtverpackungen (SH)",
-                "Leichtverpackungen (Deutschland)",
-                ""
-              ]
-            },
-            "title": "Aufkommen"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Siedlungsabfallaufkommen"
-    },
-    {
-      "path": "4-5/data.csv",
-      "name": "4-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Kontinente",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Inländer",
-                "EU ohne DE",
-                "Europa ohne EU und ohne DE",
-                "Afrika",
-                "Amerika",
-                "Asien",
-                "Austr./Ozean.",
-                "sonst./unbek.",
-                "Insgesamt",
-                ""
-              ]
-            },
-            "title": "Kontinente"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Studierende mit ausländischer Staatsangehörigkeit"
-    },
-    {
-      "path": "8-3-2/data.csv",
-      "name": "8-3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Anteil der Arbeitslosen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil Langzeitarbeitslose",
-                "Anteil Alleinerziehende",
-                "Anteil Menschen ohne abgeschlossene Berufsausbildung",
-                ""
-              ]
-            },
-            "title": "Anteil der Arbeitslosen"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Arbeitslosenquote"
-    },
-    {
-      "path": "4-3/data.csv",
-      "name": "4-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Stufe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Qualitätsstufe 1",
-                "Qualitätsstufe 2",
-                "Qualitätsstufe 3",
-                ""
-              ]
-            },
-            "title": "Stufe"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Zukunftsschulen"
-    },
-    {
-      "path": "9-5/data.csv",
-      "name": "9-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Patentanmeldungen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Patentanmeldungen (Anzahl)",
-                "Patentanmeldungen (Anzahl/100.000 Einwohner)",
-                ""
-              ]
-            },
-            "title": "Patentanmeldungen"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Patentanmeldungen"
-    },
-    {
-      "path": "8-8/data.csv",
-      "name": "8-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "iso8859-9",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Erwerbstätigenquote",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH - Anteil Alter 20-64 Jahre insgesamt",
-                "Bund - Anteil Alter 20-64 Jahre insgesamt",
-                "SH -  Anteil Alter 60-64 Jahre insgesamt",
-                "Bund - Anteil Alter 60-64 Jahre insgesamt",
-                "SH - Anteil Alter 20-64 Jahre m",
-                "SH - Anteil Alter 20-64 Jahre w",
-                "SH - Anteil Alter 60-64 Jahre m",
-                "SH - Anteil Alter 60-64 Jahre w",
-                "Bund - Anteil Alter 20-64 Jahre m",
-                "Bund - Anteil Alter 20-64 Jahre w",
-                "Bund - Anteil Alter 60-64 Jahre m",
-                "Bund - Anteil Alter 60-64 Jahre w",
-                ""
-              ]
-            },
-            "title": "Erwerbstätigenquote"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Erwerbstätigenquote"
-    },
-    {
-      "path": "4-8/data.csv",
-      "name": "4-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "Schleswig-Holstein",
-                "OECD-Durchschnitt",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Bildungsstand der Bevölkerung - Anteil der 25- bis 34-Jährigen, die mindestens über einen Abschluss des Sekundarbereichs II verfügen (Stufen 3-8 der Internationalen Standardklassifikation des Bildungswesens, ISCED"
-    },
-    {
-      "path": "8-2/data.csv",
-      "name": "8-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Schuldenstand",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schuldenstand je Einwohnerin und Einwohner",
-                ""
-              ]
-            },
-            "title": "Schuldenstand"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Schuldenstand"
-    },
-    {
-      "path": "5-5/data.csv",
-      "name": "5-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Frauenanteil",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Abteilungsleitung oberste Landesbehörden",
-                "Referatsleitung oberste Landesbehörden",
-                "Justiz",
-                "Hochschulprofessuren",
-                "Juniorprofessuren",
-                ""
-              ]
-            },
-            "title": "Frauenanteil"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Frauen in Führungspositionen  im öffentlichen Dienst"
-    },
-    {
-      "path": "15-6/data.csv",
-      "name": "15-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Bund",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Landwirtschaftsflächen mit hohem Naturwert – High Nature Value Farmland (HNV)"
-    },
-    {
-      "path": "3-1/data.csv",
-      "name": "3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3-Jahreswert Schleswig-Holstein",
-                "3-Jahreswert Deutschland",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Sterberate Neugeborene"
-    },
-    {
-      "path": "10-7/data.csv",
-      "name": "10-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Einwohnerzahl",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "unter 2.000",
-                "2.000-5.000",
-                "5.000-10.000",
-                "über 10.000",
-                ""
-              ]
-            },
-            "title": "Einwohnerzahl"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Kommunen mit Vertretungen für Seniorinnen und Senioren"
-    },
-    {
-      "path": "13-1/data.csv",
-      "name": "13-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Sektor",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Energiewirtschaft",
-                "Industrie",
-                "Gewerbe Handel Dienstleistungen",
-                "Haushalte",
-                "Verkehr",
-                "Abfallwirtschaft",
-                "Landwirtschaft",
-                ""
-              ]
-            },
-            "title": "Sektor"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Treibhausgasemissionen"
-    },
-    {
-      "path": "16-3/data.csv",
-      "name": "16-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Gebiet",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Deutschland",
-                ""
-              ]
-            },
-            "title": "Gebiet"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Inhaftierungsquote"
-    },
-    {
-      "path": "11-1/data.csv",
-      "name": "11-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Reisezeit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Durchschnittliche Reisezeit",
-                ""
-              ]
-            },
-            "title": "Reisezeit"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Erreichbarkeit von Zentren mit dem ÖPNV"
-    },
-    {
-      "path": "3-4/data.csv",
-      "name": "3-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Impfung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Eine Impfung (Alter 15 Monate)",
-                "Zwei Impfungen (Alter 24 Monate)",
-                ""
-              ]
-            },
-            "title": "Impfung"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Masernelimination"
-    },
-    {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Frauen",
-                "Männer",
-                "unbereinigter Gender Pay Gap ",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Verdienstabstand zwischen Frauen und Männern"
-    },
-    {
-      "path": "9-2/data.csv",
-      "name": "9-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Ausbaustand Mobilfunk LTE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausbaustand Mobilfunk LTE",
-                ""
-              ]
-            },
-            "title": "Ausbaustand Mobilfunk LTE"
-          },
-          {
-            "name": "Value",
-            "type": "string",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Mobilfunkabdeckung"
     },
     {
       "path": "15-3/data.csv",
@@ -1007,305 +2034,8 @@
       "title": "Adipositas bei Schulanfängerinnen und Schulanfängern"
     },
     {
-      "path": "3-7/data.csv",
-      "name": "3-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "iso8859-1",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "LDEN",
-                "LNIGHT>55",
-                ""
-              ]
-            },
-            "title": "Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Lärmbelastung"
-    },
-    {
-      "path": "4-1/data.csv",
-      "name": "4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Altersgruppe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Kita 0 - 2 Jahre",
-                "Kita 3 - 5 Jahre",
-                "Kita u. TP 0 - 2 Jahre",
-                "Kita u. TP 3 - 5 Jahre",
-                "TP ohne Kita 0 - 2 Jahre",
-                "TP ohne Kita 3 - 5 Jahre",
-                ""
-              ]
-            },
-            "title": "Altersgruppe"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ganztagsbetreuung für Kinder"
-    },
-    {
-      "path": "8-6/data.csv",
-      "name": "8-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Rohstoffproduktivität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Rohstoffproduktivität",
-                ""
-              ]
-            },
-            "title": "Rohstoffproduktivität"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Rohstoffproduktivität"
-    },
-    {
-      "path": "3-2/data.csv",
-      "name": "3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum/Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_männlich",
-                "DE_männlich",
-                "SH_weiblich",
-                "DE_weiblich",
-                ""
-              ]
-            },
-            "title": "Raum/Geschlecht"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Vorzeitige Sterblichkeit"
-    },
-    {
-      "path": "13-2/data.csv",
-      "name": "13-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Anzahl",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anzahl Klimaschutzkonzepte",
-                ""
-              ]
-            },
-            "title": "Anzahl"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Anzahl kommunaler Klimaschutzkonzepte"
-    },
-    {
-      "path": "11-2/data.csv",
-      "name": "11-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Verkehrsmittel",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "zu Fuß",
-                "Fahrrad",
-                "ÖV",
-                "MIV Mitfahrer:in/ Taxi",
-                "MIV Fahrer:in",
-                ""
-              ]
-            },
-            "title": "Verkehrsmittel"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Modal Split"
-    },
-    {
-      "path": "4-7/data.csv",
-      "name": "4-7",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Deutschland",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA"
-    },
-    {
-      "path": "7-3/data.csv",
-      "name": "7-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Verbrauchssektor",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Industrie",
-                "Verkehr",
-                "Haushalte",
-                "Gewerbe Handel Dienstleistungen",
-                ""
-              ]
-            },
-            "title": "Verbrauchssektor"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Energieverbrauch nach Sektoren"
-    },
-    {
-      "path": "12-3/data.csv",
-      "name": "12-3",
+      "path": "3-1/data.csv",
+      "name": "3-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1323,8 +2053,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Schleswig-Holstein",
-                "Deutschland",
+                "3-Jahreswert Schleswig-Holstein",
+                "3-Jahreswert Deutschland",
                 ""
               ]
             },
@@ -1337,700 +2067,7 @@
           }
         ]
       },
-      "title": "Ökologische Landwirtschaftsfläche"
-    },
-    {
-      "path": "10-4/data.csv",
-      "name": "10-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens"
-    },
-    {
-      "path": "2-1/data.csv",
-      "name": "2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH Stickstoff-Überschuss in der Landwirtschaft ",
-                "Deutschland Stickstoff-Überschuss in der Landwirtschaft",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Stickstoffüberschuss in der Landwirtschaft"
-    },
-    {
-      "path": "4-9/data.csv",
-      "name": "4-9",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "Schleswig-Holstein",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
-    },
-    {
-      "path": "5-2/data.csv",
-      "name": "5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Beratungsstelle",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Beratungsstelle 1 (Kiel) ",
-                "Beratungsstelle 2 (Lübeck)",
-                "Gesamtförderung",
-                ""
-              ]
-            },
-            "title": "Beratungsstelle"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unterstützung im Bereich LSBTIQ*"
-    },
-    {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Arbeitslosenquoten",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Arbeitslosenquote insgesamt",
-                "Männer",
-                "Frauen",
-                "Ausländer",
-                "Langzeitarbeitslose",
-                ""
-              ]
-            },
-            "title": "Arbeitslosenquoten"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Arbeitslosenquote"
-    },
-    {
-      "path": "10-2/data.csv",
-      "name": "10-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Arbeitgeber (AG)",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Quote priv. AG",
-                "Quote öffentl. AG",
-                "gesamt",
-                ""
-              ]
-            },
-            "title": "Arbeitgeber (AG)"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Betriebliche Beschäftigungsquote Menschen mit Behinderungen"
-    },
-    {
-      "path": "4-4/data.csv",
-      "name": "4-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Zertifizierte Bildungsakteure",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Zertifizierte gesamt",
-                ""
-              ]
-            },
-            "title": "Zertifizierte Bildungsakteure"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Zertifizierte außerschulische Bildungseinrichtungen für Nachhaltigkeit"
-    },
-    {
-      "path": "10-3/data.csv",
-      "name": "10-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "mac-roman",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Ausgaben für Barrierefreiheit",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "investive Vorhaben",
-                "nichtinvestive Vorhaben",
-                ""
-              ]
-            },
-            "title": "Ausgaben für Barrierefreiheit"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Ausgaben für Barrierefreiheit"
-    },
-    {
-      "path": "16-1/data.csv",
-      "name": "16-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Bund",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Häufigkeitszahl Straftaten"
-    },
-    {
-      "path": "4-6/data.csv",
-      "name": "4-6",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Region",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Deutschland",
-                "EU-27 (28)",
-                ""
-              ]
-            },
-            "title": "Region"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Sozialer Ausgleich im Bildungssystem - Frühe Schulabgängerinnen und Schulabgänger"
-    },
-    {
-      "path": "9-4/data.csv",
-      "name": "9-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "mac-roman",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Ausgaben für Forschung und Entwicklung",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "FuE in Relation zum BIP",
-                ""
-              ]
-            },
-            "title": "Ausgaben für Forschung und Entwicklung"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Private und öffentliche Ausgaben für Forschung und Entwicklung"
-    },
-    {
-      "path": "3-3/data.csv",
-      "name": "3-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gesamt",
-                "Flensburg",
-                "Kiel",
-                "Lübeck",
-                "Neumünster",
-                "Dithmarschen",
-                "Hzgt. Lauenburg",
-                "Nordfriesland",
-                "Ostholstein",
-                "Pinneberg",
-                "Plön",
-                "Rendsburg-Eckernförde",
-                "Segeberg",
-                "Steinburg",
-                "Stormarn",
-                "Schleswig-Flensburg",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Flächendeckendes Angebot von Pflegestützpunkten"
-    },
-    {
-      "path": "8-5/data.csv",
-      "name": "8-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Materialverbrauch",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Materialverbrauch",
-                ""
-              ]
-            },
-            "title": "Materialverbrauch"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Materialverbrauch"
-    },
-    {
-      "path": "1-3/data.csv",
-      "name": "1-3",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "SGB-II-Leistungsberechtigte",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SGB-II-Leistungsberechtigte",
-                ""
-              ]
-            },
-            "title": "SGB-II-Leistungsberechtigte"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "SGB-II-Quote gesamt"
-    },
-    {
-      "path": "16-2/data.csv",
-      "name": "16-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Bereich",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Servicekräfte in Finanzgerichtsbarkeit",
-                "Rechtspfleger in Finanzgerichtsbarkeit",
-                "Richter/innen in Finanzgerichtsbarkeit",
-                "Serviceeinheiten in Arbeitsgerichtsbarkeit",
-                "Rechtspfleger in Arbeitsgerichtsbarkeit",
-                "Richterinnen in Arbeitsgerichtsbarkeit",
-                "Serviceeinheiten in Verwaltungsgerichtsbarkeit",
-                "Rechtspfleger in Verwaltungsgerichtsbarkeit",
-                "Richterinnen in Verwaltungsgerichtsbarkeit",
-                "Serviceeinheiten in Sozialgerichtsbarkeit",
-                "Rechtspfleger in Sozialgerichtsbarkeit",
-                "Richterinnen in Sozialgerichtsbarkeit",
-                "Amtsanwälte in Staatsanwaltschaft",
-                "Staatsanwälte in Staatsanwaltschaft",
-                "Rechtspfleger in Staatsanwaltschaften",
-                "Serviceeinheiten in Ordentliche Gerichtsbarkeit",
-                "Rechtspfleger/Rechtspflegerinnen in Ordentliche Gerichtsbarkeit",
-                "Richter/Richterinnen in Ordentliche Gerichtsbarkeit",
-                "Richter-Geschäfte",
-                "Staatsanwalts-Geschäfte",
-                "Amtsanwalts-Geschäfte",
-                "Rechtspfleger-Geschäfte bzw. verglb. Tarifbeschäftigte",
-                "Serviceeinheiten-Geschäfte",
-                ""
-              ]
-            },
-            "title": "Bereich"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Personalausstattung in Gerichten und Staatsanwaltschaften"
-    },
-    {
-      "path": "4-2/data.csv",
-      "name": "4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Art des Abschlusses",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ohne ESA (mit Migrationshintergrund)",
-                "ESA (mit Migrationshintergrund)",
-                "MSA (mit Migrationshintergrund)",
-                "Fachhochschulreife (mit Migrationshintergrund)",
-                "Hochschulreife (mit Migrationshintergrund)",
-                "ohne ESA (ohne Migrationshintergrund)",
-                "ESA (ohne Migrationshintergrund)",
-                "MSA (ohne Migrationshintergrund)",
-                "Fachhochschulreife (ohne Migrationshintergrund)",
-                "Hochschulreife (ohne Migrationshintergrund)",
-                ""
-              ]
-            },
-            "title": "Art des Abschlusses"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Schulabsolventinnen und Schulabsolventen mit Migrationshintergrund"
-    },
-    {
-      "path": "5-1-2/data.csv",
-      "name": "5-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland - unbereinigt",
-                "Deutschland - bereinigt",
-                "SH - bereinigt",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Verdienstabstand zwischen Frauen und Männern"
-    },
-    {
-      "path": "10-1/data.csv",
-      "name": "10-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Deutschland",
-                ""
-              ]
-            },
-            "title": "Raum"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Engagement-Quote"
+      "title": "Sterberate Neugeborene"
     },
     {
       "path": "1-2-2/data.csv",
@@ -2072,8 +2109,8 @@
       "title": "Mindestsicherungsquote"
     },
     {
-      "path": "16-5/data.csv",
-      "name": "16-5",
+      "path": "1-2-1/data.csv",
+      "name": "1-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2087,28 +2124,26 @@
             "title": "Jahr"
           },
           {
-            "name": "Fokusleistungen",
+            "name": "Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "Anlagengenehmigung und -zulassung",
-                "Bauvorbescheid und Baugenehmigung",
-                "Bürgergeld",
-                "Eheschließung",
-                "Einbürgerung",
-                "Elterngeld",
-                "Führerschein",
-                "Handwerksgründung /-register /-karte",
-                "Öffentliche Vergabe",
-                "Personalausweis",
-                "Ummeldung",
-                "Unterhaltsvorschuss",
-                "Unternehmensanmeldung und -genehmigung",
-                "Wohngeld",
+                "Schleswig-Holstein insgesamt",
+                "Deutschland insgesamt",
+                "Schleswig-Holstein Männer",
+                "Deutschland Männer",
+                "Schleswig-Holstein Frauen",
+                "Deutschland Frauen",
+                "Früheres Bundesgebiet insgesamt",
+                "Neue Bundesländer (einschließlich Berlin) insgesamt",
+                "Früheres Bundesgebiet Männer",
+                "Neue Bundesländer (einschließlich Berlin) Männer",
+                "Früheres Bundesgebiet Frauen",
+                "Neue Bundesländer (einschließlich Berlin) Frauen",
                 ""
               ]
             },
-            "title": "Fokusleistungen"
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -2117,11 +2152,11 @@
           }
         ]
       },
-      "title": "Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind, insbesondere Fokusleistungen"
+      "title": "Mindestsicherungsquote"
     },
     {
-      "path": "10-5/data.csv",
-      "name": "10-5",
+      "path": "13-1/data.csv",
+      "name": "13-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2135,20 +2170,21 @@
             "title": "Jahr"
           },
           {
-            "name": "Erwerbstätigenquote",
+            "name": "Sektor",
             "type": "string",
             "constraints": {
               "enum": [
-                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre insgesamt)",
-                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre m)",
-                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre w)",
-                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre insgesamt)",
-                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre m)",
-                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre w)",
+                "Energiewirtschaft",
+                "Industrie",
+                "Gewerbe Handel Dienstleistungen",
+                "Haushalte",
+                "Verkehr",
+                "Abfallwirtschaft",
+                "Landwirtschaft",
                 ""
               ]
             },
-            "title": "Erwerbstätigenquote"
+            "title": "Sektor"
           },
           {
             "name": "Value",
@@ -2157,11 +2193,11 @@
           }
         ]
       },
-      "title": "Erwerbstätigenquote von Menschen mit Migrationshintergrund"
+      "title": "Treibhausgasemissionen"
     },
     {
-      "path": "5-4/data.csv",
-      "name": "5-4",
+      "path": "10-1/data.csv",
+      "name": "10-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2172,45 +2208,6 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Jahr"
-          },
-          {
-            "name": "Frauenanteil",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Landesparlament",
-                "Kommunalvertretungen",
-                "Landesregierung",
-                "Kommunale Verwaltungsspitzen",
-                "Orientierungswert",
-                ""
-              ]
-            },
-            "title": "Frauenanteil"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "5-4"
-    },
-    {
-      "path": "15-1/data.csv",
-      "name": "15-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "string",
             "title": "Jahr"
           },
           {
@@ -2227,16 +2224,16 @@
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Anstieg Siedlungs- und Verkehrsflächen"
+      "title": "Engagement-Quote"
     },
     {
-      "path": "1-4/data.csv",
-      "name": "1-4",
+      "path": "3-2/data.csv",
+      "name": "3-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2250,15 +2247,18 @@
             "title": "Jahr"
           },
           {
-            "name": "Leistungsbeziehende",
+            "name": "Raum/Geschlecht",
             "type": "string",
             "constraints": {
               "enum": [
-                "SGB II - U 15 Leistungsbeziehende",
+                "SH_männlich",
+                "DE_männlich",
+                "SH_weiblich",
+                "DE_weiblich",
                 ""
               ]
             },
-            "title": "Leistungsbeziehende"
+            "title": "Raum/Geschlecht"
           },
           {
             "name": "Value",
@@ -2267,11 +2267,11 @@
           }
         ]
       },
-      "title": "SGB-II-Quote der unter 15-Jährigen"
+      "title": "Vorzeitige Sterblichkeit"
     },
     {
-      "path": "15-2/data.csv",
-      "name": "15-2",
+      "path": "10-4/data.csv",
+      "name": "10-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2281,28 +2281,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
-            "name": "Freiraumverlust",
+            "name": "Raum",
             "type": "string",
             "constraints": {
               "enum": [
-                "Freiraumverlust",
+                "Schleswig-Holstein",
                 ""
               ]
             },
-            "title": "Freiraumverlust"
+            "title": "Raum"
           },
           {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Freiraumverlust"
+      "title": "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens"
     }
   ]
 }
