@@ -15,7 +15,7 @@ data_start_values:
     value: 'SH -  Anteil Alter 60-64 Jahre insgesamt'
   - field: 'Erwerbstätigenquote'
     value: 'Bund - Anteil Alter 60-64 Jahre insgesamt'
- graph_limits:
+graph_limits:
     - unit: ''
       minimum: 30
       maximum: 90
