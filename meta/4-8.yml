@@ -11,8 +11,9 @@ data_start_values:
     value: 'Deutschland'
   - field: 'Raum'
     value: 'Schleswig-Holstein'
-  - field: 'Raum'
-    value: 'OECD-Durchschnitt'
+graph_target_lines:
+  - label_content: 'OECD-Durchschnitt'
+    value: 85
 publications:
   - title: 'Indikator Bildungsstand der Bevölkerung - Anteil der 25- bis 34-Jährigen, die mindestens über einen Abschluss des Sekundarbereichs II verfügen (Stufen 3-8 der Internationalen Standardklassifikation des Bildungswesens, ISCED'
     link: 'Link zum redaktionellen Text'
