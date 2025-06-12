@@ -9,6 +9,12 @@ graph_type: line
 data_start_values:
   - field: 'Ausgaben für Forschung und Entwicklung'
     value: 'FuE in Relation zum BIP'
+graph_target_lines:
+  - label_content: 'Ziel'
+    value: 3.0
+graph_limits:
+    - unit: ''
+      minimum: 1
 publications:
   - title: 'Indikator Private und öffentliche Ausgaben für Forschung und Entwicklung'
     link: 'Link zum redaktionellen Text'
