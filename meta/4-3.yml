@@ -2,7 +2,8 @@ indicator_name: 'Zukunftsschulen'
 indicator_number: 4-3
 computation_units: 'Zukunftsschulen'
 source_active_1: true
-source_organisation_1: 'IQSH'
+source_organisation_1: 'Institut für Qualitätsentwicklung an Schulen Schleswig-Holstein (IQ.SH)'
+source_url_text_1: 'Zukunftsschule.SH'
 source_url_1: 'https://fachportal.lernnetz.de/sh/themen/zukunftsschule.html'
 graph_title: 'Anzahl der Schulen im Zukunftsschulnetzwerk'
 graph_type: bar
@@ -14,6 +15,9 @@ data_start_values:
     value: 'Qualitätsstufe 2'
   - field: 'Stufe'
     value: 'Qualitätsstufe 3'
+graph_target_lines:
+  - label_content: 'Ziel 2030'
+    value: 240
 publications:
   - title: 'Indikator Zukunftsschulen'
     link: 'Link zum redaktionellen Text'
