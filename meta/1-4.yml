@@ -9,6 +9,13 @@ graph_type: line
 data_start_values:
   - field: 'Leistungsbeziehende'
     value: 'SGB II - U 15 Leistungsbeziehende'
+graph_limits:
+  - unit: ''
+    minimum: 12
+    maximum: 16
+footer_fields:
+  - label: Hinweis
+    value: 2023 vorläufig
 publications:
   - title: 'Indikator SGB-II-Quote der unter 15-Jährigen'
     link: 'Link zum redaktionellen Text'
