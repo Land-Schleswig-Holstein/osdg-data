@@ -22,7 +22,7 @@ graph_target_lines:
 graph_limits:
     - unit: ''
       minimum: 0
-      maximum: 55    
+      maximum: 60    
 publications:
   - title: 'Indikator Frauen in Führungspositionen in der Politik'
     link: 'Link zum redaktionellen Text'
