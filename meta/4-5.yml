@@ -2,8 +2,11 @@ indicator_name: 'Studierende mit ausländischer Staatsangehörigkeit'
 indicator_number: 4-5
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'Statistik der Studenten'
-source_url_1: '(Sonderauswertung Statistikamt Nord)'
+source_organisation_1: 'Destatis'
+source_url_text_1: 'Statistik der Studenten'
+source_url_1: 'https://www-genesis.destatis.de/datenbank/online/statistic/21311/details'
+source_active_2: true
+source_organisation_2: 'Statistikamt Nord (Sonderauswertung)'
 graph_title: 'Anteil der Studierenden mit ausländischer Staatsangehörigkeit an allen Studierenden – nach Kontinenten'
 graph_type: bar
 data_start_values:
