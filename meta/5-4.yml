@@ -18,6 +18,10 @@ data_start_values:
 graph_target_lines:
   - label_content: 'Orientierungswert'
     value: 50.0
+graph_limits
+    - unit: ''
+      minimum: 0
+      maximum: 55    
 publications:
   - title: 'Indikator Frauen in Führungspositionen in der Politik'
     link: 'Link zum redaktionellen Text'
