@@ -12,7 +12,7 @@ data_start_values:
 graph_limits:
   - unit: ''
     minimum: 12
-    maximum: 16
+    maximum: 16.5
 footer_fields:
   - label: Hinweis
     value: 2023 vorläufig
