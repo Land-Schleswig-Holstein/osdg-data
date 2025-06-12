@@ -17,7 +17,7 @@ data_start_values:
     value: 'Kommunale Verwaltungsspitzen'
 graph_target_lines:
   - label_content: 'Orientierungswert'
-    value: 50
+    value: 50.0
 publications:
   - title: 'Indikator Frauen in Führungspositionen in der Politik'
     link: 'Link zum redaktionellen Text'
