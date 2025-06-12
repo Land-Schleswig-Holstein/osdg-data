@@ -6,9 +6,6 @@ source_organisation_1: 'Gleichstellungsatlas des Bundes'
 source_url_1: 'https://www.bmfsfj.de/bmfsfj/service/online-rechner/gleichstellungsatlas'
 graph_title: 'Anteil von Frauen im Landesparlament, in den Kommunalvertretungen, der Landesregierung sowie in den kommunalen Verwaltungsspitzen'
 graph_type: bar
-graph_target_lines:
-  - label_content: 'Orientierungswert'
-    value: 50.0
 data_start_values:
   - field: 'Frauenanteil'
     value: 'Landesparlament'
@@ -18,6 +15,9 @@ data_start_values:
     value: 'Landesregierung'
   - field: 'Frauenanteil'
     value: 'Kommunale Verwaltungsspitzen'
+graph_target_lines:
+  - label_content: 'Orientierungswert'
+    value: 50
 publications:
   - title: 'Indikator Frauen in Führungspositionen in der Politik'
     link: 'Link zum redaktionellen Text'
