@@ -24,7 +24,7 @@ footer_fields:
     value: My other field content
 
 # Begrenzung y-Achse
-  graph_limits
+  graph_limits:
     - unit: ''
       minimum: 2
       maximum: 20
