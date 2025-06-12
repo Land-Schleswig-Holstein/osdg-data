@@ -16,9 +16,9 @@ data_start_values:
   - field: 'Erwerbstätigenquote'
     value: 'Bund - Anteil Alter 60-64 Jahre insgesamt'
 graph_limits:
-    - unit: ''
-      minimum: 30
-      maximum: 90
+  - unit: ''
+    minimum: 30
+    maximum: 90
 publications:
   - title: 'Indikator Erwerbstätigenquote'
     link: 'Link zum redaktionellen Text'
