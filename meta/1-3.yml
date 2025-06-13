@@ -4,7 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Statistik der Bundesagentur für Arbeit'
 source_url_1: 'https://statistikportal.de/de/sbe/ergebnisse/mindestsicherung/sgb-ii'
-source_url_text_1: 'Dies ist ein Test'
+source_url_text_1: 'Grundsicherung für Arbeitsuchende'
 graph_title: 'Anteil der Leistungsberechtigten gemäß Sozialgesetzbuch II an der Bevölkerung von null Jahren bis zur Regelaltersgrenze'
 graph_type: line
 data_start_values:
