@@ -34,7 +34,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #3-6,complete,,,,,µg/m³,line
 #3-7,complete,,,,,Menschen,line
 #4-1,complete,,,,,Prozent,line
-#4-2,complete,,True,,,Prozent,bar
+#4-2,complete,,,,,Prozent,bar
 #4-3,complete,,,,,Zukunftsschulen,bar
 #4-4,complete,,,,,Anzahl,bar
 #4-5,complete,,,,,Prozent,bar

@@ -12,8 +12,28 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Art des Abschlusses",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ohne ESA (mit Migrationshintergrund)",
+                "ESA (mit Migrationshintergrund)",
+                "MSA (mit Migrationshintergrund)",
+                "Fachhochschulreife (mit Migrationshintergrund)",
+                "Hochschulreife (mit Migrationshintergrund)",
+                "ohne ESA (ohne Migrationshintergrund)",
+                "ESA (ohne Migrationshintergrund)",
+                "MSA (ohne Migrationshintergrund)",
+                "Fachhochschulreife (ohne Migrationshintergrund)",
+                "Hochschulreife (ohne Migrationshintergrund)",
+                ""
+              ]
+            },
+            "title": "Art des Abschlusses"
           },
           {
             "name": "Value",
