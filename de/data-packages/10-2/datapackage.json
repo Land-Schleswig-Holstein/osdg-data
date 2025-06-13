@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Quote priv. AG",
-                "Quote öffentl. AG",
-                "gesamt",
+                "Quote private Arbeitgeber",
+                "Quote öffentliche Arbeitgeber",
+                "Quote gesamt",
                 ""
               ]
             },
