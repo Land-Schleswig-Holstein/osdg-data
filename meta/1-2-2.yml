@@ -4,6 +4,7 @@ computation_units: 'Leistungsempfängerinnen und Leistungsempfänger'
 source_active_1: true
 source_organisation_1: 'Sozialberichterstattung'
 source_url_1: 'https://www.statistikportal.de/de/sbe/ergebnisse/mindestsicherung/b-13-empfaengerinnen-und-empfaenger-nach-leistungssystemen'
+source_url_text_1: 'Empfängerinnen und Empfänger nach Leistungssystemen'
 graph_title: 'Anteil der Empfängerinnen und Empfänger sozialer Mindestsicherungsleistungen an der Gesamtbevölkerung Schleswig-Holsteins'
 graph_type: line
 data_start_values:
