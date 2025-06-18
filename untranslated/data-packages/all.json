@@ -2155,6 +2155,40 @@
       "title": "Engagement-Quote"
     },
     {
+      "path": "14-5/data.csv",
+      "name": "14-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ostsee",
+                "Nordsee",
+                "Elbe",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "14-5"
+    },
+    {
       "path": "3-2/data.csv",
       "name": "3-2",
       "profile": "tabular-data-resource",
