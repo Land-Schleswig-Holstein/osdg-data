@@ -1,0 +1,13 @@
+indicator_name: 'Unternehmen mit Nachhaltigkeitsstandards'
+indicator_number: 12-2
+computation_units: 'Anzahl'
+graph_title: 'Anzahl der nach EMAS, GRI sowie DNK zertifizierten Unternehmen bzw. Standorte'
+graph_type: line
+data_start_values:
+  - field: 'Nachhaltigkeitsstandard'
+    value: 'DNK'
+  - field: 'Nachhaltigkeitsstandard'
+    value: 'EMAS'
+  - field: 'Nachhaltigkeitsstandard'
+    value: 'GRI'
+reporting_status: complete
