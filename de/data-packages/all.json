@@ -1763,6 +1763,41 @@
       "title": "Personalausstattung in Gerichten und Staatsanwaltschaften"
     },
     {
+      "path": "6-1/data.csv",
+      "name": "6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Nitratgehalt",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% <= 50 mg/l",
+                ""
+              ]
+            },
+            "title": "Nitratgehalt"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "6-1"
+    },
+    {
       "path": "14-3/data.csv",
       "name": "14-3",
       "profile": "tabular-data-resource",
