@@ -1,0 +1,18 @@
+indicator_name: 'Anzahl in Schleswig-Holstein verfügbarer Onlinedienste'
+indicator_number: 16-4
+computation_units: 'Anzahl'
+source_active_1: true
+source_organisation_1: 'Staatskanzlei Schleswig-Holstein'
+source_url_1: ''
+graph_title: 'Anzahl der in Schleswig-Holstein verfügbaren Online-Dienste'
+graph_type: line
+data_start_values:
+  - field: 'Online-Dienste in SH'
+    value: 'Online-Dienste'
+publications:
+  - title: 'Indikator Anzahl in Schleswig-Holstein verfügbarer Onlinedienste'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-06-18
+reporting_status: complete
