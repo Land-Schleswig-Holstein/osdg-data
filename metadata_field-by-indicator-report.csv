@@ -18,6 +18,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #13-1,complete,,,,,Mio. t CO2-Äquivalente,bar
 #13-2,complete,,,,,Anzahl,bar
 #14-3,complete,,,,,mg/l,line
+#14-4,complete,,,,,,line
 #15-1,complete,,,,,Veränderung (ha/d),bar
 #15-2,complete,,,,,m² je Einwohnerin und Einwohner,bar
 #15-3,complete,,,,,Prozent,line
