@@ -1,0 +1,9 @@
+indicator_name: 'Anteil Naturschutzflächen'
+indicator_number: 15-4
+computation_units: 'Prozent'
+graph_title: 'Anteil der rechtlich für den Naturschutz gesicherten Flächen an der Landesfläche'
+graph_type: line
+data_start_values:
+  - field: 'Raum'
+    value: 'Schleswig-Holstein'
+reporting_status: complete
