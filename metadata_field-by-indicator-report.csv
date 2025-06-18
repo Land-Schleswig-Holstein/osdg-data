@@ -62,7 +62,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #8-3-2,complete,,,,,Prozent,line
 #8-5,complete,,,,,Materialverbrauch je Einwohnerin und Einwohner [t/E],line
 #8-6,complete,,,,,BIP/DMIa,bar
-#8-7,complete,,,,,,line
+#8-7,complete,,,,,Anzahl,bar
 #8-8,complete,,,,,Prozent,line
 #9-2,complete,,,,,Prozent,line
 #9-3,complete,,,,,Prozent,line
