@@ -5,7 +5,7 @@ source_active_1: true
 source_organisation_1: 'Bundesagentur für Arbeit'
 source_url_1: 'https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=15024&r_f=bl_Schleswig-Holstein&topic_f=bsbm-bsbm'
 source_url_text_1: 'Schwerbehinderte Menschen in Beschäftigung'
-graph_title: 'Die Erfüllungsquote stellt den Anteil der der Beschäftigungspflicht gemäß § 154 SGB IX unterliegenden Arbeitgebenden mit 20 und mehr Arbeitsplätzen dar, die ihre Beschäftigungspflicht erfüllt haben, gemessen an der Anzahl aller beschäftigungspflichtigen Arbeitgebenden'
+graph_title: 'Betriebliche Beschäftigungsquote von Menschen mit Behinderung - Erfüllungsquote'
 graph_type: line
 data_start_values:
   - field: 'Arbeitgeber (AG)'
