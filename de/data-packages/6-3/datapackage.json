@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-9",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Wasserkörper",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FG eingehalten",
+                "FG nicht eingehalten",
+                "Seen nicht eingehalten",
+                "Seen eingehalten",
+                ""
+              ]
+            },
+            "title": "Wasserkörper"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "6-3",
+  "title": "6-3"
+}

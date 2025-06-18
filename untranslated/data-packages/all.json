@@ -622,6 +622,41 @@
       "title": "Energieverbrauch nach Sektoren"
     },
     {
+      "path": "6-3/data.csv",
+      "name": "6-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-9",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Wasserkörper",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FG eingehalten",
+                "FG nicht eingehalten",
+                "Seen nicht eingehalten",
+                "Seen eingehalten",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "6-3"
+    },
+    {
       "path": "4-5/data.csv",
       "name": "4-5",
       "profile": "tabular-data-resource",
