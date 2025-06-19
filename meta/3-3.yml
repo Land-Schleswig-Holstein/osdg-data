@@ -3,7 +3,6 @@ indicator_number: 3-3
 computation_units: 'Anzahl'
 source_active_1: true
 source_organisation_1: 'Ministerium für Soziales, Jugend,  Familie, Senioren, Integration und Gleichstellung'
-source_url_1: 'Link zur Quelle'
 graph_title: 'Anzahl der Pflegestützpunkte und deren regionale Verteilung'
 graph_type: line
 data_start_values:
