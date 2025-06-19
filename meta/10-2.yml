@@ -14,6 +14,9 @@ data_start_values:
     value: 'Quote öffentliche Arbeitgeber'
   - field: 'Arbeitgeber (AG)'
     value: 'Quote gesamt'
+graph_target_lines:
+  - label_content: 'Ziel 2030'
+    value: 5
 publications:
   - title: 'Beschäftigung schwerbehinderter Menschen - Erfüllungsquote'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/10-2'
