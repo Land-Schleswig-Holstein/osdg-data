@@ -3,7 +3,6 @@ indicator_number: 4-6
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Statistische Ämter des Bundes und der Länder (die Daten für 2007 und 2013 sind nicht berichtet worden).'
-source_url_1: 'Link zur Quelle'
 graph_title: 'Anteil der frühen Schulabgängerinnen und Schulabgänger'
 graph_type: line
 data_start_values:
