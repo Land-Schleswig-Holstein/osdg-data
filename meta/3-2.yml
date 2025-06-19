@@ -4,6 +4,7 @@ computation_units: 'je 100.000 Einwohnerinnen und Einwohner'
 source_active_1: true
 source_organisation_1: 'Todesursachenstatistik, Statistisches Bundesamt, Zweigstelle Bonn'
 source_url_1: 'https://www.gbe-bund.de'
+source_url_text_1: Gesundheitsberichterstattung
 graph_title: 'Todesfälle der weiblichen und männlichen Bevölkerung unter 70 Jahren bezogen auf 100.000 Einwohnerinnen und Einwohner der standardisierten alten europäischen Bevölkerung unter 70 Jahren – ohne Kinder unter einem Jahr'
 graph_type: line
 data_start_values:
