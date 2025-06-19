@@ -3,7 +3,6 @@ indicator_number: 10-7
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Ministerium für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung (MSJFSIG)'
-source_url_1: 'Link zur Quelle'
 graph_title: 'Anteil der Kommunen mit Seniorinnen- und Seniorenvertretungen an allen Kommunen in Schleswig-Holstein'
 graph_type: bar
 data_start_values:
