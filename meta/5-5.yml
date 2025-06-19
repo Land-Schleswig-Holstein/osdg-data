@@ -4,6 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Gleichstellungsbericht Schleswig-Holstein'
 source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/VIII/Service/Broschueren/Broschueren_VIII/Frauen_Gleichstellung/gleichstellungsbericht_v06.pdf?__blob=publicationFile&v=2'
+source_url_text_1: Sechster Gleichstellungsbericht
 graph_title: 'Anteil von Frauen an Führungspositionen in obersten Landesbehörden'
 graph_type: bar
 data_start_values:
