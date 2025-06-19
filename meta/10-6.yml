@@ -3,7 +3,6 @@ indicator_number: 10-6
 computation_units: 'Anzahl'
 source_active_1: true
 source_organisation_1: 'Offene Abfrage'
-source_url_1: 'Link zur Quelle'
 graph_title: 'Anzahl repräsentativer Beteiligungsformate für Kinder und Jugendliche in Gemeinden, Städten, kreisfreien Städten und Kreisen Schleswig-Holsteins'
 graph_type: bar
 data_start_values:
