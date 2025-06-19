@@ -4,6 +4,7 @@ computation_units: 'kg N/ha'
 source_active_1: true
 source_organisation_1: 'Häußermann, U. und Bach, M., im Auftrag des Umweltbundesamtes „Aktualisierung der Eingangsdaten zum Betrieb des Modelles PFLAST und zur Fortschreibung der Zeitreihe der N-Flächenbilanzierung der Landwirtschaft für die Jahre 2022 und 2023“'
 source_url_1: 'https://www.bmel-statistik.de/fileadmin/daten/0111260-0000.xlsx'
+source_url_text_1: 'Nährstoffbilanz'
 graph_title: 'Jährlicher Stickstoffüberschuss in der Landwirtschaft berechnet aus Zufuhr und Abfuhr von Stickstoff in Kilogramm je Hektar landwirtschaftlich genutzter Fläche'
 graph_type: line
 data_start_values:
