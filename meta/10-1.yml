@@ -4,6 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Bundesministerium für Familie, Frauen, Senioren und Jugend'
 source_url_1: 'https://www.bmfsfj.de/bmfsfj/service/publikationen/freiwilliges-engagement-in-deutschland-176834'
+source_url_text_1: Freiwilliges Engagement in Deutschland
 graph_title: 'Anteil über 14-Jähriger an der Wohnbevölkerung Schleswig-Holsteins, die sich aktiv und freiwillig bürgerschaftlich engagieren'
 graph_type: bar
 data_start_values:
