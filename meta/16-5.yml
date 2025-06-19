@@ -2,7 +2,7 @@ indicator_name: 'Anteil der Kommunen des Landes, in denen relevante Online-Diens
 indicator_number: 16-5
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'Onlinedienste-Leitstelle Staatskanzlei Schleswig-Holstein (ODL|SH)'
+source_organisation_1: 'Onlinedienste-Leitstelle Staatskanzlei Schleswig-Holstein (ODL SH)'
 source_url_1: ''
 graph_title: 'Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind'
 graph_type: bar
