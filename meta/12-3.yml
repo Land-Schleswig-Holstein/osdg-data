@@ -4,6 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Jahresmeldung'
 source_url_1: 'https://sdg-indikatoren.de/2-4-1/'
+source_url_text_1: Nachhaltigkeitsindikatoren Destatis
 graph_title: 'Anteil der Ökolandbaufläche an der gesamten landwirtschaftlich genutzten Fläche'
 graph_type: line
 data_start_values:
