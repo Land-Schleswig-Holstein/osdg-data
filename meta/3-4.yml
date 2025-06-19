@@ -4,6 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Robert Koch-Institut: VacMap'
 source_url_1: 'https://www.rki.de/vacmap'
+source_url_text_1: Dashboard zum Impfgeschehen
 graph_title: 'Durchimpfungsquote bei Kindern in Schleswig-Holstein'
 graph_type: line
 data_start_values:
