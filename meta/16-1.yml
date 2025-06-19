@@ -4,6 +4,7 @@ computation_units: 'Häufigkeitszahl'
 source_active_1: true
 source_organisation_1: 'Polizeiliche Kriminalstatistik (PKS)'
 source_url_1: 'https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/pks_node.html'
+source_url_text_1: Polizeiliche Kriminalstatistik
 graph_title: 'Anzahl der Straftaten je 100.000 Einwohnerinnen und Einwohner, die der Polizei angezeigt werden (ohne ausländerrechtliche Verstöße)'
 graph_type: line
 data_start_values:
