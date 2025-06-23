@@ -1,5 +1,5 @@
 indicator_name: 'Verdienstabstand zwischen Frauen und Männern'
-indicator_number: 5-1-1
+indicator_number: 5-1
 computation_units: 'Euro'
 source_active_1: true
 source_organisation_1: '2006 bis 2018: Ergebnisse aus der Verdienststrukturerhebung. Seit 2022: Ergebnisse aus der Verdiensterhebung.'
