@@ -1854,47 +1854,6 @@
       "title": "Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA"
     },
     {
-      "path": "4-2/data.csv",
-      "name": "4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Art des Abschlusses",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "ohne ESA (mit Migrationshintergrund)",
-                "ESA (mit Migrationshintergrund)",
-                "MSA (mit Migrationshintergrund)",
-                "Fachhochschulreife (mit Migrationshintergrund)",
-                "Hochschulreife (mit Migrationshintergrund)",
-                "ohne ESA (ohne Migrationshintergrund)",
-                "ESA (ohne Migrationshintergrund)",
-                "MSA (ohne Migrationshintergrund)",
-                "Fachhochschulreife (ohne Migrationshintergrund)",
-                "Hochschulreife (ohne Migrationshintergrund)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Schulabsolventinnen und Schulabsolventen mit Migrationshintergrund"
-    },
-    {
       "path": "3-4/data.csv",
       "name": "3-4",
       "profile": "tabular-data-resource",
@@ -2452,6 +2411,28 @@
         ]
       },
       "title": "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens"
+    },
+    {
+      "path": "4-2/data.csv",
+      "name": "4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Schulabsolventinnen und Schulabsolventen mit Migrationshintergrund"
     }
   ]
 }
