@@ -1,4 +1,4 @@
-indicator_name: 'Mindestsicherungsquote'
+indicator_name: 'Mindestsicherungsquote - Anteil an der Gesamtbevölkerung'
 indicator_number: 1-2-1
 computation_units: 'Prozent'
 source_active_1: true
@@ -13,13 +13,9 @@ data_start_values:
   - field: 'Geschlecht'
     value: 'Deutschland insgesamt'
   - field: 'Geschlecht'
-    value: 'Schleswig-Holstein Männer'
+    value: 'Früheres Bundesgebiet insgesamt'
   - field: 'Geschlecht'
-    value: 'Deutschland Männer'
-  - field: 'Geschlecht'
-    value: 'Schleswig-Holstein Frauen'
-  - field: 'Geschlecht'
-    value: 'Deutschland Frauen'
+    value: 'Neue Bundesländer (einschließlich Berlin) insgesamt'
 graph_limits:
   - minimum: 7
     maximum: 17
