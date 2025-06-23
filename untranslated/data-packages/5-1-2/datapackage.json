@@ -12,23 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland - unbereinigt",
-                "Deutschland - bereinigt",
-                "SH - bereinigt",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
