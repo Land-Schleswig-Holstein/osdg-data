@@ -312,7 +312,7 @@
           }
         ]
       },
-      "title": "5-1"
+      "title": "Verdienstabstand zwischen Frauen und Männern"
     },
     {
       "path": "15-2/data.csv",
@@ -2452,28 +2452,6 @@
         ]
       },
       "title": "Gini-Koeffizient des verfügbaren Äquivalenzeinkommens"
-    },
-    {
-      "path": "5-1-1/data.csv",
-      "name": "5-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Verdienstabstand zwischen Frauen und Männern"
     }
   ]
 }
