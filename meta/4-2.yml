@@ -7,7 +7,7 @@ source_url_text_1: 'Statistik der allgemeinbildenden Schulen'
 source_url_1: 'https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bildung-Forschung-Kultur/Schulen/Publikationen/_publikationen-innen-schulen-allgemeinbildende.html'
 source_active_2: true
 source_organisation_2: 'Statistikamt Nord (Sonderauswertung)'
-graph_title: 'Anteil der Absolventinnen und Absolventen ohne und mit Migrationshintergrund nach Schulabschlussart in Schleswig-Holstein'
+graph_title: 'Anteil der Absolventinnen und Absolventen mit und ohne Migrationshintergrund nach Schulabschlussart in Schleswig-Holstein'
 graph_type: bar
 data_start_values:
   - field: 'Art des Abschlusses'
