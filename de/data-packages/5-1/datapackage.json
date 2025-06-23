@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauen",
+                "Männer",
+                "unbereinigter Gender Pay Gap ",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
@@ -25,6 +38,6 @@
     }
   ],
   "profile": "data-package",
-  "name": "5-1-1",
-  "title": "Verdienstabstand zwischen Frauen und Männern"
+  "name": "5-1",
+  "title": "5-1"
 }
