@@ -8,7 +8,7 @@ source_url_text_1: Breitband-Kompetenzzentrum Schleswig-Holstein
 source_active_2: true
 source_organisation_2: 'Breitbandatlas'
 source_url_2: 'https://gigabitgrundbuch.bund.de/GIGA/DE/Downloads_Suche/start.html'
-source_url_text_2: Breitbandatlas
+source_url_text_2: Breitbandatlas des Bundes
 graph_title: 'Verfügbarkeit von Glasfaseranschlüssen für Haushalte in Schleswig-Holstein'
 graph_type: line
 data_start_values:
