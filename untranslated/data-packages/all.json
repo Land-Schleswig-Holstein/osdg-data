@@ -295,7 +295,7 @@
             "type": "integer"
           },
           {
-            "name": "Unit",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
