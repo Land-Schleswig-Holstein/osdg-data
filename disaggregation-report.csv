@@ -21,7 +21,7 @@ Frauenanteil,2,9
 Freiraumverlust,1,1
 Gebiet,2,4
 Gemeinden und Kreise,1,1
-Geschlecht,2,14
+Geschlecht,3,24
 Impfung,1,2
 Jahresmittelwert PM10,1,4
 Kontinente,1,9
@@ -43,6 +43,7 @@ Sektor,1,7
 SGB-II-Leistungsberechtigte,1,1
 Soziodemografische Merkmale,1,14
 Stufe,1,3
+Unit,1,2
 Verbrauchssektor,1,4
 Verkehrsmittel,1,5
 Wasserkörper,2,8

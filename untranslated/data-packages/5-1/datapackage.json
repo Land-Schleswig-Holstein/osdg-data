@@ -12,7 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Unit",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Euro",
+                "%",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Verdienstabstand",
+                "unbereinigter Gender Pay Gap ",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauen",
+                "Männer",
+                "18",
+                "19",
+                "17",
+                "16",
+                "14",
+                "13",
+                "12",
+                "11",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
