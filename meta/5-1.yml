@@ -12,6 +12,10 @@ data_start_values:
     value: 'Verdienstabstand'
   - field: 'Series'
     value: 'unbereinigter Gender Pay Gap '
+  - field: 'Geschlecht'
+    value: 'Frauen'
+  - field: 'Geschlecht'
+    value: 'Männer'
 publications:
   - title: 'Indikator Verdienstabstand zwischen Frauen und Männern'
     link: 'Link zum redaktionellen Text'
