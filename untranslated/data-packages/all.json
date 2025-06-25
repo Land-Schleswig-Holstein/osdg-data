@@ -300,7 +300,7 @@
             "constraints": {
               "enum": [
                 "Euro",
-                "%",
+                "Prozent",
                 ""
               ]
             }
