@@ -6,10 +6,10 @@ source_organisation_1: '2006 bis 2018: Ergebnisse aus der Verdienststrukturerheb
 source_url_1: 'https://www.destatis.de/DE/Themen/Arbeit/Verdienste/Verdienste-GenderPayGap/_inhalt.html#sprg633276'
 source_url_text_1: Gender Pay Gap
 graph_titles:
-  - series: Verdienstabstand
-    title: Verdienst von Frauen und Männern pro Stunde brutto in sozialversicherungspflichtiger Beschäftigung
-  - series: unbereinigter Gender Pay Gap 
-    title: Unbereinigter Verdienstabstand, ohne Sonderzahlungen
+  - series: 'Verdienstabstand'
+    title: 'Verdienst von Frauen und Männern pro Stunde brutto in sozialversicherungspflichtiger Beschäftigung'
+  - series: 'unbereinigter Gender Pay Gap' 
+    title: 'Unbereinigter Verdienstabstand, ohne Sonderzahlungen'
 graph_type: bar
 data_start_values:
   - field: 'Series'
