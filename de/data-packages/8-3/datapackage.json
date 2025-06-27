@@ -1,0 +1,89 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arbeitslosenquote insgesamt",
+                "Männer",
+                "Frauen",
+                "Ausländer",
+                "Langzeitarbeitslose",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Arbeitslosenquoten",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anteil Langzeitarbeitslose",
+                "Anteil Alleinerziehende",
+                "Anteil Menschen ohne abgeschlossene Berufsausbildung",
+                ""
+              ]
+            },
+            "title": "Arbeitslosenquoten"
+          },
+          {
+            "name": "Anteil der Arbeitslosen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.6",
+                "7.8",
+                "7.5",
+                "8.2",
+                "7.9",
+                "7.7",
+                "7.4",
+                "7.1",
+                "19.9",
+                "19.8",
+                "18.9",
+                "2.8",
+                "2.5",
+                "2.4",
+                "37.4",
+                "32.3",
+                "11.1",
+                "10.0",
+                "9.8",
+                "45.6",
+                "42.8",
+                ""
+              ]
+            },
+            "title": "Anteil der Arbeitslosen"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "8-3",
+  "title": "8-3"
+}

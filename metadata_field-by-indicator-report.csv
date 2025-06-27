@@ -59,6 +59,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #7-1,complete,,,,,Index,line
 #7-3,complete,,,,,GWh,bar
 #8-2,complete,,,,,€,line
+#8-3,complete,,,,,,line
 #8-3-1,complete,,,,,Prozent,line
 #8-3-2,complete,,,,,Prozent,line
 #8-5,complete,,,,,Materialverbrauch je Einwohnerin und Einwohner [t/E],line
