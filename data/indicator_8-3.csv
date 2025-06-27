@@ -1,25 +1,137 @@
 Year,Series,Arbeitslosenquoten,Anteil der Arbeitslosen,Value
 2008,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,7.6
-2009,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,7.8
-2010,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,7.5
+2009,Arbeitslosenquoten,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,7.8
+2010,Arbeitslosenquoten,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,7.5
+2011,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,7.2
+2012,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,6.9
+2013,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,6.9
+2014,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,6.8
+2015,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,6.5
+2016,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,6.3
+2017,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,6
+2018,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,5.5
+2019,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,5.1
+2020,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,5.8
+2021,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,5.6
+2022,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,5.2
+2023,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,5.5
+2024,Arbeitslosenquoten,Arbeitslosenquote insgesamt,,5.7
 2008,Arbeitslosenquoten,Männer,,7.5
 2009,Arbeitslosenquoten,Männer,,8.2
 2010,Arbeitslosenquoten,Männer,,7.9
+2011,Arbeitslosenquoten,Männer,,7.5
+2012,Arbeitslosenquoten,Männer,,7.2
+2013,Arbeitslosenquoten,Männer,,7.2
+2014,Arbeitslosenquoten,Männer,,7.1
+2015,Arbeitslosenquoten,Männer,,6.9
+2016,Arbeitslosenquoten,Männer,,6.7
+2017,Arbeitslosenquoten,Männer,,6.5
+2018,Arbeitslosenquoten,Männer,,5.8
+2019,Arbeitslosenquoten,Männer,,5.4
+2020,Arbeitslosenquoten,Männer,,6.3
+2021,Arbeitslosenquoten,Männer,,6
+2022,Arbeitslosenquoten,Männer,,5.4
+2023,Arbeitslosenquoten,Männer,,5.8
+2024,Arbeitslosenquoten,Männer,,6.1
 2008,Arbeitslosenquoten,Frauen,,7.7
 2009,Arbeitslosenquoten,Frauen,,7.4
 2010,Arbeitslosenquoten,Frauen,,7.1
+2011,Arbeitslosenquoten,Frauen,,6.9
+2012,Arbeitslosenquoten,Frauen,,6.6
+2013,Arbeitslosenquoten,Frauen,,6.6
+2014,Arbeitslosenquoten,Frauen,,6.4
+2015,Arbeitslosenquoten,Frauen,,6
+2016,Arbeitslosenquoten,Frauen,,5.8
+2017,Arbeitslosenquoten,Frauen,,5.5
+2018,Arbeitslosenquoten,Frauen,,5.1
+2019,Arbeitslosenquoten,Frauen,,4.7
+2020,Arbeitslosenquoten,Frauen,,5.3
+2021,Arbeitslosenquoten,Frauen,,5.2
+2022,Arbeitslosenquoten,Frauen,,4.9
+2023,Arbeitslosenquoten,Frauen,,5.2
+2024,Arbeitslosenquoten,Frauen,,5.3
 2008,Arbeitslosenquoten,Ausländer,,19.9
 2009,Arbeitslosenquoten,Ausländer,,19.8
 2010,Arbeitslosenquoten,Ausländer,,18.9
+2011,Arbeitslosenquoten,Ausländer,,18.4
+2012,Arbeitslosenquoten,Ausländer,,17.7
+2013,Arbeitslosenquoten,Ausländer,,17.5
+2014,Arbeitslosenquoten,Ausländer,,17.5
+2015,Arbeitslosenquoten,Ausländer,,18.7
+2016,Arbeitslosenquoten,Ausländer,,20
+2017,Arbeitslosenquoten,Ausländer,,21.5
+2018,Arbeitslosenquoten,Ausländer,,17.9
+2019,Arbeitslosenquoten,Ausländer,,16.7
+2020,Arbeitslosenquoten,Ausländer,,18.9
+2021,Arbeitslosenquoten,Ausländer,,17.3
+2022,Arbeitslosenquoten,Ausländer,,17.4
+2023,Arbeitslosenquoten,Ausländer,,19.7
+2024,Arbeitslosenquoten,Ausländer,,19
 2008,Arbeitslosenquoten,Langzeitarbeitslose,,2.8
 2009,Arbeitslosenquoten,Langzeitarbeitslose,,2.5
 2010,Arbeitslosenquoten,Langzeitarbeitslose,,2.4
+2011,Arbeitslosenquoten,Langzeitarbeitslose,,2.3
+2012,Arbeitslosenquoten,Langzeitarbeitslose,,2.3
+2013,Arbeitslosenquoten,Langzeitarbeitslose,,2.4
+2014,Arbeitslosenquoten,Langzeitarbeitslose,,2.5
+2015,Arbeitslosenquoten,Langzeitarbeitslose,,2.4
+2016,Arbeitslosenquoten,Langzeitarbeitslose,,2.3
+2017,Arbeitslosenquoten,Langzeitarbeitslose,,2.1
+2018,Arbeitslosenquoten,Langzeitarbeitslose,,1.9
+2019,Arbeitslosenquoten,Langzeitarbeitslose,,1.6
+2020,Arbeitslosenquoten,Langzeitarbeitslose,,1.8
+2021,Arbeitslosenquoten,Langzeitarbeitslose,,2.2
+2022,Arbeitslosenquoten,Langzeitarbeitslose,,1.9
+2023,Arbeitslosenquoten,Langzeitarbeitslose,,1.8
+2024,Arbeitslosenquoten,Langzeitarbeitslose,,1.9
 2008,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,37.4
 2009,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,32.3
 2010,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,32.3
+2011,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,32.2
+2012,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,33.6
+2013,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,34.4
+2014,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,36.9
+2015,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,37.1
+2016,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,36.8
+2017,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,35
+2018,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,34.5
+2019,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,31.4
+2020,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,30.6
+2021,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,38.3
+2022,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,36.5
+2023,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,33.2
+2024,Anteil der Arbeitslosen,,Anteil Langzeitarbeitslose,33.1
 2008,Anteil der Arbeitslosen,,Anteil Alleinerziehende,11.1
 2009,Anteil der Arbeitslosen,,Anteil Alleinerziehende,10
 2010,Anteil der Arbeitslosen,,Anteil Alleinerziehende,9.8
+2011,Anteil der Arbeitslosen,,Anteil Alleinerziehende,9.8
+2012,Anteil der Arbeitslosen,,Anteil Alleinerziehende,9.9
+2013,Anteil der Arbeitslosen,,Anteil Alleinerziehende,10.1
+2014,Anteil der Arbeitslosen,,Anteil Alleinerziehende,10.2
+2015,Anteil der Arbeitslosen,,Anteil Alleinerziehende,9.6
+2016,Anteil der Arbeitslosen,,Anteil Alleinerziehende,9.1
+2017,Anteil der Arbeitslosen,,Anteil Alleinerziehende,8.7
+2018,Anteil der Arbeitslosen,,Anteil Alleinerziehende,8.3
+2019,Anteil der Arbeitslosen,,Anteil Alleinerziehende,8.3
+2020,Anteil der Arbeitslosen,,Anteil Alleinerziehende,7.9
+2021,Anteil der Arbeitslosen,,Anteil Alleinerziehende,8.1
+2022,Anteil der Arbeitslosen,,Anteil Alleinerziehende,8.6
+2023,Anteil der Arbeitslosen,,Anteil Alleinerziehende,8.4
+2024,Anteil der Arbeitslosen,,Anteil Alleinerziehende,NaN
 2008,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,NaN
 2009,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,45.6
 2010,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,42.8
+2011,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,44.4
+2012,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,45.1
+2013,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,45.6
+2014,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,46.5
+2015,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,47.9
+2016,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,48
+2017,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,46.6
+2018,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,52
+2019,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,53.9
+2020,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,53.7
+2021,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,54.6
+2022,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,56.7
+2023,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,57.6
+2024,Anteil der Arbeitslosen,,Anteil Menschen ohne abgeschlossene Berufsausbildung,56.3
