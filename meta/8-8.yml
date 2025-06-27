@@ -2,8 +2,9 @@ indicator_name: 'Erwerbstätigenquote'
 indicator_number: 8-8
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'Quellenbezeichnung'
-source_url_1: 'Link zur Quelle'
+source_organisation_1: 'Arbeitskreis "Nachhaltige Entwicklung" der Statistischen Landesämter'
+source_url_1: 'https://www.statistikportal.de/de/nachhaltigkeit/ergebnisse/ziel-8-menschenwuerdige-arbeit-und-wirtschaftswachstum'
+source_url_text_1: Menschenwürdige Arbeit und Wirtschaftswachstum
 graph_title: 'Anteil der Erwerbstätigen im Alter zwischen 20 und 64 Jahren differenziert nach Alter (60 – 64) und Geschlecht'
 graph_type: line
 data_start_values:
