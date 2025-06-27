@@ -5,7 +5,11 @@ source_active_1: true
 source_organisation_1: 'BA-Statistik'
 source_url_1: 'https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=27098&topic_f=gemeinde-arbeitslose-quoten'
 source_url_text_1: Arbeitslosenquoten - Bundesagentur für Arbeit
-graph_title: 'Differenzierte Arbeitslosenquote an allen zivilen Erwerbspersonen'
+graph_titles:
+  - series: 'Arbeitslosenquoten'
+    title: 'Differenzierte Arbeitslosenquote an allen zivilen Erwerbspersonen'
+  - series: 'Anteil der Arbeitslosen' 
+    title: 'Anteil Langzeitarbeitsloser, Alleinerziehender und von Menschen ohne abgeschlossene Berufsausbildung an allen Arbeitslosen'
 graph_type: line
 data_start_values:
   - field: 'Series'
