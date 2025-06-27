@@ -17,9 +17,11 @@
           },
           {
             "name": "Series",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "Arbeitslosenquoten",
+                "Anteil der Arbeitslosen",
                 ""
               ]
             },
@@ -35,9 +37,6 @@
                 "Frauen",
                 "Ausländer",
                 "Langzeitarbeitslose",
-                "Anteil Langzeitarbeitslose",
-                "Anteil Alleinerziehende",
-                "Anteil Menschen ohne abgeschlossene Berufsausbildung",
                 ""
               ]
             },
@@ -48,27 +47,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "7.6",
-                "7.8",
-                "7.5",
-                "8.2",
-                "7.9",
-                "7.7",
-                "7.4",
-                "7.1",
-                "19.9",
-                "19.8",
-                "18.9",
-                "2.8",
-                "2.5",
-                "2.4",
-                "37.4",
-                "32.3",
-                "11.1",
-                "10.0",
-                "9.8",
-                "45.6",
-                "42.8",
+                "Anteil Langzeitarbeitslose",
+                "Anteil Alleinerziehende",
+                "Anteil Menschen ohne abgeschlossene Berufsausbildung",
                 ""
               ]
             },
