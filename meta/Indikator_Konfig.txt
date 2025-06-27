@@ -41,3 +41,24 @@ footer_fields:
   graph_series_breaks:
       - series: My series name
       value: 8.5¶
+
+# Teilung in zwei Grafiken (Beispiel 5.1)
+  graph_titles:
+    - series: 'Verdienstabstand' (series)
+    title: 'Verdienst von Frauen und Männern pro Stunde brutto in sozialversicherungspflichtiger Beschäftigung'
+    - series: 'unbereinigter Gender Pay Gap ' (series)
+    title: 'Unbereinigter Verdienstabstand, ohne Sonderzahlungen'
+  
+  data_start_values:
+    - field: 'Series'
+      value: 'Verdienstabstand'
+    - field: 'Series'
+      value: 'unbereinigter Gender Pay Gap '
+    - field: 'Geschlecht'
+      value: 'Frauen'
+    - field: 'Geschlecht'
+      value: 'Männer'
+
+  csv-Datei ändern:
+    Spalte Unit einfügen: Einheiten (im Bsp. Euro und Prozent)
+    Spalte Series einfügen: darzustellenden Reihen einfügen (im Bsp. Verdienstabstand und unbereinigter Gender Pay Gap)
