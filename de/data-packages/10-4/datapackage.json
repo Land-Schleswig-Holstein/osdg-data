@@ -12,19 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                ""
-              ]
-            },
-            "title": "Raum"
           },
           {
             "name": "Value",
