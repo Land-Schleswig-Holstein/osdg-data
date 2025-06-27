@@ -779,6 +779,51 @@
       "title": "Stickstoffeintrag über Zuflüsse in Nord- und Ostsee"
     },
     {
+      "path": "1-1/data.csv",
+      "name": "1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Soziodemografische Merkmale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt SH",
+                "Alleinerziehende mit Kind/ern SH",
+                "Paar mit drei oder mehr Kindern SH",
+                "Erwerbslose SH",
+                "Geringqualifizierte SH",
+                "Ohne deutsche Staatsangehörigkeit SH",
+                "Mit Migrationshintergrund SH",
+                "Insgesamt DE",
+                "Alleinerziehende mit Kind/ern DE",
+                "Paar mit drei oder mehr Kindern DE",
+                "Erwerbslose DE",
+                "Geringqualifizierte DE",
+                "Ohne deutsche Staatsangehörigkeit DE",
+                "Mit Migrationshintergrund DE",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anteil der Personen unterhalb der Armutsgrenze"
+    },
+    {
       "path": "2-1/data.csv",
       "name": "2-1",
       "profile": "tabular-data-resource",
@@ -2428,28 +2473,6 @@
         ]
       },
       "title": "Ökologische Landwirtschaftsfläche"
-    },
-    {
-      "path": "1-1/data.csv",
-      "name": "1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil der Personen unterhalb der Armutsgrenze"
     }
   ]
 }
