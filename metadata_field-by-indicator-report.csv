@@ -7,6 +7,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #10-1,complete,,,,,Prozent,bar
 #10-2,complete,,,,,Prozent,line
 #10-3,complete,,,,,T Euro,bar
+#10-4,complete,,True,,,Gini-Koeffizient,bar
 #10-5,complete,,,,,Prozent,line
 #10-6,complete,,,,,Anzahl,bar
 #10-7,complete,,,,,Prozent,bar
