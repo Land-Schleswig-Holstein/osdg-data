@@ -61,4 +61,4 @@ footer_fields:
 
   csv-Datei ändern:
     Spalte Unit einfügen: Einheiten (im Bsp. Euro und Prozent)
-    Spalte Series einfügen: darzustellenden Reihen einfügen (im Bsp. Verdienstabstand und unbereinigter Gender Pay Gap)
+    Spalte Series einfügen: darzustellende Reihen einfügen (im Bsp. Verdienstabstand und unbereinigter Gender Pay Gap)
