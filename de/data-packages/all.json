@@ -1236,6 +1236,52 @@
       "title": "Treibhausgas- und Energieproduktivität"
     },
     {
+      "path": "8-8/data.csv",
+      "name": "8-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "iso8859-9",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Erwerbstätigenquote",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SH -  Anteil Alter 60-64 Jahre insgesamt",
+                "Bund - Anteil Alter 60-64 Jahre insgesamt",
+                "SH - Anteil Alter 60-64 Jahre m",
+                "Bund - Anteil Alter 60-64 Jahre m",
+                "SH - Anteil Alter 60-64 Jahre w",
+                "Bund - Anteil Alter 60-64 Jahre w",
+                "SH - Anteil Alter 20-64 Jahre insgesamt",
+                "Bund - Anteil Alter 20-64 Jahre insgesamt",
+                "SH - Anteil Alter 20-64 Jahre m",
+                "Bund - Anteil Alter 20-64 Jahre m",
+                "SH - Anteil Alter 20-64 Jahre w",
+                "Bund - Anteil Alter 20-64 Jahre w",
+                ""
+              ]
+            },
+            "title": "Erwerbstätigenquote"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Erwerbstätigenquote"
+    },
+    {
       "path": "4-9/data.csv",
       "name": "4-9",
       "profile": "tabular-data-resource",
@@ -2639,30 +2685,6 @@
         ]
       },
       "title": "Ökologische Landwirtschaftsfläche"
-    },
-    {
-      "path": "8-8/data.csv",
-      "name": "8-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Jahr"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Erwerbstätigenquote"
     }
   ]
 }
