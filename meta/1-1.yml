@@ -4,7 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Sozialberichterstattung'
 source_url_1: 'https://www.statistikportal.de/de/sbe/ergebnisse/einkommen-armutsgefaehrdung-und-soziale-lebensbedingungen/armutsgefaehrdung-und-5'
-source_url_text_1: Sozialberichterstattung
+source_url_text_1: Armutsgefährdungsquoten
 graph_title: 'Anteil der Personen, die über weniger als 60 Prozent des Medians des Äquivalenzeinkommens der Bevölkerung in Privathaushalten verfügen'
 graph_type: line
 data_start_values:
