@@ -1,5 +1,5 @@
 indicator_name: 'Arbeitslosenquote'
-indicator_number: 8-3-1
+indicator_number: 8-3
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'BA-Statistik'
