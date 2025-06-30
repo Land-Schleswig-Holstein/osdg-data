@@ -5,6 +5,7 @@ source_active_1: true
 source_organisation_1: 'BA-Statistik'
 source_url_1: 'https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=27098&topic_f=gemeinde-arbeitslose-quoten'
 source_url_text_1: Arbeitslosenquoten - Bundesagentur für Arbeit
+source_active_2: true
 source_organisation_2: 'BA-Statistik'
 source_url_2: 'https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?nn=15024&r_f=bl_Schleswig-Holstein&topic_f=analyse-arbeitsmarkt-alleinerziehende'
 source_url_text_2: Arbeitsmarkt für Alleinerziehende - Bundesagentur für Arbeit
