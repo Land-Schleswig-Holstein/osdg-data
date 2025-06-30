@@ -1,0 +1,20 @@
+indicator_name: 'Soziale Sicherung/Niedriglohnsektor'
+indicator_number: 8-4
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Bundesagentur für Arbeit'
+source_url_1: ''
+graph_title: 'Anteil der im Niedriglohnsektor Beschäftigten sowie Anteil der Frauen an dieser Quote'
+graph_type: line
+data_start_values:
+  - field: 'Geschlecht'
+    value: 'Gesamt'
+  - field: 'Geschlecht'
+    value: 'Frauen'
+publications:
+  - title: 'Indikator Soziale Sicherung/Niedriglohnsektor'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-06-30
+reporting_status: complete
