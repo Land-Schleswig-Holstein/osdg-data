@@ -1,0 +1,42 @@
+indicator_name: 'Mindestsicherungsquote'
+indicator_number: 1-2
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Sozialberichterstattung'
+source_url_1: 'https://www.statistikportal.de/de/sbe/ergebnisse/mindestsicherung/b-11-mindestsicherungsquote'
+source_url_text_1: 'Mindestsicherungsquote'
+graph_title: 'Anteil der Empfängerinnen und Empfänger sozialer Mindestsicherungsleistungen an der Gesamtbevölkerung Schleswig-Holsteins'
+graph_type: line
+data_start_values:
+  - field: 'Series'
+    value: 'Geschlecht'
+  - field: 'Series'
+    value: 'Art der Hilfe'
+  - field: 'Geschlecht'
+    value: 'Schleswig-Holstein insgesamt'
+  - field: 'Geschlecht'
+    value: 'Deutschland insgesamt'
+  - field: 'Geschlecht'
+    value: 'Früheres Bundesgebiet insgesamt'
+  - field: 'Geschlecht'
+    value: 'Neue Bundesländer (einschließlich Berlin) insgesamt'
+  - field: 'Art der Hilfe'
+    value: 'Gesamt'
+ - field: 'Art der Hilfe'
+    value: 'SGB II'
+ - field: 'Art der Hilfe'
+    value: 'SGB XII - HLU'
+ - field: 'Art der Hilfe'
+    value: 'SGB XII - Grundsicherung'
+ - field: 'Art der Hilfe'
+    value: 'AsylbLG'
+graph_limits:
+  - minimum: 7
+    maximum: 17
+publications:
+  - title: 'Indikator Mindestsicherungsquote'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
+reporting_status: complete
