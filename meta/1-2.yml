@@ -5,7 +5,7 @@ source_active_1: true
 source_organisation_1: 'Sozialberichterstattung'
 source_url_1: 'https://www.statistikportal.de/de/sbe/ergebnisse/mindestsicherung/b-11-mindestsicherungsquote'
 source_url_text_1: 'Mindestsicherungsquote'
-graph_titles: 'Anteil der Empfängerinnen und Empfänger sozialer Mindestsicherungsleistungen an der Gesamtbevölkerung Schleswig-Holsteins'
+graph_title: 'Anteil der Empfängerinnen und Empfänger sozialer Mindestsicherungsleistungen an der Gesamtbevölkerung Schleswig-Holsteins'
 graph_type: line
 data_start_values:
   - field: 'Series'
