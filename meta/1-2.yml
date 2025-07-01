@@ -35,7 +35,8 @@ data_start_values:
   - field: 'Art der Hilfe'
     value: 'AsylbLG'
 graph_limits:
-  - minimum: 7
+  - unit: Prozent
+    minimum: 7
     maximum: 17
 publications:
   - title: 'Indikator Mindestsicherungsquote'
