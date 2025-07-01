@@ -34,6 +34,9 @@ data_start_values:
     value: 'SGB XII - Grundsicherung'
   - field: 'Art der Hilfe'
     value: 'AsylbLG'
+graph_limits:
+  - minimum: 7
+    maximum: 17
 publications:
   - title: 'Indikator Mindestsicherungsquote'
     link: 'Link zum redaktionellen Text'
