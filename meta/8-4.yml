@@ -13,9 +13,9 @@ data_start_values:
     value: 'Frauen'
 graph_target_lines:
   - label_content: 'Ziel 2030'
-  - field: Gesamt
+  - series: Gesamt
     value: 20.0
-  - field: Frauen
+  - series: Frauen
     value: 25.0
 publications:
   - title: 'Indikator Soziale Sicherung/Niedriglohnsektor'
