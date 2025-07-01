@@ -29,7 +29,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #15-6,complete,,,,,Prozent,bar
 #16-1,complete,,,,,Häufigkeitszahl,line
 #16-2,complete,,,,,Deckungsgrad,bar
-#16-3,complete,,,,,Gefangene je 100T Einwohnerinnen und Einwohner,line
+#16-3,complete,,True,,,Gefangene je 100T Einwohnerinnen und Einwohner,line
 #16-4,complete,,,,,Anzahl,line
 #16-5,complete,,,,,Prozent,bar
 #17-1,complete,,,,,Euro,line
