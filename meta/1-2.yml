@@ -26,14 +26,6 @@ data_start_values:
     value: 'Neue Bundesländer (einschließlich Berlin) insgesamt'
   - field: 'Art der Hilfe'
     value: 'Gesamt'
-  - field: 'Art der Hilfe'
-    value: 'SGB II'
-  - field: 'Art der Hilfe'
-    value: 'SGB XII - HLU'
-  - field: 'Art der Hilfe'
-    value: 'SGB XII - Grundsicherung'
-  - field: 'Art der Hilfe'
-    value: 'AsylbLG'
 graph_limits:
   - unit: Prozent
     minimum: 7
