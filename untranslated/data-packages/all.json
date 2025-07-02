@@ -2301,6 +2301,39 @@
       "title": "Schulabsolventinnen und Schulabsolventen mit Migrationshintergrund"
     },
     {
+      "path": "8-4/data.csv",
+      "name": "8-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamt",
+                "Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Soziale Sicherung/Niedriglohnsektor"
+    },
+    {
       "path": "4-1/data.csv",
       "name": "4-1",
       "profile": "tabular-data-resource",
@@ -2611,28 +2644,6 @@
         ]
       },
       "title": "Ökologische Landwirtschaftsfläche"
-    },
-    {
-      "path": "8-4/data.csv",
-      "name": "8-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Soziale Sicherung/Niedriglohnsektor"
     }
   ]
 }
