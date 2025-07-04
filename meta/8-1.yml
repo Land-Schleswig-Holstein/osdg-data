@@ -1,0 +1,18 @@
+indicator_name: 'Staatsdefizit (Ist-Werte'
+indicator_number: 8-1
+computation_units: 'Euro'
+source_active_1: true
+source_organisation_1: 'Stabilitätsberichte des Landes Schleswig-Holstein'
+source_url_1: 'Link zur Quelle'
+graph_title: 'Struktureller Finanzierungssaldo des Landes Schleswig-Holstein in Euro je Einwohnerin und Einwohner'
+graph_type: line
+data_start_values:
+  - field: 'Finanzierungssaldo'
+    value: 'Struktureller Finanzierungssaldo je Einwohnerin und Einwohner'
+publications:
+  - title: 'Indikator Staatsdefizit (Ist-Werte'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-07-04
+reporting_status: complete
