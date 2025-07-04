@@ -1,0 +1,18 @@
+indicator_name: 'Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch'
+indicator_number: 7-4
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Statistikamt Nord'
+source_url_1: 'https://www.statistik-nord.de/'
+graph_title: 'Der Indikator stellt den Versorgungsbeitrag der Erneuerbaren Energien zum Brutto-Endenergieverbrauch dar.'
+graph_type: line
+data_start_values:
+  - field: 'Anteil EE am Brutto-EEV'
+    value: 'Anteil EE am Brutto-EEV'
+publications:
+  - title: 'Indikator Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch'
+    link: 'tbd'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-07-04
+reporting_status: complete
