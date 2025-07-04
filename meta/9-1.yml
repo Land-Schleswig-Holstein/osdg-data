@@ -1,0 +1,22 @@
+indicator_name: 'Infrastruktur: Abbau des Sanierungsstaus/Deckung des Investitionsbedarfs'
+indicator_number: 9-1
+computation_units: 'Mrd. Euro'
+source_active_1: true
+source_organisation_1: 'Infrastrukturbericht 2024'
+source_url_1: 'https://www.schleswig-holstein.de/DE/fachinhalte/I/infrastrukturprogramm_impuls/infrastrukturbericht/Downloads/infrastrukturbericht_2024.pdf?__blob=publicationFile&v=3'
+graph_title: 'Entwicklung des Investitionsbedarfs in Schleswig-Holstein'
+graph_type: line
+data_start_values:
+  - field: 'Bedarfskategorie'
+    value: 'Investitionsbedarf'
+  - field: 'Bedarfskategorie'
+    value: 'abgebauter Bedarf'
+  - field: 'Bedarfskategorie'
+    value: 'zukünftiger Abbau'
+publications:
+  - title: 'Indikator Infrastruktur: Abbau des Sanierungsstaus/Deckung des Investitionsbedarfs'
+    link: 'Link zum redaktionellen Text'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-07-04
+reporting_status: complete
