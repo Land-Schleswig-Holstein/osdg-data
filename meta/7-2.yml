@@ -1,0 +1,20 @@
+indicator_name: 'Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien'
+indicator_number: 7-2
+computation_units: 'GWh'
+source_active_1: true
+source_organisation_1: 'Statistikamt Nord'
+source_url_1: 'https://www.statistik-nord.de/'
+graph_title: 'Der Indikator stellt den Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien dar.'
+graph_type: line
+data_start_values:
+  - field: 'Strommenge aus EE'
+    value: 'Strommenge aus EE (an Land)'
+  - field: 'Strommenge aus EE'
+    value: 'Strommenge aus EE (gesamt)'
+publications:
+  - title: 'Indikator Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien'
+    link: 'tbd'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-07-04
+reporting_status: complete
