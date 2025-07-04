@@ -2724,6 +2724,46 @@
       "title": "Anteil Naturschutzflächen"
     },
     {
+      "path": "14-1-1/data.csv",
+      "name": "14-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Qualität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sehr gut",
+                "gut",
+                "mäßig",
+                "unbefriedigend",
+                "schlecht",
+                "nicht bestimmt/nicht bewertbar",
+                ""
+              ]
+            },
+            "title": "Qualität"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "14-1-1"
+    },
+    {
       "path": "13-1/data.csv",
       "name": "13-1",
       "profile": "tabular-data-resource",
