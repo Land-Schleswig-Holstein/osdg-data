@@ -2,8 +2,9 @@ indicator_name: 'Infrastruktur: Abbau des Sanierungsstaus/Deckung des Investitio
 indicator_number: 9-1
 computation_units: 'Mrd. Euro'
 source_active_1: true
-source_organisation_1: 'Infrastrukturbericht 2024'
+source_organisation_1: 'Finanzministerium Schleswig-Holstein'
 source_url_1: 'https://www.schleswig-holstein.de/DE/fachinhalte/I/infrastrukturprogramm_impuls/infrastrukturbericht/Downloads/infrastrukturbericht_2024.pdf?__blob=publicationFile&v=3'
+source_url_text_1: 'Infrastrukturbericht 2024'
 graph_title: 'Entwicklung des Investitionsbedarfs in Schleswig-Holstein'
 graph_type: line
 data_start_values:
