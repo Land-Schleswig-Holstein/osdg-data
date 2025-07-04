@@ -1,0 +1,16 @@
+indicator_name: 'Belastung der Küstengewässer durch Müll'
+indicator_number: 14-2
+computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'OSPAR Bericht 2023'
+source_url_1: 'https://www.ospar.org/about/publications'
+graph_title: 'Der Indikator misst den Anteil der untersuchten Eissturmvögel mit > 0,1 g Kunststoff im Magen in Prozent innerhalb einer Stichprobe von 50 bis 100 Eissturmvogel-Spülsaumfunden. Der Indikator bezieht sich auf Umweltziele und Indikatoren der Meeresstrategie-Rahmenrichtlinie (MSRL).'
+graph_type: bar
+data_start_values:
+publications:
+  - title: 'Indikator Belastung der Küstengewässer durch Müll'
+    link: 'tbd'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-07-04
+reporting_status: complete
