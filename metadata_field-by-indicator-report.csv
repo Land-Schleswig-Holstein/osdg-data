@@ -63,7 +63,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #7-1,complete,,,,,Index,line
 #7-2,complete,,,,,GWh,line
 #7-3,complete,,,,,GWh,bar
-#7-4,complete,,,,,,line
+#7-4,complete,,,,,Prozent,line
 #8-1,complete,,,,,Euro,line
 #8-2,complete,,,,,€,line
 #8-3,complete,,,,,Prozent,line
