@@ -1,0 +1,41 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Jahr"
+          },
+          {
+            "name": "Anteil EE am Brutto-EEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anteil EE am Brutto-EEV",
+                ""
+              ]
+            },
+            "title": "Anteil EE am Brutto-EEV"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "7-4",
+  "title": "7-4"
+}
