@@ -1383,6 +1383,39 @@
       "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
     },
     {
+      "path": "7-2/data.csv",
+      "name": "7-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Strommenge aus EE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Strommenge aus EE (an Land)",
+                "Strommenge aus EE (gesamt)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "7-2"
+    },
+    {
       "path": "17-1/data.csv",
       "name": "17-1",
       "profile": "tabular-data-resource",

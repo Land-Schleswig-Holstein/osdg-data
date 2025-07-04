@@ -61,6 +61,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #6-2,complete,,,,,Prozent,bar
 #6-3,complete,,,,,Anzahl Wasserkörper,bar
 #7-1,complete,,,,,Index,line
+#7-2,complete,,,,,,line
 #7-3,complete,,,,,GWh,bar
 #8-1,complete,,,,,Euro,line
 #8-2,complete,,,,,€,line
