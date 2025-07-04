@@ -5,7 +5,7 @@ source_active_1: true
 source_organisation_1: 'Stabilitätsberichte des Landes Schleswig-Holstein'
 source_url_1: 'Link zur Quelle'
 graph_title: 'Struktureller Finanzierungssaldo des Landes Schleswig-Holstein in Euro je Einwohnerin und Einwohner'
-graph_type: line
+graph_type: bar
 data_start_values:
   - field: 'Finanzierungssaldo'
     value: 'Struktureller Finanzierungssaldo je Einwohnerin und Einwohner'
