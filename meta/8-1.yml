@@ -12,6 +12,7 @@ data_start_values:
 footer_fields:
   - label: Hinweis
     value: Es handelt sich bei den Werten bis 2023 um Ist-Werte, für 2024 ist ein Soll-Wert dargestellt.
+publications:
   - title: 'Indikator Staatsdefizit (Ist-Werte'
     link: 'Link zum redaktionellen Text'
     description: ' '
