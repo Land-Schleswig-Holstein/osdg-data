@@ -1,6 +1,9 @@
 indicator_name: 'Zertifizierte außerschulische Bildungseinrichtungen für Nachhaltigkeit'
 indicator_number: 4-4
 computation_units: 'Anzahl'
+source_active_1: true
+source_organisation_1: 'nun-Zertifizierung Schleswig-Holstein'
+source_url_1: 'https://www.nun-zertifizierung.de/schleswig-holstein/'
 graph_title: 'Anzahl der außerschulischen Bildungseinrichtungen, die das Zertifikat „norddeutsch und nachhaltig“ tragen'
 graph_type: bar
 data_start_values:
