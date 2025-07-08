@@ -1,6 +1,9 @@
 indicator_name: 'Treibhausgas- und Energieproduktivität'
 indicator_number: 7-1
 computation_units: 'Index'
+source_active_1: true
+source_organisation_1: 'Monitoring Energiewende und Klimaschutz Schleswig-Holstein'
+source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/themen/energie/energiewende/Daten/_documents/monitoring'
 graph_title: 'Entwicklung der Treibhausgas- und Endenergieproduktivität auf Basis des preisbereinigten Bruttoinlandsprodukts'
 graph_type: line
 data_start_values:
