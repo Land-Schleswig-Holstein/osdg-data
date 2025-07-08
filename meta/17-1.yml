@@ -2,7 +2,7 @@ indicator_name: 'Öffentliche Entwicklungsausgaben'
 indicator_number: 17-1
 computation_units: 'Euro'
 source_active_1: true
-source_organisation_1: 'Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)'
+source_organisation_1: 'Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)'
 source_url_1: 'https://www.bmz.de/de/ministerium/zahlen-fakten/oda-zahlen/deutsche-oda-leistungen-19220'
 source_url_text_1: ODA-Zahlen
 graph_title: 'Aufkommen der Landesmittel für Entwicklungszusammenarbeit sowie für Landesprogramme im Bereich Eine-Welt-Politik'
