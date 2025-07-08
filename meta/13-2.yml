@@ -7,4 +7,7 @@ source_url_1: 'https://difu.de/projekte/service-und-kompetenzzentrum-kommunaler-
 graph_title: 'Anzahl der durch den Bund geförderten kommunalen Klimaschutzkonzepte in Schleswig-Holstein'
 graph_type: bar
 data_start_values:
+    graph_target_lines:
+  - label_content: 'Ziel 2030'
+    value: 50
 reporting_status: complete
