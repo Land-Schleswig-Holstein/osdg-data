@@ -12,21 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Ausbaustand Mobilfunk LTE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Ausbaustand Mobilfunk LTE",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "string"
+            "type": "number"
           }
         ]
       }
