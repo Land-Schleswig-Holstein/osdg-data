@@ -1,6 +1,9 @@
 indicator_name: 'Anzahl kommunaler Klimaschutzkonzepte'
 indicator_number: 13-2
 computation_units: 'Anzahl'
+source_active_1: true
+source_organisation_1: 'Service- und Kompetenzzentrum: Kommunaler Klimaschutz'
+source_url_1: 'https://difu.de/projekte/service-und-kompetenzzentrum-kommunaler-klimaschutz-skkk-0'
 graph_title: 'Anzahl der durch den Bund geförderten kommunalen Klimaschutzkonzepte in Schleswig-Holstein'
 graph_type: bar
 data_start_values:
