@@ -75,7 +75,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #8-7,complete,,,,,Anzahl,bar
 #8-8,complete,,,,,Prozent,line
 #9-1,complete,,,,,Mrd. Euro,line
-#9-2,complete,,True,,,Prozent,line
+#9-2,complete,,,,,Prozent,line
 #9-3,complete,,,,,Prozent,line
 #9-4,complete,,,,,Prozent,line
 #9-5,complete,,,,,Anzahl,line

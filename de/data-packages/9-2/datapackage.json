@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Ausbaustand",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5G Fläche SH",
+                "4G Fläche SH",
+                ""
+              ]
+            },
+            "title": "Ausbaustand"
           },
           {
             "name": "Value",
