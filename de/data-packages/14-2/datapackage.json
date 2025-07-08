@@ -16,26 +16,15 @@
             "title": "Jahr"
           },
           {
-            "name": "Vögel mit > 0",
+            "name": "Vögel mit > 0.1 g Plastik",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vögel mit > 0",
+                "Vögel mit > 0.1 g Plastik",
                 ""
               ]
             },
-            "title": "Vögel mit > 0"
-          },
-          {
-            "name": "1 g Plastik",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1 g Plastik",
-                ""
-              ]
-            },
-            "title": "1 g Plastik"
+            "title": "Vögel mit > 0.1 g Plastik"
           },
           {
             "name": "Value",

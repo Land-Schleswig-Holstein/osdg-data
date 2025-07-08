@@ -15,21 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Vögel mit > 0",
+            "name": "Vögel mit > 0.1 g Plastik",
             "type": "string",
             "constraints": {
               "enum": [
-                "Vögel mit > 0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "1 g Plastik",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "1 g Plastik",
+                "Vögel mit > 0.1 g Plastik",
                 ""
               ]
             }
