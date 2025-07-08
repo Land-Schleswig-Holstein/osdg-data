@@ -3,6 +3,7 @@ indicator_number: 3-6
 computation_units: 'µg/m³'
 source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt'
+source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LFU'
 graph_title: 'Immissionen von Feinstaub der Partikelgröße PM10 als Jahresmittel'
 graph_type: line
 data_start_values:
