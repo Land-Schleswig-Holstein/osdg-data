@@ -10,9 +10,6 @@ graph_type: line
 data_start_values:
   - field: 'Ausbaustand Mobilfunk LTE'
     value: 'Ausbaustand Mobilfunk LTE'
-footer_fields:
-  - label: Hinweis
-    value: Wegen einer geänderten Methodik ab 2022 sind Werte bis 2021 nur eingeschränkt mit Werten ab 2022 vergleichbar.
 publications:
   - title: 'Indikator Mobilfunkabdeckung'
     link: 'Link zum redaktionellen Text'
