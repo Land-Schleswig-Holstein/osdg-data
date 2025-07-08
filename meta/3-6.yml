@@ -1,6 +1,8 @@
 indicator_name: 'Feinstaubbelastung'
 indicator_number: 3-6
 computation_units: 'µg/m³'
+source_active_1: true
+source_organisation_1: 'Landesamt für Umwelt'
 graph_title: 'Immissionen von Feinstaub der Partikelgröße PM10 als Jahresmittel'
 graph_type: line
 data_start_values:
