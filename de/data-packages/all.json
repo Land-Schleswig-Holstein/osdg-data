@@ -2934,8 +2934,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Strommenge aus EE (an Land)",
                 "Strommenge aus EE (gesamt)",
+                "Strommenge aus EE (an Land)",
                 ""
               ]
             },
