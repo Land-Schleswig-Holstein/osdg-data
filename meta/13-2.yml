@@ -11,5 +11,5 @@ data_start_values:
   value: 'Anzahl Klimaschutzkonzepte'
 graph_target_lines:
   - label_content: 'Ziel 2030'
-    value: 50
+    value: 50.0
 reporting_status: complete
