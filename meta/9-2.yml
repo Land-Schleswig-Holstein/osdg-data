@@ -12,6 +12,10 @@ data_start_values:
     value: '5G Fläche SH'
   - field: 'Ausbaustand'
     value: '4G Fläche SH'
+graph_limits:
+    - unit: 'Prozent'
+      minimum: 60
+      maximum: 100
 publications:
   - title: 'Indikator Mobilfunkabdeckung'
     link: 'Link zum redaktionellen Text'
