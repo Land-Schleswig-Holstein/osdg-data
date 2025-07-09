@@ -9,9 +9,9 @@ graph_type: line
 data_start_values:
   - field: 'Anteil EE am Brutto-EEV'
     value: 'Anteil EE am Brutto-EEV'
-        graph_target_lines:
+graph_target_lines:
   - label_content: 'Ziel 2030'
-    value: 73.0-86.0
+    value: 73.0
 publications:
   - title: 'Indikator Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch'
     link: 'tbd'
