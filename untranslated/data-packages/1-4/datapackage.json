@@ -12,17 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Leistungsbeziehende",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SGB II - U 15 Leistungsbeziehende",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
