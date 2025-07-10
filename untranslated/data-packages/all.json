@@ -862,6 +862,38 @@
       "title": "Schulabsolventinnen und Schulabsolventen mit Migrationshintergrund"
     },
     {
+      "path": "1-4/data.csv",
+      "name": "1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Leistungsbeziehende",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SGB II - U 15 Leistungsbeziehende",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "SGB-II-Quote der unter 15-Jährigen"
+    },
+    {
       "path": "4-7/data.csv",
       "name": "4-7",
       "profile": "tabular-data-resource",
@@ -2883,28 +2915,6 @@
         ]
       },
       "title": "Phosphoreintrag über Zuflüsse in Nord- und Ostsee"
-    },
-    {
-      "path": "1-4/data.csv",
-      "name": "1-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "SGB-II-Quote der unter 15-Jährigen"
     }
   ]
 }
