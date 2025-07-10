@@ -5,7 +5,7 @@ source_active_1: true
 source_organisation_1: 'Statistik der Bundesagentur für Arbeit; Fortschreibung des Bevölkerungsstandes'
 source_url_1: 'https://statistik.arbeitsagentur.de/SiteGlobals/Forms/Suche/Einzelheftsuche_Formular.html?topic_f=sgbii-quoten'
 source_url_text_1: SGB II-Hilfequoten
-graph_title: 'Anteil der unter 15-Jährigen in Bedarfsgemeinschaften, die Leistungen gemäß Sozialgesetzbuch II beziehen an der Gesamtbevölkerung'
+graph_title: 'Anteil der unter 15-Jährigen in Bedarfsgemeinschaften, die Leistungen gemäß Sozialgesetzbuch II beziehen'
 graph_type: line
 data_start_values:
   - field: 'Leistungsbeziehende'
