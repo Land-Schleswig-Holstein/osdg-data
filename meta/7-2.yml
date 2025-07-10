@@ -11,9 +11,9 @@ data_start_values:
     value: 'Strommenge aus EE (an Land)'
   - field: 'Strommenge aus EE'
     value: 'Strommenge aus EE (gesamt)'
-    graph_target_lines:
+graph_target_lines:
   - label_content: 'Ziel 2030'
-    value: 450000
+    value: 45000.0
 publications:
   - title: 'Indikator Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien'
     link: 'tbd'
