@@ -2,8 +2,9 @@ indicator_name: 'Frauen in Führungspositionen in der Wirtschaft'
 indicator_number: 5-3
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'https://www.bmfsfj.de/bmfsfj/service/gleichstellungsatlas'
-source_url_1: 'Link zur Quelle'
+source_organisation_1: 'Gleichstellungsatlas des Bundes'
+source_url_1: 'https://www.bmfsfj.de/bmfsfj/service/gleichstellungsatlas'
+source_url_text_1: Digitaler Gleichstellungsatlas
 graph_title: 'Anteil von Frauen an Personen mit Führungsaufgaben in der obersten und in der zweiten Ebene der Privatwirtschaft'
 graph_type: bar
 data_start_values:
@@ -13,7 +14,7 @@ data_start_values:
     value: 'Zweite Führungsebene'
 publications:
   - title: 'Indikator Frauen in Führungspositionen in der Wirtschaft'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/5-3'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-09
