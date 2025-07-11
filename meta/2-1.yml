@@ -14,7 +14,7 @@ data_start_values:
     value: 'Deutschland Stickstoff-Überschuss in der Landwirtschaft'
 publications:
   - title: 'Indikator Stickstoffüberschuss in der Landwirtschaft'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/2-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
