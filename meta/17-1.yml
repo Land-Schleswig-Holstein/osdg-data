@@ -10,4 +10,10 @@ graph_type: line
 data_start_values:
   - field: 'Aufkommen'
     value: 'Öffentliche Entwicklungshilfe'
+publications:
+  - title: 'Indikator Öffentliche Entwicklungsausgaben'
+    link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/17-1'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-06-18
 reporting_status: complete
