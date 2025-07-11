@@ -3,7 +3,6 @@ indicator_number: 8-5
 computation_units: 'Materialverbrauch je Einwohnerin und Einwohner [t/E]'
 source_active_1: true
 source_organisation_1: 'Statisikamt Nord'
-source_url_1: 'https://www.statistik-nord.de/'
 graph_title: 'Verbrauchte Menge Rohstoffe, Hilfsstoffe und Betriebsstoffe pro Einwohnerin und Einwohner im Jahresmittel'
 graph_type: line
 data_start_values:
