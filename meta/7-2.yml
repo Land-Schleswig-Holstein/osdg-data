@@ -3,7 +3,6 @@ indicator_number: 7-2
 computation_units: 'GWh'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
-source_url_1: 'https://www.statistik-nord.de/'
 graph_title: 'Der Indikator stellt den Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien dar.'
 graph_type: line
 data_start_values:
@@ -16,7 +15,7 @@ graph_target_lines:
     value: 45000.0
 publications:
   - title: 'Indikator Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien'
-    link: 'tbd'
+    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
