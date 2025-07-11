@@ -4,4 +4,10 @@ computation_units: 'Prozent'
 graph_title: 'Anteil der Landesschutzdeiche ohne Sicherheitsdefizit an der Gesamtlänge der Landesschutzdeiche'
 graph_type: line
 data_start_values:
+publications:
+  - title: 'Indikator Klimaanpassung im Küstenschutz'
+    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-3'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-03-31
 reporting_status: complete
