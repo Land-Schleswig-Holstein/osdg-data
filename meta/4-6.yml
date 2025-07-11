@@ -14,7 +14,7 @@ data_start_values:
     value: 'EU-27 (28)'
 publications:
   - title: 'Indikator Sozialer Ausgleich im Bildungssystem - Frühe Schulabgängerinnen und Schulabgänger'
-    link: 'Link redaktioneller Text'
+    link: 'http://10.61.63.178/handlungsfelder/bildung/4-6'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
