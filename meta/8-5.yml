@@ -9,7 +9,7 @@ data_start_values:
   - field: 'Materialverbrauch'
     value: 'Materialverbrauch'
 publications:
-  - title: 'Materialverbrauch'
+  - title: 'Indikator Materialverbrauch'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-5'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
