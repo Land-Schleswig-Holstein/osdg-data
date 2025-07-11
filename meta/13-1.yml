@@ -19,4 +19,10 @@ data_start_values:
     value: 'Abfallwirtschaft'
   - field: 'Sektor'
     value: 'Landwirtschaft'
+publications:
+  - title: 'Indikator Treibhausgasemissionen'
+    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/13-1'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
 reporting_status: complete
