@@ -10,7 +10,7 @@ data_start_values:
     value: 'Gesamt'
 publications:
   - title: 'Indikator Flächendeckendes Angebot von Pflegestützpunkten'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-3'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-03
