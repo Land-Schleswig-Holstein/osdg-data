@@ -14,7 +14,7 @@ data_start_values:
     value: '3-Jahreswert Schleswig-Holstein'
 publications:
   - title: 'Indikator Sterberate Neugeborene'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
