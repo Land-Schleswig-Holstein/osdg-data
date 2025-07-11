@@ -10,4 +10,10 @@ data_start_values:
     value: 'EMAS'
   - field: 'Nachhaltigkeitsstandard'
     value: 'GRI'
+publications:
+  - title: 'Unternehmen mit Nachhaltigkeitsstandards'
+    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/12-2'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
 reporting_status: complete
