@@ -14,7 +14,7 @@ data_start_values:
     value: 'Deutschland'
 publications:
   - title: 'Indikator Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/bildung/4-7'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
