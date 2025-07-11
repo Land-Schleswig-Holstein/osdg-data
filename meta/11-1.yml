@@ -12,7 +12,7 @@ data_start_values:
     value: 'Durchschnittliche Reisezeit'
 publications:
   - title: 'Indikator Erreichbarkeit von Zentren mit dem ÖPNV'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/11-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
