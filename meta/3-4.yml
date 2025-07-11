@@ -14,7 +14,7 @@ data_start_values:
     value: 'Zwei Impfungen (Alter 24 Monate)'
 publications:
   - title: 'Indikator Masernelimination'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-4'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
