@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Anteil der Arbeitslosen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil Langzeitarbeitslose",
-                "Anteil Alleinerziehende",
-                "Anteil Menschen ohne abgeschlossene Berufsausbildung",
-                ""
-              ]
-            },
-            "title": "Anteil der Arbeitslosen"
           },
           {
             "name": "Value",
