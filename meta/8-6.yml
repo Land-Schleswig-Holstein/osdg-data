@@ -3,10 +3,15 @@ indicator_number: 8-6
 computation_units: 'BIP/DMIa'
 source_active_1: true
 source_organisation_1: 'Statisikamt Nord'
-source_url_1: 'https://www.statistik-nord.de/'
 graph_title: 'Wirtschaftliche Leistung in Euro pro Tonne Materialeinsatz'
 graph_type: bar
 data_start_values:
   - field: 'Rohstoffproduktivität'
     value: 'Rohstoffproduktivität'
+publications:
+  - title: 'Materialverbrauch'
+    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-6'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-06-30
 reporting_status: complete
