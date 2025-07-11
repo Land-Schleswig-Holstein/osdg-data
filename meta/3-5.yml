@@ -12,7 +12,7 @@ data_start_values:
     value: 'Anteil Mädchen'
 publications:
   - title: 'Indikator Adipositas bei Schulanfängerinnen und Schulanfängern'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-5'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
