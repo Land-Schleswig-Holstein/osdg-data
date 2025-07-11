@@ -11,7 +11,7 @@ data_start_values:
     value: 'Online-Dienste'
 publications:
   - title: 'Indikator Anzahl in Schleswig-Holstein verfügbarer Onlinedienste'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/16-4'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-18
