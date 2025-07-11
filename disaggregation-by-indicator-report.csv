@@ -65,8 +65,7 @@ Indicator,Disaggregations,Number of disaggregations
 #7-4,Anteil EE am Brutto-EEV,1
 #8-1,Finanzierungssaldo,1
 #8-2,Schuldenstand,1
-#8-3,"Arbeitslosenquoten, Anteil der Arbeitslosen",2
-#8-3-1,Arbeitslosenquoten,1
+#8-3,"Anteil der Arbeitslosen, Arbeitslosenquoten",2
 #8-3-2,Anteil der Arbeitslosen,1
 #8-4,Geschlecht,1
 #8-5,Materialverbrauch,1

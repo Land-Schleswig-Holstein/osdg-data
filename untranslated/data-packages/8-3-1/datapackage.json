@@ -12,21 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Arbeitslosenquoten",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Arbeitslosenquote insgesamt",
-                "Männer",
-                "Frauen",
-                "Ausländer",
-                "Langzeitarbeitslose",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
