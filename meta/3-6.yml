@@ -7,4 +7,10 @@ source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-
 graph_title: 'Immissionen von Feinstaub der Partikelgröße PM10 als Jahresmittel'
 graph_type: line
 data_start_values:
+publications:
+  - title: 'Indikator Feinstaubbelastung'
+    link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-56'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
 reporting_status: complete
