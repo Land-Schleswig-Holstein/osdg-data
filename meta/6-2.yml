@@ -9,4 +9,10 @@ graph_title: 'Anteil der Wasserkörper natürlicher Fließgewässer mit gutem od
 graph_type: bar
 graph_stacked_disaggregation: 'Wasserkörper'
 data_start_values:
+publications:
+  - title: 'Ökologischer Zustand oberirdischer Gewässer'
+    link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-2'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-20
 reporting_status: complete
