@@ -6,6 +6,9 @@ graph_type: line
 data_start_values:
   - field: 'Raum'
     value: 'Schleswig-Holstein'
+graph_target_lines:
+  - label_content: 'Ziel 2030'
+    value: 3.6
 publications:
   - title: 'Indikator Anteil Naturschutzflächen'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-4'
