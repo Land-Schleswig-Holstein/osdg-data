@@ -10,7 +10,7 @@ graph_type: bar
 graph_stacked_disaggregation: 'Wasserkörper'
 data_start_values:
 publications:
-  - title: 'Gewässergefährdung durch Phosphor'
+  - title: 'Indikator Gewässergefährdung durch Phosphor'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-3'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
