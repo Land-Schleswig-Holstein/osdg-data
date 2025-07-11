@@ -3,7 +3,6 @@ indicator_number: 12-1
 computation_units: 'kg/Einwohner'
 source_active_1: true
 source_organisation_1: 'Statisikamt Nord'
-source_url_1: 'https://www.statistik-nord.de/'
 graph_title: 'Aufkommen von ausgewählten Siedlungsabfällen, Haus- und Sperrmüll sowie Leichtverpackungsabfällen bezogen auf Einwohnerinnen und Einwohner'
 graph_type: line
 data_start_values:
@@ -13,4 +12,10 @@ data_start_values:
     value: 'Haus- und Sperrmüll (SH)'
   - field: 'Aufkommen'
     value: 'Leichtverpackungen (SH)'
+publications:
+  - title: 'Siedlungsabfallaufkommen'
+    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/12-1'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-21
 reporting_status: complete
