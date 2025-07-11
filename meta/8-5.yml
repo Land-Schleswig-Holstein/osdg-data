@@ -9,4 +9,10 @@ graph_type: line
 data_start_values:
   - field: 'Materialverbrauch'
     value: 'Materialverbrauch'
+publications:
+  - title: 'Materialverbrauch'
+    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-5'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-06-30
 reporting_status: complete
