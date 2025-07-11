@@ -12,4 +12,10 @@ data_start_values:
     value: 'THG'
   - field: 'Produktivitätsindex'
     value: 'EEV'
+publications:
+  - title: 'Treibhausgas- und Energieproduktivität'
+    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-1'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-05-20
 reporting_status: complete
