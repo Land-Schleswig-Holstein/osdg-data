@@ -4,7 +4,14 @@ computation_units: 'Anzahl'
 source_active_1: true
 source_organisation_1: 'nun-Zertifizierung Schleswig-Holstein'
 source_url_1: 'https://www.nun-zertifizierung.de/schleswig-holstein/'
+source_url_text_1: norddeutsch und nachhaltig
 graph_title: 'Anzahl der außerschulischen Bildungseinrichtungen, die das Zertifikat „norddeutsch und nachhaltig“ tragen'
 graph_type: bar
 data_start_values:
+publications:
+  - title: 'Indikator Zertifizierte außerschulische Bildungseinrichtungen für Nachhaltigkeit'
+    link: 'http://10.61.63.178/handlungsfelder/bildung/4-4'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-06-02
 reporting_status: complete
