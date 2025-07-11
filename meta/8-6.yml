@@ -9,7 +9,7 @@ data_start_values:
   - field: 'Rohstoffproduktivität'
     value: 'Rohstoffproduktivität'
 publications:
-  - title: 'Materialverbrauch'
+  - title: 'Indikatore Rohstoffproduktivität'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-6'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
