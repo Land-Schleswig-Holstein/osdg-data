@@ -24,7 +24,7 @@ data_start_values:
     value: 'TP ohne Kita 3 - 5 Jahre'
 publications:
   - title: 'Indikator Ganztagsbetreuung für Kinder'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/bildung/4-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
