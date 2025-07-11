@@ -18,7 +18,7 @@ data_start_values:
     value: 'DE_weiblich'
 publications:
   - title: 'Indikator Vorzeitige Sterblichkeit'
-    link: 'Link zum redaktionellen Text'
+    link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
