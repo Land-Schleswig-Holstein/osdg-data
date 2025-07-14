@@ -8,6 +8,10 @@ source_url_text_1: Geoportal Umgebungslärm
 graph_title: 'Anzahl der Personen, die an ihrem Hauptwohnsitz Lärmbelastungen über 65 dB(A) LDEN ganztags und über 55 dB(A) LNight nachts durch Hauptlärmquellen gem. § 47 Bundesimmissionsschutzgesetz ausgesetzt sind – Straßen- Schienenverkehrs- und Fluglärm'
 graph_type: line
 data_start_values:
+  - field: 'Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart'
+    value: 'LDEN'
+  - field: 'Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart'
+    value: 'LNIGHT>55'
 publications:
   - title: 'Indikator Lärmbelastung'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-7'
