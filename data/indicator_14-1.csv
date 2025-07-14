@@ -1,37 +1,37 @@
 Year,Series,Nordsee,Ostsee,Qualität,Value
-2009,Nordsee,Qualität,Qualität,sehr gut,0
-2015,Nordsee,Qualität,Qualität,sehr gut,0
-2021,Nordsee,Qualität,Qualität,sehr gut,0
-2009,Nordsee,Qualität,Qualität,gut,0
-2015,Nordsee,Qualität,Qualität,gut,0
-2021,Nordsee,Qualität,Qualität,gut,0
-2009,Nordsee,Qualität,Qualität,mäßig,6
-2015,Nordsee,Qualität,Qualität,mäßig,9
-2021,Nordsee,Qualität,Qualität,mäßig,9
-2009,Nordsee,Qualität,Qualität,unbefriedigend,7
-2015,Nordsee,Qualität,Qualität,unbefriedigend,2
-2021,Nordsee,Qualität,Qualität,unbefriedigend,2
-2009,Nordsee,Qualität,Qualität,schlecht,0
-2015,Nordsee,Qualität,Qualität,schlecht,2
-2021,Nordsee,Qualität,Qualität,schlecht,2
-2009,Nordsee,Qualität,Qualität,nicht bestimmt/nicht bewertbar,0
-2015,Nordsee,Qualität,Qualität,nicht bestimmt/nicht bewertbar,0
-2021,Nordsee,Qualität,Qualität,nicht bestimmt/nicht bewertbar,0
-2009,Ostsee,Qualität,Qualität,sehr gut,0
-2015,Ostsee,Qualität,Qualität,sehr gut,0
-2021,Ostsee,Qualität,Qualität,sehr gut,0
-2009,Ostsee,Qualität,Qualität,gut,1
-2015,Ostsee,Qualität,Qualität,gut,0
-2021,Ostsee,Qualität,Qualität,gut,0
-2009,Ostsee,Qualität,Qualität,mäßig,13
-2015,Ostsee,Qualität,Qualität,mäßig,14
-2021,Ostsee,Qualität,Qualität,mäßig,12
-2009,Ostsee,Qualität,Qualität,unbefriedigend,9
-2015,Ostsee,Qualität,Qualität,unbefriedigend,4
-2021,Ostsee,Qualität,Qualität,unbefriedigend,7
-2009,Ostsee,Qualität,Qualität,schlecht,4
-2015,Ostsee,Qualität,Qualität,schlecht,9
-2021,Ostsee,Qualität,Qualität,schlecht,8
-2009,Ostsee,Qualität,Qualität,nicht bestimmt/nicht bewertbar,0
-2015,Ostsee,Qualität,Qualität,nicht bestimmt/nicht bewertbar,0
-2021,Ostsee,Qualität,Qualität,nicht bestimmt/nicht bewertbar,0
+2009,Nordsee,Qualität,,sehr gut,0
+2015,Nordsee,Qualität,,sehr gut,0
+2021,Nordsee,Qualität,,sehr gut,0
+2009,Nordsee,Qualität,,gut,0
+2015,Nordsee,Qualität,,gut,0
+2021,Nordsee,Qualität,,gut,0
+2009,Nordsee,Qualität,,mäßig,6
+2015,Nordsee,Qualität,,mäßig,9
+2021,Nordsee,Qualität,,mäßig,9
+2009,Nordsee,Qualität,,unbefriedigend,7
+2015,Nordsee,Qualität,,unbefriedigend,2
+2021,Nordsee,Qualität,,unbefriedigend,2
+2009,Nordsee,Qualität,,schlecht,0
+2015,Nordsee,Qualität,,schlecht,2
+2021,Nordsee,Qualität,,schlecht,2
+2009,Nordsee,Qualität,,nicht bestimmt/nicht bewertbar,0
+2015,Nordsee,Qualität,,nicht bestimmt/nicht bewertbar,0
+2021,Nordsee,Qualität,,nicht bestimmt/nicht bewertbar,0
+2009,Ostsee,,Qualität,sehr gut,0
+2015,Ostsee,,Qualität,sehr gut,0
+2021,Ostsee,,Qualität,sehr gut,0
+2009,Ostsee,,Qualität,gut,1
+2015,Ostsee,,Qualität,gut,0
+2021,Ostsee,,Qualität,gut,0
+2009,Ostsee,,Qualität,mäßig,13
+2015,Ostsee,,Qualität,mäßig,14
+2021,Ostsee,,Qualität,mäßig,12
+2009,Ostsee,,Qualität,unbefriedigend,9
+2015,Ostsee,,Qualität,unbefriedigend,4
+2021,Ostsee,,Qualität,unbefriedigend,7
+2009,Ostsee,,Qualität,schlecht,4
+2015,Ostsee,,Qualität,schlecht,9
+2021,Ostsee,,Qualität,schlecht,8
+2009,Ostsee,,Qualität,nicht bestimmt/nicht bewertbar,0
+2015,Ostsee,,Qualität,nicht bestimmt/nicht bewertbar,0
+2021,Ostsee,,Qualität,nicht bestimmt/nicht bewertbar,0
