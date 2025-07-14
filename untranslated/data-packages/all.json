@@ -687,6 +687,54 @@
       "title": "Treibhausgasemissionen"
     },
     {
+      "path": "14-1/data.csv",
+      "name": "14-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nordsee",
+                "Ostsee",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Qualität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sehr gut",
+                "gut",
+                "mäßig",
+                "unbefriedigend",
+                "schlecht",
+                "nicht bestimmt/nicht bewertbar",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "integer"
+          }
+        ]
+      },
+      "title": "Ökologischer Zustand der Küstengewässer"
+    },
+    {
       "path": "15-3/data.csv",
       "name": "15-3",
       "profile": "tabular-data-resource",
@@ -2766,28 +2814,6 @@
         ]
       },
       "title": "Phosphoreintrag über Zuflüsse in Nord- und Ostsee"
-    },
-    {
-      "path": "14-1/data.csv",
-      "name": "14-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Ökologischer Zustand der Küstengewässer"
     }
   ]
 }
