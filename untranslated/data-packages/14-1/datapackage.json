@@ -12,11 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nordsee",
+                "Ostsee",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nordsee",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Qualität",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Ostsee",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Qualität",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Qualität",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "sehr gut",
+                "gut",
+                "mäßig",
+                "unbefriedigend",
+                "schlecht",
+                "nicht bestimmt/nicht bewertbar",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
