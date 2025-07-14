@@ -9,6 +9,14 @@ graph_title: 'Anzahl der Fließgewässer- und Seewasserkörper, die den Orientie
 graph_type: bar
 graph_stacked_disaggregation: 'Wasserkörper'
 data_start_values:
+  - field: 'Wasserkörper'
+    value: 'FG eingehalten'
+  - field: 'Wasserkörper'
+    value: 'FG nicht eingehalten'
+  - field: 'Wasserkörper'
+    value: 'Seen eingehalten'
+  - field: 'Wasserkörper'
+    value: 'Seen nicht eingehalten'
 publications:
   - title: 'Indikator Gewässergefährdung durch Phosphor'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-3'
