@@ -8,6 +8,14 @@ source_url_text_1: Landesamt für Umwelt - Landesportal
 graph_title: 'Anzahl der Wasserkörper im jeweiligen ökologischen Zustand über die Zeit'
 graph_type: bar
 data_start_values:
+  - field: 'Series'
+    value: 'Nordsee'
+  - field: 'Series'
+    value: 'Ostsee'
+  - field: 'Nordsee'
+    value: 'Qualität'
+  - field: 'Ostsee'
+    value: 'Qualität'
   - field: 'Qualität'
     value: 'sehr gut'
   - field: 'Qualität'
