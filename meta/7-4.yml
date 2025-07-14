@@ -13,7 +13,7 @@ graph_target_lines:
   - label_content: 'Ziel 2030 min.'
     value: 73.0
   - label_content: 'Ziel 2030 max.'
-    value: 85.0
+    value: 86.0
 publications:
   - title: 'Indikator Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch'
     link: 'tbd'
