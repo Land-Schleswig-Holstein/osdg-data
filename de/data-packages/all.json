@@ -1062,8 +1062,8 @@
               "enum": [
                 "FG eingehalten",
                 "FG nicht eingehalten",
-                "Seen nicht eingehalten",
                 "Seen eingehalten",
+                "Seen nicht eingehalten",
                 ""
               ]
             },
