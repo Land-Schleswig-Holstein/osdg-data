@@ -4,6 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
 source_url_1: 'https://www.statistik-nord.de/'
+source_url_text_1: 'Statistikamt Nord'
 graph_title: 'Der Indikator stellt den Versorgungsbeitrag der Erneuerbaren Energien zum Brutto-Endenergieverbrauch dar.'
 graph_type: line
 data_start_values:
