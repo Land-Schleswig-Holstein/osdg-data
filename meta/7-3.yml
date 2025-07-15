@@ -7,6 +7,14 @@ graph_title: 'Endenergieverbrauch nach Verbrauchssektoren ­– Verkehr, Industr
 graph_type: bar
 graph_stacked_disaggregation: 'Verbrauchssektor'
 data_start_values:
+  - field: 'Verbrauchssektor'
+    value: 'Industrie'
+  - field: 'Verbrauchssektor'
+    value: 'Verkehr'
+  - field: 'Verbrauchssektor'
+    value: 'Haushalte'
+  - field: 'Verbrauchssektor'
+    value: 'Gewerbe Handel Dienstleistungen'
 publications:
   - title: 'Energieverbrauch nach Sektoren'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-3'
