@@ -3,6 +3,8 @@ indicator_number: 7-2
 computation_units: 'GWh'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
+source_url_1: 'https://www.statistik-nord.de/'
+source_url_text_1: 'Statistikamt Nord'
 graph_title: 'Der Indikator stellt den Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien dar.'
 graph_type: line
 data_start_values:
