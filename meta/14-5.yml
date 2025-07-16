@@ -1,6 +1,6 @@
 indicator_name: 'Phosphoreintrag über Zuflüsse in Nord- und Ostsee'
 indicator_number: 14-5
-computation_units: '5 jährig gleitender Mittelwert der Phosphortracht (1000 t)'
+computation_units: '5 jährig gleitender Mittelwert der Phosphortracht (t)'
 source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
 source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LFU'
@@ -14,6 +14,9 @@ data_start_values:
     value: 'Nordsee'
   - field: 'Raum'
     value: 'Elbe'
+graph_target_lines:
+  - label_content: 'Ziel 2027'
+    value: 775.0
 publications:
   - title: 'Indikator Phosphoreintrag über Zuflüsse in Nord- und Ostsee'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/14-5'
