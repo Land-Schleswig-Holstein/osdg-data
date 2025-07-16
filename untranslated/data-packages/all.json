@@ -445,14 +445,14 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
+            "type": "string"
           },
           {
             "name": "Gemeinden und Kreise",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fairtrade Towns (Städte/Gemeinden)",
+                " Gemeinden)",
                 ""
               ]
             }
