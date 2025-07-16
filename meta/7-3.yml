@@ -16,7 +16,7 @@ data_start_values:
   - field: 'Verbrauchssektor'
     value: 'Haushalte'
   - field: 'Verbrauchssektor'
-    value: 'Gewerbe Handel Dienstleistungen'
+    value: 'Gewerbe/ Handel/ Dienstleistungen'
 publications:
   - title: 'Energieverbrauch nach Sektoren'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-3'
