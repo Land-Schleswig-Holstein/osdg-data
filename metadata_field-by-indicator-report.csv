@@ -28,6 +28,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #15-2,complete,,,,,m² je Einwohnerin und Einwohner,bar
 #15-3,complete,,,,,Prozent,line
 #15-4,complete,,,,,Prozent,line
+#15-5-2,complete,,,,,,line
 #15-6,complete,,,,,Prozent,bar
 #16-1,complete,,,,,Häufigkeitszahl,line
 #16-2,complete,,,,,Deckungsgrad,bar
