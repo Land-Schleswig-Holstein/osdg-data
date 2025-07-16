@@ -17,6 +17,9 @@ data_start_values:
     value: 'Seen eingehalten'
   - field: 'Wasserkörper'
     value: 'Seen nicht eingehalten'
+graph_target_lines:
+  - label_content: 'Ziel 2030'
+    value: 325.0
 publications:
   - title: 'Indikator Gewässergefährdung durch Phosphor'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-3'
