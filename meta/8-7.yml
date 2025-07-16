@@ -9,7 +9,7 @@ graph_title: 'Anzahl der Fairtrade-Towns in Schleswig-Holstein'
 graph_type: bar
 data_start_values:
   - field: 'Fairtrade-Towns'
-    value: 'Fairtrade-Towns (Städte, Kreise, Gemeinden)'
+    value: 'Fairtrade-Towns (Städte Kreise Gemeinden)'
 publications:
   - title: 'Anzahl der Fairtrade-Towns in Schleswig-Holstein'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/8-7'
