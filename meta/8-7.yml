@@ -1,17 +1,17 @@
-indicator_name: 'Anzahl Fair-Trade-Gemeinden und -Kreise'
+indicator_name: 'Anzahl der Fairtrade-Towns'
 indicator_number: 8-7
 computation_units: 'Anzahl'
 source_active_1: true
 source_organisation_1: 'Fairtrade Deutschland'
 source_url_1: 'https://www.fairtrade.net/de-de.html'
 source_url_text_1: Fairtrade Deutschland
-graph_title: 'Anzahl der Fair-Trade-Gemeinden und Fair-Trade-Kreise in Schleswig-Holstein'
+graph_title: 'Anzahl der Fairtrade-Towns in Schleswig-Holstein'
 graph_type: bar
 data_start_values:
-  - field: 'Gemeinden und Kreise'
-    value: 'Fairtrade Towns (Städte/Gemeinden)'
+  - field: 'Fairtrade-Towns'
+    value: 'Fairtrade-Towns (Städte, Kreise, Gemeinden)'
 publications:
-  - title: 'Anzahl Fair-Trade-Gemeinden und -Kreise'
+  - title: 'Anzahl der Fairtrade-Towns in Schleswig-Holstein'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/8-7'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
