@@ -448,7 +448,7 @@
             "type": "string"
           },
           {
-            "name": "Gemeinden und Kreise",
+            "name": "Fairtrade-Towns",
             "type": "string",
             "constraints": {
               "enum": [

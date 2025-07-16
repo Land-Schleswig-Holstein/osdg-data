@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Gemeinden und Kreise",
+            "name": "Fairtrade-Towns",
             "type": "string",
             "constraints": {
               "enum": [
@@ -24,7 +24,7 @@
                 ""
               ]
             },
-            "title": "Gemeinden und Kreise"
+            "title": "Fairtrade-Towns"
           },
           {
             "name": "Value",
