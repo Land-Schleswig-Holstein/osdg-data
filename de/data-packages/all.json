@@ -483,7 +483,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "integer",
             "title": "Jahr"
           },
           {
@@ -491,7 +491,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                " Gemeinden)",
+                "Fairtrade-Towns (Städte Kreise Gemeinden)",
                 ""
               ]
             },
