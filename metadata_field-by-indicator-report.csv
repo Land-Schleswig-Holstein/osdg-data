@@ -60,7 +60,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #5-3,complete,,,,,Prozent,bar
 #5-4,complete,,,,,Prozent,bar
 #5-5,complete,,,,,Prozent,bar
-#6-1,complete,,,,,mg/l,line
+#6-1,complete,,,,,Prozent,line
 #6-2,complete,,,,,Prozent,bar
 #6-3,complete,,,,,Anzahl Wasserkörper,bar
 #7-1,complete,,,,,Index,line
