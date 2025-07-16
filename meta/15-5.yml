@@ -1,0 +1,28 @@
+indicator_name: 'Eutrophierung der Ökosysteme'
+indicator_number: 15-5
+computation_units: 'keq/(ha*a)'
+source_active_1: true
+source_organisation_1: 'Quellenbezeichnung'
+source_url_1: 'Link zur Quelle'
+graph_titles: 
+  - series: 'Säureeinträge'
+  - title: 'Belastung empfindlicher Ökosysteme durch atmosphärische Säureeinträge am Beispiel des Waldes'
+  - series: 'Stickstoffeinträge'
+  - title: 'Belastung empfindlicher Ökosysteme durch atmosphärische Stickstoffeinträge am Beispiel des Waldes'
+graph_type: line
+data_start_values:
+  - field: 'Series'
+    value: 'Säureeinträge'
+  - field: 'Series'
+    value: 'Stickstoffeinträge'
+  - field: 'Raum'
+    value: 'Schleswig-Holstein'
+  - field: 'Raum'
+    value: 'Deutschland'
+publications:
+  - title: 'Indikator Eutrophierung der Ökosysteme'
+    link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-5'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-07-16
+reporting_status: complete
