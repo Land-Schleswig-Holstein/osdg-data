@@ -9,6 +9,9 @@ graph_title: 'Anteil der Wasserkörper natürlicher Fließgewässer mit gutem od
 graph_type: bar
 graph_stacked_disaggregation: 'Wasserkörper'
 data_start_values:
+graph_target_lines:
+  - label_content: 'Ziel 2030'
+    value: 5.0
 publications:
   - title: 'Ökologischer Zustand oberirdischer Gewässer'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-2'
