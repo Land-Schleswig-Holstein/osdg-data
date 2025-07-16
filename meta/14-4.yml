@@ -16,7 +16,7 @@ data_start_values:
     value: 'Elbe'
 graph_target_lines:
   - label_content: 'Ziel 2027'
-    value: 15.7
+    value: 15.750
 publications:
   - title: 'Stickstoffeintrag über Zuflüsse in Nord- und Ostsee'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/14-4'
