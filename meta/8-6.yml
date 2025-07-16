@@ -10,6 +10,9 @@ graph_type: bar
 data_start_values:
   - field: 'Rohstoffproduktivität'
     value: 'Rohstoffproduktivität'
+graph_target_lines:
+  - label_content: 'Ziel'
+    value: 200.0
 publications:
   - title: 'Indikatore Rohstoffproduktivität'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-6'
