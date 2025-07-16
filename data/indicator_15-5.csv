@@ -4,9 +4,9 @@ Year,Units,Series,Raum,Value
 2007,keq/(ha*a),Säureeinträge,Schleswig-Holstein,0.67
 2008,keq/(ha*a),Säureeinträge,Schleswig-Holstein,0.46
 2009,keq/(ha*a),Säureeinträge,Schleswig-Holstein,0.47
-2010,keq/(ha*a),Säureeinträge,Schleswig-Holstein,.
-2011,keq/(ha*a),Säureeinträge,Schleswig-Holstein,.
-2012,keq/(ha*a),Säureeinträge,Schleswig-Holstein,.
+2010,keq/(ha*a),Säureeinträge,Schleswig-Holstein,
+2011,keq/(ha*a),Säureeinträge,Schleswig-Holstein,
+2012,keq/(ha*a),Säureeinträge,Schleswig-Holstein,
 2013,keq/(ha*a),Säureeinträge,Schleswig-Holstein,0.77
 2014,keq/(ha*a),Säureeinträge,Schleswig-Holstein,0.6
 2015,keq/(ha*a),Säureeinträge,Schleswig-Holstein,0.8
@@ -28,9 +28,9 @@ Year,Units,Series,Raum,Value
 2007,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,13.83
 2008,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,9.87
 2009,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,10.68
-2010,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,.
-2011,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,.
-2012,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,.
+2010,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,
+2011,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,
+2012,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,
 2013,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,7.9
 2014,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,6.06
 2015,kq/(ha*a),Stickstoffeinträge,Schleswig-Holstein,8.15
