@@ -1,10 +1,10 @@
 Year,Wasserkörper,Value
-2016,FG eingehalten,189
-2021,FG eingehalten,258
-2030,FG eingehalten,294
-2016,FG nicht eingehalten,399
-2021,FG nicht eingehalten,330
-2030,FG nicht eingehalten,294
+2016,Fließgewässer eingehalten,189
+2021,Fließgewässer eingehalten,258
+2030,Fließgewässer eingehalten,294
+2016,Fließgewässer nicht eingehalten,399
+2021,Fließgewässer nicht eingehalten,330
+2030,Fließgewässer nicht eingehalten,294
 2016,Seen eingehalten,11
 2021,Seen eingehalten,11
 2030,Seen eingehalten,31
