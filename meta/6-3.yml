@@ -5,14 +5,14 @@ source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
 source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LFU'
 source_url_text_1: Landesamt für Umwelt - Landesportal
-graph_title: 'Anzahl der Fließgewässer- und Seewasserkörper, die den Orientierungswert für Gesamtphosphor nicht einhalten'
+graph_title: 'Anzahl der Fließgewässer- und Seewasserkörper, die den Orientierungswert für Gesamtphosphor einhalten bzw. nicht einhalten'
 graph_type: bar
 graph_stacked_disaggregation: 'Wasserkörper'
 data_start_values:
   - field: 'Wasserkörper'
-    value: 'FG eingehalten'
+    value: 'Fließgewässer eingehalten'
   - field: 'Wasserkörper'
-    value: 'FG nicht eingehalten'
+    value: 'Fließgewässer nicht eingehalten'
   - field: 'Wasserkörper'
     value: 'Seen eingehalten'
   - field: 'Wasserkörper'
