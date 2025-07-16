@@ -8,6 +8,9 @@ data_start_values:
     value: 'Schleswig-Holstein'
   - field: 'Raum'
     value: 'Bund'
+graph_target_lines:
+  - label_content: 'Ziel Schleswig-Holstein'
+    value: 19.0
 publications:
   - title: 'Indikator Landwirtschaftsflächen mit hohem Naturwert – High Nature Value Farmland (HNV)'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-6'
