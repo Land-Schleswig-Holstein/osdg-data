@@ -13,8 +13,10 @@ data_start_values:
   - field: 'Strommenge aus EE'
     value: 'Strommenge aus EE (gesamt)'
 graph_target_lines:
-  - label_content: 'Ziel 2030'
+  - label_content: 'Ziel ab 2030'
     value: 45000.0
+  - label_content: 'Ziel 2025'
+    value: 37000.0
 publications:
   - title: 'Indikator Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-2'
