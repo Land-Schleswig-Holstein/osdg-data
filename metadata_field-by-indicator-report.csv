@@ -28,7 +28,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #15-2,complete,,,,,m² je Einwohnerin und Einwohner,bar
 #15-3,complete,,,,,Prozent,line
 #15-4,complete,,,,,Prozent,line
-#15-5,complete,,True,,,keq/(ha*a),line
+#15-5,complete,,,,,keq/(ha*a),line
 #15-5-1,complete,,,,,keq/(ha*a),line
 #15-5-2,complete,,,,,kg/(ha*a),line
 #15-6,complete,,,,,Prozent,bar
