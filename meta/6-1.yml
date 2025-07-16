@@ -10,6 +10,9 @@ graph_type: line
 data_start_values:
   - field: 'Anteil'
     value: '% <= 50 mg/l'
+graph_target_lines:
+  - label_content: 'Ziel'
+    value: 100.0
 publications:
   - title: 'Nitratgehalt im Grundwasser'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-1'
