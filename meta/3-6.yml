@@ -9,8 +9,11 @@ graph_title: 'Immissionen von Feinstaub der Partikelgröße PM10 als Jahresmitte
 graph_type: line
 data_start_values:
 graph_target_lines:
-  - label_content: 'WHO-Richtwert'
+  - label_content: 'WHO-Richtwert ab 2021'
     value: 15.0
+graph_target_lines:
+  - label_content: 'WHO-Richtwert bis 2020'
+    value: 20.0
 publications:
   - title: 'Indikator Feinstaubbelastung'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-6'
