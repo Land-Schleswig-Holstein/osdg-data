@@ -16,15 +16,15 @@
             "title": "Jahr"
           },
           {
-            "name": "Fairtrade-Towns",
+            "name": "Fair-Trade-Gemeinden und -Kreise",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fairtrade-Towns (Städte Kreise Gemeinden)",
+                "Fair-Trade-Gemeinden und -Kreise",
                 ""
               ]
             },
-            "title": "Fairtrade-Towns"
+            "title": "Fair-Trade-Gemeinden und -Kreise"
           },
           {
             "name": "Value",
