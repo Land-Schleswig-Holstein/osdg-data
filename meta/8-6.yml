@@ -14,7 +14,7 @@ graph_target_lines:
   - label_content: 'Ziel'
     value: 200.0
 publications:
-  - title: 'Indikatore Rohstoffproduktivität'
+  - title: 'Indikator Rohstoffproduktivität'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-6'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
