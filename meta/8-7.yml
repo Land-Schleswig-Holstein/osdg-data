@@ -9,9 +9,9 @@ graph_title: 'Anzahl Fair-Trade-Gemeinden und -Kreise'
 graph_type: bar
 data_start_values:
   - field: 'Raum'
-    value: 'Fair-Trade-Gemeinden und -Kreise'
+    value: 'Fairtrade-Gemeinden und -Kreise'
 publications:
-  - title: 'Fair-Trade-Gemeinden und -Kreise in Schleswig-Holstein'
+  - title: 'Faitrade-Gemeinden und -Kreise in Schleswig-Holstein'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/8-7'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
