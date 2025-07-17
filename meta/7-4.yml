@@ -11,9 +11,9 @@ data_start_values:
   - field: 'Anteil EE am Brutto-EEV'
     value: 'Anteil EE am Brutto-EEV'
 graph_target_lines:
-  - label_content: 'Ziel 2030 min.'
+  - label_content: 'Zielkorridor 2030'
     value: 73.0
-  - label_content: 'Ziel 2030 max.'
+  - label_content: 'Zielkorridor 2030'
     value: 86.0
 publications:
   - title: 'Indikator Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch'
