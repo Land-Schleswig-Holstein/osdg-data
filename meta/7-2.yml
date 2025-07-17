@@ -13,9 +13,9 @@ data_start_values:
   - field: 'Strommenge aus EE'
     value: 'Strommenge aus EE (gesamt)'
 graph_target_lines:
-  - label_content: 'Zielkorridor'
+  - label_content: 'Ziel 2030 für EE an Land'
     value: 45000.0
-  - label_content: 'Zielkorridor'
+  - label_content: 'Ziel 2025 für EE gesamt'
     value: 37000.0
 publications:
   - title: 'Indikator Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien'
