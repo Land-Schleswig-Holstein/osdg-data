@@ -15,11 +15,11 @@
             "type": "integer"
           },
           {
-            "name": "Fair-Trade-Gemeinden und -Kreise",
+            "name": "Fairtrade-Gemeinden und -Kreise",
             "type": "string",
             "constraints": {
               "enum": [
-                "Fair-Trade-Gemeinden und -Kreise",
+                "Fairtrade-Gemeinden und -Kreise",
                 ""
               ]
             }
