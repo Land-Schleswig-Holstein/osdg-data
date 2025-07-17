@@ -8,6 +8,9 @@ source_url_text_1: Landesamt für Umwelt - Landesportal
 graph_title: 'Immissionen von Feinstaub der Partikelgröße PM10 als Jahresmittel'
 graph_type: line
 data_start_values:
+graph_target_lines:
+  - label_content: 'WHO-Orientierungswert'
+    value: 15.0
 publications:
   - title: 'Indikator Feinstaubbelastung'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-6'
