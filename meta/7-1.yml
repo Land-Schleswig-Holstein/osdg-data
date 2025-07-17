@@ -9,9 +9,9 @@ graph_title: 'Entwicklung der Treibhausgas- und Endenergieproduktivität auf Bas
 graph_type: line
 data_start_values:
   - field: 'Produktivitätsindex'
-    value: 'THG'
+    value: 'THG-Produktivität'
   - field: 'Produktivitätsindex'
-    value: 'EEV'
+    value: 'EEV-Produktivität'
 publications:
   - title: 'Treibhausgas- und Energieproduktivität'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-1'
