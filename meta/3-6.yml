@@ -9,7 +9,7 @@ graph_title: 'Immissionen von Feinstaub der Partikelgröße PM10 als Jahresmitte
 graph_type: line
 data_start_values:
 graph_target_lines:
-  - label_content: 'WHO-Orientierungswert'
+  - label_content: 'WHO-Richtwert'
     value: 15.0
 publications:
   - title: 'Indikator Feinstaubbelastung'
