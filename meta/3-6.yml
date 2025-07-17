@@ -11,7 +11,6 @@ data_start_values:
 graph_target_lines:
   - label_content: 'WHO-Richtwert ab 2021'
     value: 15.0
-graph_target_lines:
   - label_content: 'WHO-Richtwert bis 2020'
     value: 20.0
 publications:
