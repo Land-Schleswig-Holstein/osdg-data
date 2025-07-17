@@ -10,6 +10,10 @@ graph_type: line
 data_start_values:
   - field: 'SGB-II-Leistungsberechtigte'
     value: 'SGB-II-Leistungsberechtigte'
+graph_limits:
+  - unit: 'Prozent'
+    minimum: 8
+    maximum: 12
 publications:
   - title: 'Indikator SGB-II-Quote gesamt'
     link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/1-3'
