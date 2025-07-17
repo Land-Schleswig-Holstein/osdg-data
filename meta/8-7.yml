@@ -1,4 +1,4 @@
-indicator_name: 'Anzahl Fair-Trade-Gemeinden und -Kreise'
+indicator_name: 'Anzahl Fairtrade-Gemeinden und -Kreise'
 indicator_number: 8-7
 computation_units: 'Anzahl'
 source_active_1: true
@@ -8,7 +8,7 @@ source_url_text_1: Fairtrade Deutschland
 graph_title: 'Anzahl Fair-Trade-Gemeinden und -Kreise'
 graph_type: bar
 data_start_values:
-  - field: 'Fair-Trade-Gemeinden und -Kreise'
+  - field: 'Raum'
     value: 'Fair-Trade-Gemeinden und -Kreise'
 publications:
   - title: 'Fair-Trade-Gemeinden und -Kreise in Schleswig-Holstein'
