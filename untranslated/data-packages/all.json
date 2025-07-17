@@ -1767,7 +1767,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "mac-roman",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -1779,8 +1779,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EEV",
-                "THG",
+                "EEV-Produktivität",
+                "THG-Produktivität",
                 ""
               ]
             }
