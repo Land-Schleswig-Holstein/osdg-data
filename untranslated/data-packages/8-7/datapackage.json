@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Fairtrade-Gemeinden und -Kreise",
+            "name": "Raum",
             "type": "string",
             "constraints": {
               "enum": [
