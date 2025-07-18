@@ -9,7 +9,7 @@ graph_title: 'Todesfälle der weiblichen und männlichen Bevölkerung unter 70 J
 graph_type: line
 data_start_values:
   - field: 'Gebiet/Geschlecht'
-    value: 'Sschleswig-Holstein (m)'
+    value: 'Schleswig-Holstein (m)'
   - field: 'Gebiet/Geschlecht'
     value: 'Deutschland (m)'
   - field: 'Gebiet/Geschlecht'
