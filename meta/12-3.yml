@@ -2,15 +2,15 @@ indicator_name: 'Ökologische Landwirtschaftsfläche'
 indicator_number: 12-3
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'Jahresmeldung'
+source_organisation_1: 'Statistisches Bundesamt'
 source_url_1: 'https://sdg-indikatoren.de/2-4-1/'
-source_url_text_1: Nachhaltigkeitsindikatoren Destatis
+source_url_text_1: Nachhaltigkeitsindikatoren Destatis, Jahresmeldung
 graph_title: 'Anteil der Ökolandbaufläche an der gesamten landwirtschaftlich genutzten Fläche'
 graph_type: line
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Deutschland'
 publications:
   - title: 'Indikator Ökologische Landwirtschaftsfläche'
