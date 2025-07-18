@@ -2,7 +2,7 @@ indicator_name: 'Anzahl in Schleswig-Holstein verfügbarer Onlinedienste'
 indicator_number: 16-4
 computation_units: 'Anzahl'
 source_active_1: true
-source_organisation_1: 'Staatskanzlei Schleswig-Holstein'
+source_organisation_1: 'Der Ministerpräsident Staatskanzlei Schleswig-Holstein'
 source_url_1: ''
 graph_title: 'Anzahl der in Schleswig-Holstein verfügbaren Online-Dienste'
 graph_type: line
