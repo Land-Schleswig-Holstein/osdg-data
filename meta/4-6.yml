@@ -6,11 +6,11 @@ source_organisation_1: 'Statistische Ämter des Bundes und der Länder'
 graph_title: 'Anteil der frühen Schulabgängerinnen und Schulabgänger'
 graph_type: line
 data_start_values:
-  - field: 'Region'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
-  - field: 'Region'
+  - field: 'Gebiet'
     value: 'Deutschland'
-  - field: 'Region'
+  - field: 'Gebiet'
     value: 'EU-27 (28)'
 footer_fields:
   - label: Hinweis
