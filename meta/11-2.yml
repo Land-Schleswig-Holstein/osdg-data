@@ -17,6 +17,9 @@ data_start_values:
     value: 'MIV Mitfahrer:in/ Taxi'
   - field: 'Verkehrsmittel'
     value: 'MIV Fahrer:in'
+footer_fields:
+  - label: Hinweis
+    value: Öffentliche Verkehrsmittel (ÖV), motorisierter Individualverkehr (MIV)
 publications:
   - title: 'Indikator Modal Split'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/11-2'
