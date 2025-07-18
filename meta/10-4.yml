@@ -8,7 +8,7 @@ source_url_text_1: 'Gini-Koeffizient der Äquivalenzeinkommen'
 graph_title: 'Gini-Koeffizient – Verteilung des verfügbaren Äquivalenzeinkommens pro Person'
 graph_type: bar
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
 footer_fields:
   - label: Hinweis
