@@ -27,7 +27,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #15-3,complete,,,,,Prozent,line
 #15-4,complete,,,,,Prozent,line
 #15-5,complete,,,,,keq/(ha*a),line
-#15-5-1,complete,,,,,keq/(ha*a),line
+#15-5-1,complete,,True,,,keq/(ha*a),line
 #15-5-2,complete,,,,,kg/(ha*a),line
 #15-6,complete,,,,,Prozent,bar
 #16-1,complete,,,,,Häufigkeitszahl,line
