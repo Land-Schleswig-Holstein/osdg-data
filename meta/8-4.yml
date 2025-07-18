@@ -16,6 +16,10 @@ graph_target_lines:
     value: 20.0
   - label_content: 'Ziel 2030 - Frauen'
     value: 25.0
+graph_limits:
+    - unit: ''
+      minimum: 15
+      maximum: 45
 publications:
   - title: 'Indikator Soziale Sicherung/Niedriglohnsektor'
     link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/8-4'
