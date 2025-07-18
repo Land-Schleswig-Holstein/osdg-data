@@ -8,6 +8,9 @@ source_url_text_1: 'OSPAR Bericht 2023'
 graph_title: 'Der Indikator misst den Anteil der untersuchten Eissturmvögel mit > 0,1 g Kunststoff im Magen in Prozent innerhalb einer Stichprobe von 50 bis 100 Eissturmvogel-Spülsaumfunden. Der Indikator bezieht sich auf Umweltziele und Indikatoren der Meeresstrategie-Rahmenrichtlinie (MSRL).'
 graph_type: bar
 data_start_values:
+graph_target_lines:
+  - label_content: 'Ziel 2030'
+    value: 10.0
 footer_fields:
   - label: Hinweis
     value: Die Belastungsniveaus für einzelne Jahre können deutlich schwanken, dies gilt insbesondere bei kleineren Stichproben. So ist z.B. bekannt, dass junge Eissturmvögel mehr Plastik in den Mägen haben als adulte Tiere. Ihr Anteil schwankt über die Jahre. Um die aktuelle Situation verlässlich einschätzen zu können empfiehlt sich daher die Betrachtung von 5-Jahresperioden, da auf diese Weise kleine Stichproben oder Jahre mit besonders vielen jungen Eissturmvögeln ausgeglichen werden und so ein verlässlicheres Bild geliefert werden kann.
