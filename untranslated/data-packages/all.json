@@ -480,12 +480,12 @@
             "type": "integer"
           },
           {
-            "name": "Raum",
+            "name": "Gebiet",
             "type": "string",
             "constraints": {
               "enum": [
                 "Schleswig-Holstein",
-                "Bund",
+                "Deutschland",
                 ""
               ]
             }

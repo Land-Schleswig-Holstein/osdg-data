@@ -16,16 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Raum",
+            "name": "Gebiet",
             "type": "string",
             "constraints": {
               "enum": [
                 "Schleswig-Holstein",
-                "Bund",
+                "Deutschland",
                 ""
               ]
             },
-            "title": "Raum"
+            "title": "Gebiet"
           },
           {
             "name": "Value",
