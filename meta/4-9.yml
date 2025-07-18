@@ -8,9 +8,9 @@ source_url_text_1: Hochwertige Bildung
 graph_title: 'Anteil der 30- bis 34-Jährigen an, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen'
 graph_type: line
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Deutschland'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
 footer_fields:
   - label: Hinweis
