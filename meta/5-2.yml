@@ -2,7 +2,7 @@ indicator_name: 'Unterstützung im Bereich LSBTIQ*'
 indicator_number: 5-2
 computation_units: '€'
 source_active_1: true
-source_organisation_1: 'Stabsstelle Gleichstellung, MSJFSIG'
+source_organisation_1: 'Stabsstelle Gleichstellung, Ministerium für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung'
 source_url_1: ''
 graph_title: 'Landesmittel zur Unterstützung von Beratungsstellen für lesbische, schwule, bisexuelle, transsexuelle, transgender, intersexuelle und queere Menschen (LSBTIQ*)'
 graph_type: line
