@@ -8,7 +8,7 @@ source_url_text_1: Fairtrade Deutschland
 graph_title: 'Anzahl Fair-Trade-Gemeinden und -Kreise'
 graph_type: bar
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Fairtrade-Gemeinden und -Kreise'
 publications:
   - title: 'Faitrade-Gemeinden und -Kreise in Schleswig-Holstein'
