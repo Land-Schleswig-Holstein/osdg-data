@@ -986,7 +986,7 @@
             "type": "integer"
           },
           {
-            "name": "Region",
+            "name": "Gebiet",
             "type": "string",
             "constraints": {
               "enum": [

@@ -1071,7 +1071,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Region",
+            "name": "Gebiet",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1080,7 +1080,7 @@
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Gebiet"
           },
           {
             "name": "Value",
