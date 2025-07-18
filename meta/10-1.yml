@@ -8,9 +8,9 @@ source_url_text_1: Freiwilliges Engagement in Deutschland
 graph_title: 'Anteil über 14-Jähriger an der Wohnbevölkerung Schleswig-Holsteins, die sich aktiv und freiwillig bürgerschaftlich engagieren'
 graph_type: bar
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Deutschland'
 publications:
   - title: 'Indikator Engagement-Quote'
