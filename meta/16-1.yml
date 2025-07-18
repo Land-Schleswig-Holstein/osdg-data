@@ -8,10 +8,14 @@ source_url_text_1: Polizeiliche Kriminalstatistik
 graph_title: 'Anzahl der Straftaten je 100.000 Einwohnerinnen und Einwohner, die der Polizei angezeigt werden (ohne ausländerrechtliche Verstöße)'
 graph_type: line
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
-  - field: 'Raum'
-    value: 'Bund'
+  - field: 'Gebiet'
+    value: 'Deutschland'
+graph_limits:
+    - unit: ''
+      minimum: 5000
+      maximum: 9000
 publications:
   - title: 'Indikator Häufigkeitszahl Straftaten'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/16-1'
