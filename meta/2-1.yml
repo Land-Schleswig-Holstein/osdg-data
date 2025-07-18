@@ -12,6 +12,9 @@ data_start_values:
     value: 'Schleswig-Holstein'
   - field: 'Gebiet'
     value: 'Deutschland'
+graph_target_lines:
+  - label_content: 'Ziel 2028 - 2032'
+    value: 70
 publications:
   - title: 'Indikator Stickstoffüberschuss in der Landwirtschaft'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/2-1'
