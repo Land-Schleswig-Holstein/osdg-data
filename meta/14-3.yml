@@ -8,9 +8,9 @@ source_url_text_1: Landesamt für Umwelt - Landesportal
 graph_title: 'Stickstoffkonzentration im Übergangsbereich zwischen Binnengewässern und Meer getrennt für die Zuflüsse von Ost- und Nordsee als Jahresmittel'
 graph_type: line
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Stickstoffkonzentration Ostsee'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Stickstoffkonzentration Nordsee'
 graph_target_lines:
   - label_content: 'Ziel Zufluss Nordsee'
