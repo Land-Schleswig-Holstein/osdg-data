@@ -8,6 +8,10 @@ graph_type: line
 data_start_values:
   - field: 'Schuldenstand'
     value: 'Schuldenstand je Einwohnerin und Einwohner'
+graph_limits:
+    - unit: ''
+      minimum: 6000
+      maximum: 12000
 publications:
   - title: 'Indikator Schuldenstand'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-2'
