@@ -1,10 +1,10 @@
-Year,Frauenanteil,Value
-2014,Abteilungsleitung oberste Landesbehörden,32.4
-2018,Abteilungsleitung oberste Landesbehörden,20
-2022,Abteilungsleitung oberste Landesbehörden,20.5
-2014,Referatsleitung oberste Landesbehörden,27.8
-2018,Referatsleitung oberste Landesbehörden,31.9
-2022,Referatsleitung oberste Landesbehörden,35.2
+Year,Position,Value
+2014,Abteilungsleitung,32.4
+2018,Abteilungsleitung,20
+2022,Abteilungsleitung,20.5
+2014,Referatsleitung,27.8
+2018,Referatsleitung,31.9
+2022,Referatsleitung,35.2
 2014,Justiz,NaN
 2018,Justiz,40.4
 2022,Justiz,40.4
