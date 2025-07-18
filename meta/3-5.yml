@@ -10,6 +10,9 @@ data_start_values:
     value: 'Anteil Jungen'
   - field: 'Geschlecht'
     value: 'Anteil Mädchen'
+footer_fields:
+  - label: Hinweis
+    value: Für die Jahre 2020, 2021 und 2022 liegen pandemiebedingt keine Daten vor.
 publications:
   - title: 'Indikator Adipositas bei Schulanfängerinnen und Schulanfängern'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-5'
