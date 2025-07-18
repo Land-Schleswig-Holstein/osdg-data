@@ -16,16 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Raum",
+            "name": "Gebiet",
             "type": "string",
             "constraints": {
               "enum": [
-                "SH Stickstoff-Überschuss in der Landwirtschaft ",
-                "Deutschland Stickstoff-Überschuss in der Landwirtschaft",
+                "Schleswig-Holstein",
+                "Deutschland",
                 ""
               ]
             },
-            "title": "Raum"
+            "title": "Gebiet"
           },
           {
             "name": "Value",
