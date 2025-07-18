@@ -8,10 +8,10 @@ source_url_text_1: Nährstoffbilanz
 graph_title: 'Jährlicher Stickstoffüberschuss in der Landwirtschaft berechnet aus Zufuhr und Abfuhr von Stickstoff in Kilogramm je Hektar landwirtschaftlich genutzter Fläche'
 graph_type: line
 data_start_values:
-  - field: 'Raum'
-    value: 'SH Stickstoff-Überschuss in der Landwirtschaft '
-  - field: 'Raum'
-    value: 'Deutschland Stickstoff-Überschuss in der Landwirtschaft'
+  - field: 'Gebiet'
+    value: 'Schleswig-Holstein'
+  - field: 'Gebiet'
+    value: 'Deutschland'
 publications:
   - title: 'Indikator Stickstoffüberschuss in der Landwirtschaft'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/2-1'
