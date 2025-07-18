@@ -22,6 +22,9 @@ data_start_values:
     value: 'TP ohne Kita 0 - 2 Jahre'
   - field: 'Altersgruppe'
     value: 'TP ohne Kita 3 - 5 Jahre'
+footer_fields:
+  - label: Hinweis
+    value: Kindertageseinrichtungen (Kita), Kindertagespflege (TP)
 publications:
   - title: 'Indikator Ganztagsbetreuung für Kinder'
     link: 'http://10.61.63.178/handlungsfelder/bildung/4-1'
