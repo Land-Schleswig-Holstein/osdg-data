@@ -19,7 +19,7 @@ graph_target_lines:
     value: 1.3
 footer_fields:
   - label: Hinweis
-    value: Die hier ausgewiesenen Deutschlandwerte weichen aufgrund einer Bereinigung des Indikatorwerts auf Bundesebene von der Ländersumme ab.
+    value: Die hier ausgewiesenen Deutschlandwerte weichen aufgrund einer Bereinigung des Indikatorwerts auf Bundesebene von der Ländersumme ab. Für die Jahre 2005 bis 2007 liegen nur Schätzwerte vor, so dass auf die Darstellung verzichtet wird.
 publications:
   - title: 'Indikator Anstieg Siedlungs- und Verkehrsflächen'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-1'
