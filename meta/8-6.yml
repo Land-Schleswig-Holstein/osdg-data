@@ -3,8 +3,7 @@ indicator_number: 8-6
 computation_units: 'BIP/DMIa'
 source_active_1: true
 source_organisation_1: 'Statisikamt Nord'
-source_url_1: 'https://www.statistik-nord.de/'
-source_url_text_1: 'Statistikamt Nord'
+source_url_1: ''
 graph_title: 'Wirtschaftliche Leistung in Euro pro Tonne Materialeinsatz'
 graph_type: bar
 data_start_values:
