@@ -6,7 +6,7 @@ source_organisation_1: 'Ministerium für Soziales, Jugend,  Familie, Senioren, I
 graph_title: 'Anzahl der Pflegestützpunkte und deren regionale Verteilung'
 graph_type: line
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Gesamt'
 publications:
   - title: 'Indikator Flächendeckendes Angebot von Pflegestützpunkten'
