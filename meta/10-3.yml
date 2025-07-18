@@ -2,7 +2,7 @@ indicator_name: 'Ausgaben für Barrierefreiheit'
 indicator_number: 10-3
 computation_units: 'Euro'
 source_active_1: true
-source_organisation_1: 'Der Ministerpräsident Staatskanzlei'
+source_organisation_1: 'Der Ministerpräsident Staatskanzlei Schleswig-Holstein'
 graph_title: 'Bewilligte Zuwendungen pro Jahr aus dem Fonds für Barrierefreiheit'
 graph_type: bar
 data_start_values:
