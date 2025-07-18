@@ -1,8 +1,8 @@
 indicator_name: 'Inhaftierungsquote'
 indicator_number: 16-3
-computation_units: 'Gefangene je 100T Einwohnerinnen und Einwohner'
+computation_units: 'Gefangene je 100.000 Einwohnerinnen und Einwohner'
 source_active_1: true
-source_organisation_1: 'Ministerium für Justiz und Gesundheit Schleswig-Holstein (MJG)'
+source_organisation_1: 'Ministerium für Justiz und Gesundheit Schleswig-Holstein'
 source_url_1: ''
 graph_title: 'Anzahl der Inhaftierten pro 100.000 Einwohnerinnen und Einwohner'
 graph_type: line
