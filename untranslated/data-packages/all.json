@@ -1245,43 +1245,6 @@
       "title": "Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind, insbesondere Fokusleistungen"
     },
     {
-      "path": "14-1-2/data.csv",
-      "name": "14-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Qualität",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "sehr gut",
-                "gut",
-                "mäßig",
-                "unbefriedigend",
-                "schlecht",
-                "nicht bestimmt/nicht bewertbar",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "integer"
-          }
-        ]
-      },
-      "title": "14-1-2"
-    },
-    {
       "path": "4-6/data.csv",
       "name": "4-6",
       "profile": "tabular-data-resource",

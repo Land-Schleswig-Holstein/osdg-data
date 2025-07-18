@@ -18,7 +18,6 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #13-1,complete,,,,,Mio. t CO2-Äquivalente,bar
 #13-2,complete,,,,,Anzahl,bar
 #14-1,complete,,,,,Anzahl,bar
-#14-1-2,complete,,,,,,line
 #14-2,complete,,,,,Prozent,bar
 #14-3,complete,,,,,mg/l,line
 #14-4,complete,,,,,5 jährig gleitender Mittelwert der Stickstofftracht (1000 t),line
