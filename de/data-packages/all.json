@@ -53,19 +53,19 @@
             "title": "Jahr"
           },
           {
-            "name": "Frauenanteil",
+            "name": "Position",
             "type": "string",
             "constraints": {
               "enum": [
-                "Abteilungsleitung oberste Landesbehörden",
-                "Referatsleitung oberste Landesbehörden",
+                "Abteilungsleitung",
+                "Referatsleitung",
                 "Justiz",
                 "Hochschulprofessuren",
                 "Juniorprofessuren",
                 ""
               ]
             },
-            "title": "Frauenanteil"
+            "title": "Position"
           },
           {
             "name": "Value",
