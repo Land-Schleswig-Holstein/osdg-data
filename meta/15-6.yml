@@ -4,9 +4,9 @@ computation_units: 'Prozent'
 graph_title: 'Anteil der Landwirtschaftsflächen mit hohem Naturwert an der gesamten Landwirtschaftsfläche'
 graph_type: bar
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Bund'
 graph_target_lines:
   - label_content: 'Ziel Schleswig-Holstein'
