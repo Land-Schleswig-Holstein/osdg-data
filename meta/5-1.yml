@@ -8,14 +8,14 @@ source_url_text_1: Gender Pay Gap
 graph_titles:
   - series: 'Verdienstabstand'
     title: 'Verdienst von Frauen und Männern pro Stunde brutto in sozialversicherungspflichtiger Beschäftigung'
-  - series: 'unbereinigter Gender Pay Gap ' 
+  - series: 'unbereinigter Verdienstabstand' 
     title: 'Unbereinigter Verdienstabstand, ohne Sonderzahlungen'
 graph_type: bar
 data_start_values:
   - field: 'Series'
     value: 'Verdienstabstand'
   - field: 'Series'
-    value: 'unbereinigter Gender Pay Gap '
+    value: 'unbereinigter Verdienstabstand'
   - field: 'Geschlecht'
     value: 'Frauen'
   - field: 'Geschlecht'
