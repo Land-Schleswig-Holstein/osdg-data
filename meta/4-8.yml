@@ -7,9 +7,9 @@ source_url_1: 'Link zur Quelle'
 graph_title: 'Anteil der 25- bis 34-Jährigen an, die mindestens über einen Abschluss des Sekundarbereichs II verfügen'
 graph_type: bar
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Deutschland'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
 graph_target_lines:
   - label_content: 'OECD-Durchschnitt'
