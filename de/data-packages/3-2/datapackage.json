@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Gebiet/Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein (m)",
+                "Deutschland (m)",
+                "Schleswig-Holstein (w)",
+                "Deutschland (w)",
+                ""
+              ]
+            },
+            "title": "Gebiet/Geschlecht"
           },
           {
             "name": "Value",
