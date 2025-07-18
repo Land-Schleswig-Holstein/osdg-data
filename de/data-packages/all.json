@@ -2490,16 +2490,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Ausbaustand",
+            "name": "Mobilfunkstandard",
             "type": "string",
             "constraints": {
               "enum": [
-                "5G Fläche SH",
-                "4G Fläche SH",
+                "5G",
+                "4G",
                 ""
               ]
             },
-            "title": "Ausbaustand"
+            "title": "Mobilfunkstandard"
           },
           {
             "name": "Value",
