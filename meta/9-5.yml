@@ -5,11 +5,13 @@ source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
 source_url_1: 'https://www.dpma.de/dpma/veroeffentlichungen/statistiken/patente/index.html'
 source_url_text_1: Deutsches Patent- und Markenamt
-graph_title: 'Patentanmeldungen pro Jahr sowie nach Anmeldesitz je 100.000 Einwohnerinnen und Einwohner'
+graph_title: 'Anzahl der Patentanmeldungen pro Jahr sowie nach Anmeldesitz je 100.000 Einwohnerinnen und Einwohner in Schleswig-Holstein'
 graph_type: line
 data_start_values:
   - field: 'Patentanmeldungen'
-    value: 'Patentanmeldungen (Anzahl)'
+    value: 'Patentanmeldungen'
+  - field: 'Patentanmeldungen'
+    value: 'Patentanmeldungen je 100.000 Einwohner'
 publications:
   - title: 'Indikator Patentanmeldungen'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/9-5'
