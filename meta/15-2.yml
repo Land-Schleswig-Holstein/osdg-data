@@ -8,6 +8,9 @@ graph_type: bar
 data_start_values:
   - field: 'Freiraumverlust'
     value: 'Freiraumverlust'
+footer_fields:
+  - label: Hinweis
+    value: Für die Jahre 2005 bis 2007 liegen nur Schätzwerte vor, so dass auf die Darstellung verzichtet wird.
 publications:
   - title: 'Indikator Freiraumverlust'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-2'
