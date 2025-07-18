@@ -499,39 +499,6 @@
       "title": "Häufigkeitszahl Straftaten"
     },
     {
-      "path": "15-5-2/data.csv",
-      "name": "15-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein",
-                "Deutschland",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Eutrophierung der Ökosysteme"
-    },
-    {
       "path": "10-7/data.csv",
       "name": "10-7",
       "profile": "tabular-data-resource",
@@ -2828,6 +2795,28 @@
         ]
       },
       "title": "Phosphoreintrag über Zuflüsse in Nord- und Ostsee"
+    },
+    {
+      "path": "15-5-2/data.csv",
+      "name": "15-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Eutrophierung der Ökosysteme"
     },
     {
       "path": "15-5-1/data.csv",
