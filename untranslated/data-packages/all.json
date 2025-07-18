@@ -650,7 +650,7 @@
             "type": "integer"
           },
           {
-            "name": "Kreis/Gemeinde/kreisfreie Stadt",
+            "name": "Kreis/kreisfreie Stadt",
             "type": "string",
             "constraints": {
               "enum": [

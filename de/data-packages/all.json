@@ -707,7 +707,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Kreis/Gemeinde/kreisfreie Stadt",
+            "name": "Kreis/kreisfreie Stadt",
             "type": "string",
             "constraints": {
               "enum": [
@@ -729,7 +729,7 @@
                 ""
               ]
             },
-            "title": "Kreis/Gemeinde/kreisfreie Stadt"
+            "title": "Kreis/kreisfreie Stadt"
           },
           {
             "name": "Value",
