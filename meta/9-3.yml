@@ -12,9 +12,9 @@ source_url_text_2: Breitbandatlas des Bundes
 graph_title: 'Verfügbarkeit von Glasfaseranschlüssen für Haushalte in Schleswig-Holstein'
 graph_type: line
 data_start_values:
-  - field: 'Gebiet'
+  - field: 'Datenquelle'
     value: 'Berechnungen des Breitbandkompetenzzentrums Schleswig-Holstein (BKZSH)'
-  - field: 'Gebiet'
+  - field: 'Datenquelle'
     value: 'Zahlen des Breitbandatlasses des Bundes'
 publications:
   - title: 'Indikator Zahl der Haushalte, für die ein Glasfaseranschluss (FTTB/FFTH) verfügbar ist'
