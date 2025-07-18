@@ -8,14 +8,14 @@ source_url_text_1: 'Schwerbehinderte Menschen in Beschäftigung'
 graph_title: 'Betriebliche Beschäftigungsquote von Menschen mit Behinderung - Erfüllungsquote'
 graph_type: line
 data_start_values:
-  - field: 'Arbeitgeber (AG)'
+  - field: 'Arbeitgeber'
     value: 'Quote private Arbeitgeber'
-  - field: 'Arbeitgeber (AG)'
+  - field: 'Arbeitgeber'
     value: 'Quote öffentliche Arbeitgeber'
-  - field: 'Arbeitgeber (AG)'
+  - field: 'Arbeitgeber'
     value: 'Quote gesamt'
 publications:
-  - title: 'Beschäftigung schwerbehinderter Menschen - Erfüllungsquote'
+  - title: 'Indikator Beschäftigung schwerbehinderter Menschen - Erfüllungsquote'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/10-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
