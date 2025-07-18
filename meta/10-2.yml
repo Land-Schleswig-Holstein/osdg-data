@@ -14,6 +14,10 @@ data_start_values:
     value: 'Quote öffentliche Arbeitgeber'
   - field: 'Arbeitgeber'
     value: 'Quote gesamt'
+graph_limits:
+    - unit: ''
+      minimum: 30
+      maximum: 70
 publications:
   - title: 'Indikator Beschäftigung schwerbehinderter Menschen - Erfüllungsquote'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/10-2'
