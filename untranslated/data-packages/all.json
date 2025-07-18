@@ -1833,7 +1833,7 @@
             "type": "integer"
           },
           {
-            "name": "Raum",
+            "name": "Gebiet",
             "type": "string",
             "constraints": {
               "enum": [
