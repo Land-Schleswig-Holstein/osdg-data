@@ -449,7 +449,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Frauenanteil",
+            "name": "Organisation",
             "type": "string",
             "constraints": {
               "enum": [
@@ -460,7 +460,7 @@
                 ""
               ]
             },
-            "title": "Frauenanteil"
+            "title": "Organisation"
           },
           {
             "name": "Value",

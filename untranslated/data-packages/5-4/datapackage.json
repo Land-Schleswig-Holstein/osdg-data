@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Frauenanteil",
+            "name": "Organisation",
             "type": "string",
             "constraints": {
               "enum": [
