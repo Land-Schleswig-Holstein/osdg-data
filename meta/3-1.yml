@@ -8,9 +8,9 @@ source_url_text_1: Gesundheitsberichterstattung
 graph_title: 'Sterberate innerhalb der ersten 28 Lebenstage bezogen auf 1.000 lebendgeborene Kinder'
 graph_type: line
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: '3-Jahreswert Deutschland'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: '3-Jahreswert Schleswig-Holstein'
 publications:
   - title: 'Indikator Sterberate Neugeborene'
