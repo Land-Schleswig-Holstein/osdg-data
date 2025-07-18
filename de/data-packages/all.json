@@ -919,7 +919,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Arbeitgeber (AG)",
+            "name": "Arbeitgeber",
             "type": "string",
             "constraints": {
               "enum": [
@@ -929,7 +929,7 @@
                 ""
               ]
             },
-            "title": "Arbeitgeber (AG)"
+            "title": "Arbeitgeber"
           },
           {
             "name": "Value",

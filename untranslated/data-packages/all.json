@@ -846,7 +846,7 @@
             "type": "integer"
           },
           {
-            "name": "Arbeitgeber (AG)",
+            "name": "Arbeitgeber",
             "type": "string",
             "constraints": {
               "enum": [
