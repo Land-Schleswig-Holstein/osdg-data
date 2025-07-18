@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Patentanmeldungen (Anzahl)",
-                "Patentanmeldungen (Anzahl/100.000 Einwohner)",
+                "Patentanmeldungen",
+                "Patentanmeldungen je 100.000 Einwohner",
                 ""
               ]
             }
