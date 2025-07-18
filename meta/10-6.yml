@@ -2,7 +2,7 @@ indicator_name: 'Kommunen mit Vertretungen für Kinder und Jugendliche'
 indicator_number: 10-6
 computation_units: 'Anzahl'
 source_active_1: true
-source_organisation_1: 'Ministerium für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung'
+source_organisation_1: 'Ministerium für Soziales, Jugend, Familie, Senioren, Integration und Gleichstellung Schleswig-Holstein'
 graph_title: 'Anzahl repräsentativer Beteiligungsformate für Kinder und Jugendliche in Gemeinden, Städten, kreisfreien Städten und Kreisen Schleswig-Holsteins'
 graph_type: bar
 data_start_values:
