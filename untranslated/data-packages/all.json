@@ -1826,41 +1826,6 @@
       "title": "Erreichbarkeit von Zentren mit dem ÖPNV"
     },
     {
-      "path": "3-2/data.csv",
-      "name": "3-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Raum/Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_männlich",
-                "DE_männlich",
-                "SH_weiblich",
-                "DE_weiblich",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Vorzeitige Sterblichkeit"
-    },
-    {
       "path": "8-2/data.csv",
       "name": "8-2",
       "profile": "tabular-data-resource",
@@ -2935,6 +2900,28 @@
         ]
       },
       "title": "Phosphoreintrag über Zuflüsse in Nord- und Ostsee"
+    },
+    {
+      "path": "3-2/data.csv",
+      "name": "3-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Vorzeitige Sterblichkeit"
     }
   ]
 }

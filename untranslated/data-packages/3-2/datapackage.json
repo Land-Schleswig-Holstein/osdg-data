@@ -12,20 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Raum/Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_männlich",
-                "DE_männlich",
-                "SH_weiblich",
-                "DE_weiblich",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
