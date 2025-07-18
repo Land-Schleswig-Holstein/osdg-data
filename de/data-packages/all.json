@@ -2873,7 +2873,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Raum",
+            "name": "Gebiet",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2882,7 +2882,7 @@
                 ""
               ]
             },
-            "title": "Raum"
+            "title": "Gebiet"
           },
           {
             "name": "Value",
