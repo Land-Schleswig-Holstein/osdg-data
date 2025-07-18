@@ -8,11 +8,11 @@ source_url_text_1: Landesamt für Umwelt - Landesportal
 graph_title: 'Menge der Stickstoffeinträge in Nord- und Ostsee über die Zuflüsse aus Schleswig-Holstein'
 graph_type: line
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Ostsee'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Nordsee'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Elbe'
 graph_target_lines:
   - label_content: 'Ziel 2027'
