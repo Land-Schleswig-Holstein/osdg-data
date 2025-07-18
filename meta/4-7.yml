@@ -8,9 +8,9 @@ source_url_text_1: Schulstatistik der Kultusministerkonferenz
 graph_title: 'Anteil der Schulabgängerinnen und Schulabgänger ohne ersten allgemeinbildenden Schulabschluss (ESA)'
 graph_type: line
 data_start_values:
-  - field: 'Region'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
-  - field: 'Region'
+  - field: 'Gebiet'
     value: 'Deutschland'
 publications:
   - title: 'Indikator Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA'
