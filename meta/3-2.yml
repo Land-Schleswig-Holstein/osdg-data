@@ -8,14 +8,14 @@ source_url_text_1: Gesundheitsberichterstattung
 graph_title: 'Todesfälle der weiblichen und männlichen Bevölkerung unter 70 Jahren bezogen auf 100.000 Einwohnerinnen und Einwohner der standardisierten alten europäischen Bevölkerung unter 70 Jahren – ohne Kinder unter einem Jahr'
 graph_type: line
 data_start_values:
-  - field: 'Raum/Geschlecht'
-    value: 'SH_männlich'
-  - field: 'Raum/Geschlecht'
-    value: 'DE_männlich'
-  - field: 'Raum/Geschlecht'
-    value: 'SH_weiblich'
-  - field: 'Raum/Geschlecht'
-    value: 'DE_weiblich'
+  - field: 'Gebiet/Geschlecht'
+    value: 'Sschleswig-Holstein (m)'
+  - field: 'Gebiet/Geschlecht'
+    value: 'Deutschland (m)'
+  - field: 'Gebiet/Geschlecht'
+    value: 'Schleswig-Holstein (w)'
+  - field: 'Gebiet/Geschlecht'
+    value: 'Deutschland (w)'
 publications:
   - title: 'Indikator Vorzeitige Sterblichkeit'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-2'
