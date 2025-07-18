@@ -12,7 +12,7 @@ source_url_2: 'https://dns-indikatoren.de/11-1-a/'
 graph_title: 'Anstieg der Siedlungs- und Verkehrsflächen in Hektar pro Tag – gleitender Mittelwert über vier Jahre'
 graph_type: bar
 data_start_values:
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
 graph_target_lines:
   - label_content: 'Ziel Schleswig-Holstein'
