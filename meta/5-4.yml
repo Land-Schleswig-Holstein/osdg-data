@@ -8,13 +8,13 @@ source_url_1: 'https://www.bmfsfj.de/bmfsfj/service/online-rechner/gleichstellun
 graph_title: 'Anteil von Frauen im Landesparlament, in den Kommunalvertretungen, der Landesregierung sowie in den kommunalen Verwaltungsspitzen'
 graph_type: bar
 data_start_values:
-  - field: 'Frauenanteil'
+  - field: 'Organisation'
     value: 'Landesparlament'
-  - field: 'Frauenanteil'
+  - field: 'Organisation'
     value: 'Kommunalvertretungen'
-  - field: 'Frauenanteil'
+  - field: 'Organisation'
     value: 'Landesregierung'
-  - field: 'Frauenanteil'
+  - field: 'Organisation'
     value: 'Kommunale Verwaltungsspitzen'
 graph_target_lines:
   - label_content: 'Orientierungswert'
