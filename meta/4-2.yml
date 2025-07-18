@@ -30,6 +30,9 @@ data_start_values:
     value: 'Hochschulreife (mit Migrationshintergrund)'
   - field: 'Art des Abschlusses'
     value: 'Hochschulreife (ohne Migrationshintergrund)' 
+footer_fields:
+  - label: Hinweis
+    value: Erster allgemeinbildender Schulabschluss (ESA), Mittlerer Schulabschluss (MSA)
 publications:
   - title: 'Indikator Schulabsolventinnen und Schulabsolventen mit Migrationshintergrund'
     link: 'http://10.61.63.178/handlungsfelder/bildung/4-2'
