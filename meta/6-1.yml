@@ -8,7 +8,7 @@ source_url_text_1: Landesamt für Umwelt - Landesportal
 graph_title: 'Anteil der Messstellen in Schleswig-Holstein, an denen der Schwellenwert von 50 Milligramm Nitrat pro Liter Grundwasser im Jahresmittel eingehalten wird'
 graph_type: line
 data_start_values:
-  - field: 'Anteil'
+  - field: 'Nitratgehalt'
     value: '% <= 50 mg/l'
 graph_target_lines:
   - label_content: 'Ziel'
