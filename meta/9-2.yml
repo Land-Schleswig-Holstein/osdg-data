@@ -8,10 +8,10 @@ source_url_text_1: Mobilfunkstatistik
 graph_title: 'Mobilfunkverfügbarkeit für die Fläche in Schleswig-Holstein'
 graph_type: line
 data_start_values:
-  - field: 'Ausbaustand'
-    value: '5G Fläche SH'
-  - field: 'Ausbaustand'
-    value: '4G Fläche SH'
+  - field: 'Mobilfunkstandard'
+    value: '5G'
+  - field: 'Mobilfunkstandard'
+    value: '4G'
 graph_limits:
     - unit: 'Prozent'
       minimum: 60
