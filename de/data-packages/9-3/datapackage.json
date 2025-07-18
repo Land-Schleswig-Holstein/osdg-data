@@ -16,7 +16,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Gebiet",
+            "name": "Datenquelle",
             "type": "string",
             "constraints": {
               "enum": [
@@ -25,7 +25,7 @@
                 ""
               ]
             },
-            "title": "Gebiet"
+            "title": "Datenquelle"
           },
           {
             "name": "Value",
