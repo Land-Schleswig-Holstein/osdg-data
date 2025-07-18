@@ -14,8 +14,8 @@ footer_fields:
   - label: Hinweis
     value: Für die Jahre 2020, 2021 und 2022 liegen pandemiebedingt keine Daten vor.
 graph_series_breaks:
-  - series: Geschlecht
-    value: 0
+  - unit: ''
+    value: 14.5
 publications:
   - title: 'Indikator Adipositas bei Schulanfängerinnen und Schulanfängern'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-5'
