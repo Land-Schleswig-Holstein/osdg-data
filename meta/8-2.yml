@@ -1,6 +1,6 @@
 indicator_name: 'Schuldenstand'
 indicator_number: 8-2
-computation_units: '€'
+computation_units: 'Euro'
 source_active_1: true
 source_organisation_1: 'Finanzministerium des Landes Schleswig-Holstein'
 graph_title: 'Schuldenstand des Landes Schleswig-Holstein in Euro je Einwohnerin und Einwohner'
