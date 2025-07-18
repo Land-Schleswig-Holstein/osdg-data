@@ -31,7 +31,7 @@
             "constraints": {
               "enum": [
                 "Verdienstabstand",
-                "unbereinigter Gender Pay Gap ",
+                "unbereinigter Verdienstabstand",
                 ""
               ]
             }
