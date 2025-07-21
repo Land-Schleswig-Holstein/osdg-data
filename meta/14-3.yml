@@ -3,8 +3,6 @@ indicator_number: 14-3
 computation_units: 'mg/l'
 source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
-source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LFU'
-source_url_text_1: Landesamt für Umwelt - Landesportal
 graph_title: 'Stickstoffkonzentration im Übergangsbereich zwischen Binnengewässern und Meer getrennt für die Zuflüsse von Ost- und Nordsee als Jahresmittel'
 graph_type: line
 data_start_values:
@@ -12,6 +10,10 @@ data_start_values:
     value: 'Stickstoffkonzentration Ostsee'
   - field: 'Gebiet'
     value: 'Stickstoffkonzentration Nordsee'
+graph_limits:
+  - unit: mg/l
+    minimum: 2
+    maximum: 6
 graph_target_lines:
   - label_content: 'Ziel Zufluss Nordsee'
     value: 2.8
