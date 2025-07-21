@@ -5,7 +5,7 @@ source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
 source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LFU'
 source_url_text_1: Landesamt für Umwelt - Landesportal
-graph_title: 'Anzahl der Wasserkörper im jeweiligen ökologischen Zustand über die Zeit'
+graph_title: 'Anzahl der Wasserkörper an Nord- bzw- Ostsee im jeweiligen ökologischen Zustand'
 graph_type: bar
 data_start_values:
   - field: 'Series'
