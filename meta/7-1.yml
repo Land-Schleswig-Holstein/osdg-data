@@ -12,6 +12,10 @@ data_start_values:
     value: 'THG-Produktivität'
   - field: 'Produktivitätsindex'
     value: 'EEV-Produktivität'
+graph_limits:
+  - unit: Index
+    minimum: 50
+    maximum: 250
 publications:
   - title: 'Treibhausgas- und Energieproduktivität'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-1'
