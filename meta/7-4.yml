@@ -3,8 +3,6 @@ indicator_number: 7-4
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
-source_url_1: 'https://www.statistik-nord.de/'
-source_url_text_1: 'Statistikamt Nord'
 graph_title: 'Versorgungsbeitrag der Erneuerbaren Energien (EE) zum Brutto-Endenergieverbrauch (EEV)'
 graph_type: line
 data_start_values:
