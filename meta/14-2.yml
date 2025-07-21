@@ -5,7 +5,7 @@ source_active_1: true
 source_organisation_1: 'OSPAR Commission'
 source_url_1: 'https://www.ospar.org/about/publications'
 source_url_text_1: 'OSPAR Bericht 2023'
-graph_title: 'Der Indikator misst den Anteil der untersuchten Eissturmvögel mit > 0,1 g Kunststoff im Magen in Prozent innerhalb einer Stichprobe von 50 bis 100 Eissturmvogel-Spülsaumfunden. Der Indikator bezieht sich auf Umweltziele und Indikatoren der Meeresstrategie-Rahmenrichtlinie (MSRL).'
+graph_title: 'Anteil der untersuchten Eissturmvögel mit > 0,1 g Kunststoff im Magen in Prozent innerhalb einer Stichprobe von 50 bis 100 Eissturmvogel-Spülsaumfunden'
 graph_type: bar
 data_start_values:
 graph_target_lines:
