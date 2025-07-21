@@ -11,7 +11,7 @@ data_start_values:
 graph_limits:
   - unit: µg/m³
     minimum: 10
-    maximum: 25
+    maximum: 31
 graph_target_lines:
   - label_content: 'WHO-Richtwert ab 2021'
     value: 15.0
