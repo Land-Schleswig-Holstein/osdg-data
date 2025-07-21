@@ -10,6 +10,10 @@ graph_type: line
 data_start_values:
   - field: 'Nitratgehalt'
     value: 'Anteil von Messstellen mit höchstens 50 mg/l'
+graph_limits:
+  - unit: Prozent
+    minimum: 50
+    maximum: 100
 graph_target_lines:
   - label_content: 'Ziel'
     value: 100.0
