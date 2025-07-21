@@ -9,7 +9,7 @@ graph_title: 'Anteil der Messstellen in Schleswig-Holstein, an denen der Schwell
 graph_type: line
 data_start_values:
   - field: 'Nitratgehalt'
-    value: '% <= 50 mg/l'
+    value: 'Anteil von Messstellen mit höchstens 50 mg/l'
 graph_target_lines:
   - label_content: 'Ziel'
     value: 100.0
