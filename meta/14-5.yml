@@ -3,8 +3,6 @@ indicator_number: 14-5
 computation_units: '5 jährig gleitender Mittelwert der Phosphortracht (t)'
 source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
-source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LFU'
-source_url_text_1: Landesamt für Umwelt - Landesportal
 graph_title: 'Menge der Phosphoreinträge in Nord- und Ostsee über die Zuflüsse aus Schleswig-Holstein'
 graph_type: line
 data_start_values:
@@ -14,6 +12,10 @@ data_start_values:
     value: 'Nordsee'
   - field: 'Gebiet'
     value: 'Elbe'
+graph_limits:
+  - unit: 5 jährig gleitender Mittelwert der Phosphortracht (t)
+    minimum: 100
+    maximum: 800
 graph_target_lines:
   - label_content: 'Ziel 2027'
     value: 775.0
