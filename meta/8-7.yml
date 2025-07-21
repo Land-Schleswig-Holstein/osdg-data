@@ -3,9 +3,9 @@ indicator_number: 8-7
 computation_units: 'Anzahl'
 source_active_1: true
 source_organisation_1: 'Fairtrade Deutschland'
-source_url_1: 'https://www.fairtrade.net/de-de.html'
+source_url_1: 'https://www.fairtrade-towns.de/kampagne/staedtekarte-und-staedteverzeichnis'
 source_url_text_1: Fairtrade Deutschland
-graph_title: 'Anzahl Fair-Trade-Gemeinden und -Kreise'
+graph_title: 'Anzahl Fairtrade-Gemeinden und -Kreise'
 graph_type: bar
 data_start_values:
   - field: 'Gebiet'
