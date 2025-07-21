@@ -3,7 +3,6 @@ indicator_number: 15-4
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt'
-source_url_1: ''
 graph_title: 'Anteil der rechtlich für den Naturschutz gesicherten Flächen an der Landesfläche'
 graph_type: line
 data_start_values:
@@ -13,9 +12,9 @@ graph_target_lines:
   - label_content: 'Ziel 2030'
     value: 3.6
 graph_limits:
-    - unit: ''
-      minimum: 2
-      maximum: 4
+    - unit: Prozent
+      minimum: 2.6
+      maximum: 3.8
 publications:
   - title: 'Indikator Anteil Naturschutzflächen'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-4'
