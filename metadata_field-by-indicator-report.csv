@@ -19,7 +19,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #13-2,complete,,,,,Anzahl,bar
 #14-1,complete,,,,,Anzahl,bar
 #14-2,complete,,,,,Prozent,bar
-#14-3,complete,,,,,mg/l,line
+#14-3,complete,,,,,mg/l,bar
 #14-4,complete,,,,,5 jährig gleitender Mittelwert der Stickstofftracht (1000 t),line
 #14-5,complete,,,,,5 jährig gleitender Mittelwert der Phosphortracht (t),line
 #15-1,complete,,,,,Veränderung (ha/d),bar
