@@ -4,7 +4,7 @@ computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
 graph_title: 'Anteil der Wasserkörper natürlicher Fließgewässer mit gutem oder sehr gutem Zustand bzw. gutem Potenzial an der Gesamtanzahl der bewerteten Wasserkörper'
-graph_type: line
+graph_type: bar
 graph_stacked_disaggregation: 'Wasserkörper'
 data_start_values:
 data_start_values:
