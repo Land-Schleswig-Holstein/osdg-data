@@ -8,6 +8,10 @@ source_url_text_1: Landesamt für Umwelt - Landesportal
 graph_title: 'Immissionen von Feinstaub der Partikelgröße PM10 als Jahresmittel'
 graph_type: line
 data_start_values:
+graph_limits:
+  - unit: µg/m³
+    minimum: 10
+    maximum: 25
 graph_target_lines:
   - label_content: 'WHO-Richtwert ab 2021'
     value: 15.0
