@@ -4,7 +4,7 @@ computation_units: 'Anzahl Wasserkörper'
 source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
 graph_title: 'Anzahl der Fließgewässer- und Seewasserkörper, die den Orientierungswert für Gesamtphosphor einhalten bzw. nicht einhalten'
-graph_type: line
+graph_type: bar
 graph_stacked_disaggregation: 'Wasserkörper'
 data_start_values:
   - field: 'Wasserkörper'
