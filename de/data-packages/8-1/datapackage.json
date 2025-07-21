@@ -12,12 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
+            "name": "Finanzierungssaldo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Struktureller Finanzierungssaldo je Einwohnerin und Einwohner",
+                ""
+              ]
+            },
+            "title": "Finanzierungssaldo"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]
