@@ -12,8 +12,8 @@ data_start_values:
     value: 'Öffentliche Entwicklungshilfe'
 graph_limits:
   - unit: Euro
-    minimum: 10000
-    maximum: 40000
+    minimum: 10000000
+    maximum: 40000000
 publications:
   - title: 'Indikator Öffentliche Entwicklungsausgaben'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/17-1'
