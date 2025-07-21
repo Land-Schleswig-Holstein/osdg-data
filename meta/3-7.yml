@@ -1,16 +1,16 @@
 indicator_name: 'Lärmbelastung'
 indicator_number: 3-7
-computation_units: 'Menschen'
+computation_units: 'Personen'
 source_active_1: true
 source_organisation_1: 'Digitaler Atlas Nord'
 source_url_1: 'https://danord.gdi-sh.de/viewer/resources/apps/umgebungslaerm/index.html?lang=de#/'
 source_url_text_1: Geoportal Umgebungslärm
-graph_title: 'Anzahl der Personen, die an ihrem Hauptwohnsitz Lärmbelastungen über 65 dB(A) LDEN ganztags und über 55 dB(A) LNight nachts durch Hauptlärmquellen gem. § 47 Bundesimmissionsschutzgesetz ausgesetzt sind – Straßen- Schienenverkehrs- und Fluglärm'
+graph_title: 'Anzahl der Personen, die an ihrem Hauptwohnsitz Lärmbelastungen über 65 dB(A) LDEN ganztags und über 55 dB(A) LNight nachts durch Hauptlärmquellen gem. § 47 Bundesimmissionsschutzgesetz ausgesetzt sind (Straßen-, Schienenverkehrs- und Fluglärm)'
 graph_type: line
 data_start_values:
-  - field: 'Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart'
+  - field: 'Anzahl der hoch oder sehr hoch belasteten Personen in Schleswig-Holstein nach Lärmart'
     value: 'LDEN'
-  - field: 'Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart'
+  - field: 'Anzahl der hoch oder sehr hoch belasteten Personen in Schleswig-Holstein nach Lärmart'
     value: 'LNIGHT>55'
 publications:
   - title: 'Indikator Lärmbelastung'
