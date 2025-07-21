@@ -5,7 +5,7 @@ source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
 source_url_1: 'https://www.statistik-nord.de/'
 source_url_text_1: 'Statistikamt Nord'
-graph_title: 'Der Indikator stellt den Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien dar.'
+graph_title: 'Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien (EE)'
 graph_type: line
 data_start_values:
   - field: 'Strommenge aus EE'
