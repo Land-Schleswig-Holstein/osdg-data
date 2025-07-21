@@ -13,10 +13,6 @@ data_start_values:
     value: 'Nordsee'
   - field: 'Gebiet'
     value: 'Elbe'
-graph_limits:
-  - unit: 5 jährig gleitender Mittelwert der Phosphortracht (t)
-    minimum: 100
-    maximum: 800
 graph_target_lines:
   - label_content: 'Ziel 2027'
     value: 775.0
