@@ -1333,7 +1333,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart",
+            "name": "Anzahl der hoch oder sehr hoch belasteten Personen in Schleswig-Holstein nach Lärmart",
             "type": "string",
             "constraints": {
               "enum": [
@@ -1342,7 +1342,7 @@
                 ""
               ]
             },
-            "title": "Anzahl der hoch oder sehr hoch belasteten Menschen in Schleswig-Holstein nach Lärmart"
+            "title": "Anzahl der hoch oder sehr hoch belasteten Personen in Schleswig-Holstein nach Lärmart"
           },
           {
             "name": "Value",
