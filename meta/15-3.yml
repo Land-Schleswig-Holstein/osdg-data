@@ -3,11 +3,13 @@ indicator_number: 15-3
 computation_units: 'Prozent'
 source_active_1: true
 source_organisation_1: 'Landesbetrieb für Küstenschutz, Nationalpark und Meeresschutz Schleswig-Holstein - LKN.SH'
-source_url_text_1: 'LKN.SH'
-source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LKN/lkn_node'
 graph_title: 'Anteil der Landesschutzdeiche ohne Sicherheitsdefizit an der Gesamtlänge der Landesschutzdeiche'
 graph_type: line
 data_start_values:
+graph_limits:
+  - unit: Prozent
+    minimum: 70
+    maximum: 90
 publications:
   - title: 'Indikator Klimaanpassung im Küstenschutz'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-3'
