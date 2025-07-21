@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "keq/(ha*a)",
+                "kq/(ha*a)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Säureeinträge",
+                "Stickstoffeinträge",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Gebiet",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein",
+                "Deutschland",
+                ""
+              ]
+            },
+            "title": "Gebiet"
           },
           {
             "name": "Value",
