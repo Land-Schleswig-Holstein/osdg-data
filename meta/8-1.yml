@@ -2,8 +2,9 @@ indicator_name: 'Staatsdefizit'
 indicator_number: 8-1
 computation_units: 'Euro'
 source_active_1: true
-source_organisation_1: 'Stabilitätsberichte des Landes Schleswig-Holstein'
-source_url_1: 'Link zur Quelle'
+source_organisation_1: 'Stabilitätsberichte und Beschlüsse zu den Kennziffern des Landes Schleswig-Holstein'
+source_url_1: 'https://www.stabilitaetsrat.de/DE/Dokumentation/Haushaltsueberwachung/Haushaltskennziffern%20und%20Stabilit%C3%A4tsberichte/Haushaltskennziffern_und_Stabilit%C3%A4tsberichte_node.html'
+source_url_text_1: Stabilitätsrat
 graph_title: 'Struktureller Finanzierungssaldo des Landes Schleswig-Holstein in Euro je Einwohnerin und Einwohner'
 graph_type: bar
 data_start_values:
