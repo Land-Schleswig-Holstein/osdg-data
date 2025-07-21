@@ -18,6 +18,10 @@ data_start_values:
     value: 'Gewässer'
   - field: 'Gebiet'
     value: 'Gesamtindikator'
+graph_limits:
+  - unit: Index
+    minimum: 40
+    maximum: 160
 publications:
   - title: 'Indikator Index repräsentative Arten'
     link: 'tbd'
