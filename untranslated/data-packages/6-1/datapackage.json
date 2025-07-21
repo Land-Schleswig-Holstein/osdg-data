@@ -19,7 +19,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "% <= 50 mg/l",
+                "Anteil von Messstellen mit höchstens 50 mg/l",
                 ""
               ]
             }
