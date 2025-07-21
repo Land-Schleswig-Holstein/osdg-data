@@ -4,7 +4,7 @@ computation_units: 'mg/l'
 source_active_1: true
 source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
 graph_title: 'Stickstoffkonzentration im Übergangsbereich zwischen Binnengewässern und Meer getrennt für die Zuflüsse von Ost- und Nordsee als Jahresmittel'
-graph_type: line
+graph_type: bar
 data_start_values:
   - field: 'Gebiet'
     value: 'Stickstoffkonzentration Ostsee'
