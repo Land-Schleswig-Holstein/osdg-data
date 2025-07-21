@@ -2,8 +2,9 @@ indicator_name: 'Eutrophierung der Ökosysteme'
 indicator_number: 15-5
 computation_units: 'keq/(ha*a)'
 source_active_1: true
-source_organisation_1: 'Quellenbezeichnung'
-source_url_1: 'Link zur Quelle'
+source_organisation_1: 'Länderinitiative Kernindikatoren (LiKi)'
+source_url_1: 'https://www.liki.nrw.de/'
+source_url_text_1: Indikatorenspiegel LIKI
 graph_titles: 
   - series: 'Säureeinträge'
   - title: 'Belastung empfindlicher Ökosysteme durch atmosphärische Säureeinträge am Beispiel des Waldes'
