@@ -28,7 +28,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #15-4,complete,,,,,Prozent,line
 #15-5,complete,,,,,keq/(ha*a),line
 #15-6,complete,,,,,Prozent,bar
-#15-7,complete,,,,,,line
+#15-7,complete,,,,,Index,line
 #16-1,complete,,,,,Häufigkeitszahl,line
 #16-2,complete,,,,,Deckungsgrad,bar
 #16-3,complete,,,,,Gefangene je 100.000 Einwohnerinnen und Einwohner,line
