@@ -5,11 +5,15 @@ source_active_1: true
 source_organisation_1: 'Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ)'
 source_url_1: 'https://www.bmz.de/de/ministerium/zahlen-fakten/oda-zahlen/deutsche-oda-leistungen-19220'
 source_url_text_1: ODA-Zahlen
-graph_title: 'Aufkommen der Landesmittel für Entwicklungszusammenarbeit sowie für Landesprogramme im Bereich Eine-Welt-Politik'
+graph_title: 'Landesmittel für Entwicklungszusammenarbeit sowie für Landesprogramme im Bereich Eine-Welt-Politik'
 graph_type: line
 data_start_values:
   - field: 'Aufkommen'
     value: 'Öffentliche Entwicklungshilfe'
+graph_limits:
+  - unit: Euro
+    minimum: 10000
+    maximum: 40000
 publications:
   - title: 'Indikator Öffentliche Entwicklungsausgaben'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/17-1'
