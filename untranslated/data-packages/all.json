@@ -2351,6 +2351,42 @@
       "title": "Soziale Sicherung/Niedriglohnsektor"
     },
     {
+      "path": "15-7/data.csv",
+      "name": "15-7",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Gebiet",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agrarlandschaft",
+                "Wald",
+                "Siedlung",
+                "Gewässer",
+                "Gesamtindikator",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "15-7"
+    },
+    {
       "path": "16-2/data.csv",
       "name": "16-2",
       "profile": "tabular-data-resource",

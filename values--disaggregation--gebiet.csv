@@ -1,6 +1,7 @@
 Value,Disaggregation combinations using this value,Number of indicators
 3-Jahreswert Deutschland,1,1
 3-Jahreswert Schleswig-Holstein,1,1
+Agrarlandschaft,1,1
 Bund,1,1
 Deutschland,12,11
 Dithmarschen,1,1
@@ -9,6 +10,8 @@ EU-27 (28),1,1
 Fairtrade-Gemeinden und -Kreise,1,1
 Flensburg,1,1
 Gesamt,1,1
+Gesamtindikator,1,1
+Gewässer,1,1
 Hzgt. Lauenburg,1,1
 Kiel,1,1
 Lübeck,1,1
@@ -23,7 +26,9 @@ Rendsburg-Eckernförde,1,1
 Schleswig-Flensburg,1,1
 Schleswig-Holstein,15,14
 Segeberg,1,1
+Siedlung,1,1
 Steinburg,1,1
 Stickstoffkonzentration Nordsee,1,1
 Stickstoffkonzentration Ostsee,1,1
 Stormarn,1,1
+Wald,1,1
