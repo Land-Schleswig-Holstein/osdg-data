@@ -15,9 +15,9 @@ data_start_values:
     value: 'Säureeinträge'
   - field: 'Series'
     value: 'Stickstoffeinträge'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Schleswig-Holstein'
-  - field: 'Raum'
+  - field: 'Gebiet'
     value: 'Deutschland'
 publications:
   - title: 'Indikator Eutrophierung der Ökosysteme'
