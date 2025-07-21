@@ -1,0 +1,27 @@
+indicator_name: 'Index repräsentative Arten'
+indicator_number: 15-7
+computation_units: 'Index'
+source_active_1: true
+source_organisation_1: 'tbd'
+source_url_1: 'tbd'
+graph_title: 'Der Indikator zeigt den Anteil an der Zielerreichung für die Bestandsentwicklung von
+17 ausgewählten Vogelarten in Form eines Index. Bezugswert 2004 gleich 100 Prozent.'
+graph_type: line
+data_start_values:
+  - field: 'Gebiet'
+    value: 'Agrarlandschaft'
+  - field: 'Gebiet'
+    value: 'Wald'
+  - field: 'Gebiet'
+    value: 'Siedlung'
+  - field: 'Gebiet'
+    value: 'Gewässer'
+  - field: 'Gebiet'
+    value: 'Gesamtindikator'
+publications:
+  - title: 'Indikator Index repräsentative Arten'
+    link: 'tbd'
+    description: ' '
+    placeholder: 'Noch keine Daten hinterlegt...'
+    date: 2025-07-21
+reporting_status: complete
