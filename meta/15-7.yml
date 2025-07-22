@@ -4,19 +4,18 @@ computation_units: 'Index'
 source_active_1: true
 source_organisation_1: 'tbd'
 source_url_1: 'tbd'
-graph_title: 'Der Indikator zeigt den Anteil an der Zielerreichung für die Bestandsentwicklung von
-17 ausgewählten Vogelarten in Form eines Index. Bezugswert 2004 gleich 100 Prozent.'
+graph_title: 'Anteil an der Zielerreichung für die Bestandsentwicklung von 17 ausgewählten Vogelarten in Form eines Index. Bezugswert 2004 gleich 100 Prozent.'
 graph_type: line
 data_start_values:
-  - field: 'Gebiet'
+  - field: 'Lebensraum'
     value: 'Agrarlandschaft'
-  - field: 'Gebiet'
+  - field: 'Lebensraum'
     value: 'Wald'
-  - field: 'Gebiet'
+  - field: 'Lebensraum'
     value: 'Siedlung'
-  - field: 'Gebiet'
+  - field: 'Lebensraum'
     value: 'Gewässer'
-  - field: 'Gebiet'
+  - field: 'Lebensraum'
     value: 'Gesamtindikator'
 graph_limits:
   - unit: Index
