@@ -1,11 +1,11 @@
-indicator_name: 'Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien'
+indicator_name: 'Stromerzeugung aus Erneuerbaren Energien'
 indicator_number: 7-2
 computation_units: 'GWh'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
 source_url_1: 'https://www.statistik-nord.de/'
 source_url_text_1: 'Statistikamt Nord'
-graph_title: 'Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien (EE)'
+graph_title: 'Stromerzeugung aus Erneuerbaren Energien (EE)'
 graph_type: line
 data_start_values:
   - field: 'Strommenge aus EE'
@@ -18,7 +18,7 @@ graph_target_lines:
   - label_content: 'Ziel 2025 für EE gesamt'
     value: 37000.0
 publications:
-  - title: 'Indikator Versorgungsbeitrag der Stromerzeugung aus Erneuerbaren Energien'
+  - title: 'Stromerzeugung aus Erneuerbaren Energien'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
