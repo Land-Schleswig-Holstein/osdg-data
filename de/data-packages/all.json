@@ -2569,7 +2569,7 @@
             "title": "Jahr"
           },
           {
-            "name": "Gebiet",
+            "name": "Lebensraum",
             "type": "string",
             "constraints": {
               "enum": [
@@ -2581,7 +2581,7 @@
                 ""
               ]
             },
-            "title": "Gebiet"
+            "title": "Lebensraum"
           },
           {
             "name": "Value",

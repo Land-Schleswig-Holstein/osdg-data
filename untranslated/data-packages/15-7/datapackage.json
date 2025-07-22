@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Gebiet",
+            "name": "Lebensraum",
             "type": "string",
             "constraints": {
               "enum": [
