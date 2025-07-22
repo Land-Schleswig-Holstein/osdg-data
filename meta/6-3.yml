@@ -2,7 +2,9 @@ indicator_name: 'Gewässergefährdung durch Phosphor'
 indicator_number: 6-3
 computation_units: 'Anzahl Wasserkörper'
 source_active_1: true
-source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
+source_organisation_1: 'Ministerim für Energiewende, Klimaschutz, Umwelt und Natur'
+source_url_1: 'https://umweltanwendungen.schleswig-holstein.de/cadenza/'
+source_url_text_1: Candenza
 graph_title: 'Anzahl der Fließgewässer- und Seewasserkörper, die den Orientierungswert für Gesamtphosphor einhalten bzw. nicht einhalten'
 graph_type: bar
 graph_stacked_disaggregation: 'Wasserkörper'
