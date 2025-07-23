@@ -1,6 +1,10 @@
 indicator_name: 'Treibhausgasemissionen'
 indicator_number: 13-1
 computation_units: 'Mio. t CO2-Äquivalente'
+source_active_1: true
+source_organisation_1: 'Ministerium für Energiewende, Klimaschutz, Umwelt und Natur'
+source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/themen/energie/energiewende/Daten/_documents/monitoring'
+source_url_text_1: Monitoring Energiewende und Klimaschutz Schleswig-Holstein
 graph_title: 'Minderung der Emissionen der Treibhausgasemissionen in CO2-Äquivalenten und nach Sektoren'
 graph_type: bar
 graph_stacked_disaggregation: 'Sektor'
