@@ -1,6 +1,8 @@
 indicator_name: 'Landwirtschaftsflächen mit hohem Naturwert – High Nature Value Farmland (HNV)'
 indicator_number: 15-6
 computation_units: 'Prozent'
+source_active_1: true
+source_organisation_1: 'Joachim Saborowski (2012), Gutachten für das Bundesamt für Naturschutz'
 graph_title: 'Anteil der Landwirtschaftsflächen mit hohem Naturwert an der gesamten Landwirtschaftsfläche'
 graph_type: bar
 data_start_values:
