@@ -11,8 +11,6 @@ data_start_values:
     value: 'Siedlungsabfälle (SH)'
   - field: 'Aufkommen'
     value: 'Haus- und Sperrmüll (SH)'
-  - field: 'Aufkommen'
-    value: 'Leichtverpackungen (SH)'
 publications:
   - title: 'Siedlungsabfallaufkommen'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/12-1'
