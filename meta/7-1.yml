@@ -9,9 +9,9 @@ graph_title: 'Entwicklung der Treibhausgas- und Endenergieproduktivität auf Bas
 graph_type: line
 data_start_values:
   - field: 'Produktivitätsindex'
-    value: 'THG-Produktivität'
+    value: 'Treibhausgasproduktivität'
   - field: 'Produktivitätsindex'
-    value: 'EEV-Produktivität'
+    value: 'Endenergieproduktivität'
 graph_limits:
   - unit: Index
     minimum: 50
