@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EEV-Produktivität",
-                "THG-Produktivität",
+                "Endenergieproduktivität",
+                "Treibhausgasproduktivität",
                 ""
               ]
             }
