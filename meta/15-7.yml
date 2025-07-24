@@ -2,7 +2,9 @@ indicator_name: 'Index repräsentative Arten'
 indicator_number: 15-7
 computation_units: 'Index'
 source_active_1: true
-source_organisation_1: 'Bundesamt für Naturschutz'
+source_organisation_1: 'Ornithologische Arbeitsgemeinschaft für SH und HH (OAGSH)'
+source_url_1: 'https://www.oagsh.de/projekte/mhb'
+source_url_text_1: Monitoring häufiger Brutvögel (MhB)
 graph_title: 'Anteil an der Zielerreichung für die Bestandsentwicklung von 17 ausgewählten Vogelarten in Form eines Index. Bezugswert 2004 gleich 100 Prozent.'
 graph_type: line
 data_start_values:
