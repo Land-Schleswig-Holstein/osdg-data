@@ -1,6 +1,6 @@
 indicator_name: 'Rohstoffproduktivität'
 indicator_number: 8-6
-computation_units: 'BIP/DMIa'
+computation_units: 'BIP/DMI'
 source_active_1: true
 source_organisation_1: 'Statisikamt Nord'
 source_url_1: ''
