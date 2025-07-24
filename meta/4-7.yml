@@ -12,6 +12,9 @@ data_start_values:
     value: 'Schleswig-Holstein'
   - field: 'Gebiet'
     value: 'Deutschland'
+graph_target_lines:
+  - label_content: 'Ziel'
+    value: 5.3
 publications:
   - title: 'Indikator Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA'
     link: 'http://10.61.63.178/handlungsfelder/bildung/4-7'
