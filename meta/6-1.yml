@@ -2,7 +2,7 @@ indicator_name: 'Nitratgehalt im Grundwasser'
 indicator_number: 6-1
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
+source_organisation_1: 'Landesamt für Umwelt'
 graph_title: 'Anteil der Messstellen in Schleswig-Holstein, an denen der Schwellenwert von 50 Milligramm Nitrat pro Liter Grundwasser im Jahresmittel eingehalten wird'
 graph_type: line
 data_start_values:
