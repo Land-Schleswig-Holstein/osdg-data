@@ -2,7 +2,7 @@ indicator_name: 'Stickstoffkonzentration im Übergangsbereich Binnengewässer-Me
 indicator_number: 14-3
 computation_units: 'mg/l'
 source_active_1: true
-source_organisation_1: 'Landesamt für Umwelt Schleswig-Holstein'
+source_organisation_1: 'Landesamt für Umwelt'
 graph_title: 'Stickstoffkonzentration im Übergangsbereich zwischen Binnengewässern und Meer getrennt für die Zuflüsse von Ost- und Nordsee als Jahresmittel'
 graph_type: bar
 data_start_values:
