@@ -2681,8 +2681,8 @@
             "constraints": {
               "enum": [
                 "Fließgewässer eingehalten",
-                "Fließgewässer nicht eingehalten",
                 "Seen eingehalten",
+                "Fließgewässer nicht eingehalten",
                 "Seen nicht eingehalten",
                 ""
               ]
