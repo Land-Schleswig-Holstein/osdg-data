@@ -12,9 +12,9 @@ data_start_values:
   - field: 'Wasserkörper'
     value: 'Fließgewässer eingehalten'
   - field: 'Wasserkörper'
-    value: 'Fließgewässer nicht eingehalten'
-  - field: 'Wasserkörper'
     value: 'Seen eingehalten'
+  - field: 'Wasserkörper'
+    value: 'Fließgewässer nicht eingehalten'
   - field: 'Wasserkörper'
     value: 'Seen nicht eingehalten'
 graph_target_lines:
