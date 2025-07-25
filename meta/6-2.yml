@@ -9,13 +9,13 @@ graph_stacked_disaggregation: 'Wasserkörper'
 data_start_values:
 data_start_values:
   - field: 'Wasserkörper'
-    value: 'Erheblich veränderte und künstliche Fließgewässer-Wasserkörper mit nicht gutem Potenzial'
+    value: 'natürliche Fließgewässer-Wasserkörper mit gutem Zustand'
   - field: 'Wasserkörper'
     value: 'Erheblich veränderte und künstliche Fließgewässer-Wasserkörper mit gutem Potenzial'
   - field: 'Wasserkörper'
     value: 'natürliche Fließgewässer-Wasserkörper mit nicht gutem Zustand'
   - field: 'Wasserkörper'
-    value: 'natürliche Fließgewässer-Wasserkörper mit gutem Zustand'
+    value: 'Erheblich veränderte und künstliche Fließgewässer-Wasserkörper mit nicht gutem Potenzial'
 graph_target_lines:
   - label_content: 'Ziel 2030'
     value: 5.0
