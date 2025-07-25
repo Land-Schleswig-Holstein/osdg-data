@@ -19,10 +19,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Erheblich veränderte und künstliche Fließgewässer-Wasserkörper mit nicht gutem Potenzial",
+                "natürliche Fließgewässer-Wasserkörper mit gutem Zustand",
                 "Erheblich veränderte und künstliche Fließgewässer-Wasserkörper mit gutem Potenzial",
                 "natürliche Fließgewässer-Wasserkörper mit nicht gutem Zustand",
-                "natürliche Fließgewässer-Wasserkörper mit gutem Zustand",
+                "Erheblich veränderte und künstliche Fließgewässer-Wasserkörper mit nicht gutem Potenzial",
                 ""
               ]
             }
