@@ -14,6 +14,9 @@ data_start_values:
     value: 'EMAS'
   - field: 'Nachhaltigkeitsstandard'
     value: 'GRI'
+footer_fields:
+  - label: Hinweis zu GRI-Daten
+    value: Die Letzte offizielle Erhebung stammt aus dem Jahr 2019. Eine länderspezifische Auswertung kann aus personellen Gründen zur Zeit nicht stattfinden.
 publications:
   - title: 'Unternehmen mit Nachhaltigkeitsstandards'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/12-2'
