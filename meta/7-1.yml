@@ -1,4 +1,4 @@
-indicator_name: 'Treibhausgas- und Energieproduktivität'
+indicator_name: 'Treibhausgas- und Endenergieproduktivität'
 indicator_number: 7-1
 computation_units: 'Index'
 source_active_1: true
@@ -17,9 +17,10 @@ graph_limits:
     minimum: 50
     maximum: 250
 publications:
-  - title: 'Treibhausgas- und Energieproduktivität'
+  - title: 'Treibhausgas- und Endenergieproduktivität'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-20
 reporting_status: complete
+
