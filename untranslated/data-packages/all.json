@@ -1244,6 +1244,38 @@
       "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
     },
     {
+      "path": "7-4/data.csv",
+      "name": "7-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Anteil erneuerbarer Energien am Brutto-EEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anteil erneuerbarer Energien am Brutto-EEV",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch"
+    },
+    {
       "path": "6-3/data.csv",
       "name": "6-3",
       "profile": "tabular-data-resource",
@@ -2796,28 +2828,6 @@
         ]
       },
       "title": "Adipositas bei Schulanfängerinnen und Schulanfängern"
-    },
-    {
-      "path": "7-4/data.csv",
-      "name": "7-4",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch"
     }
   ]
 }
