@@ -12,17 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Anteil EE am Brutto-EEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Anteil EE am Brutto-EEV",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
