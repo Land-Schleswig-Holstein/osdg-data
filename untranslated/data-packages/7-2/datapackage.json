@@ -12,22 +12,11 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Strommenge aus EE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Strommenge aus EE (gesamt)",
-                "Strommenge aus EE (an Land)",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }
