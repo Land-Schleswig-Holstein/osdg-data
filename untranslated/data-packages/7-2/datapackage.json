@@ -12,11 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Strommenge aus erneuerbaren Energien",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Strommenge aus erneuerbaren Energien (gesamt)",
+                "Strommenge aus erneuerbaren Energien (an Land)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }
