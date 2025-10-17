@@ -2,7 +2,7 @@ indicator_name: 'Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
 indicator_number: 10-4
 computation_units: 'Gini-Koeffizient'
 source_active_1: true
-source_organisation_1: 'Sozialberichterstattung'
+source_organisation_1: 'Sozialberichterstattung (MZ-Kern)'
 source_url_1: 'https://www.statistikportal.de/de/sbe/ergebnisse/einkommen-armutsgefaehrdung-und-soziale-lebensbedingungen/armutsgefaehrdung-und-3'
 source_url_text_1: 'Gini-Koeffizient der Äquivalenzeinkommen'
 graph_title: 'Gini-Koeffizient – Verteilung des verfügbaren Äquivalenzeinkommens pro Person'
@@ -20,3 +20,4 @@ publications:
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
