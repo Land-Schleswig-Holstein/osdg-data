@@ -12,32 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Soziodemografische Merkmale",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Insgesamt SH",
-                "Alleinerziehende mit Kind/ern SH",
-                "Paar mit drei oder mehr Kindern SH",
-                "Erwerbslose SH",
-                "Geringqualifizierte SH",
-                "Ohne deutsche Staatsangehörigkeit SH",
-                "Mit Migrationshintergrund SH",
-                "Insgesamt DE",
-                "Alleinerziehende mit Kind/ern DE",
-                "Paar mit drei oder mehr Kindern DE",
-                "Erwerbslose DE",
-                "Geringqualifizierte DE",
-                "Ohne deutsche Staatsangehörigkeit DE",
-                "Mit Migrationshintergrund DE",
-                ""
-              ]
-            },
-            "title": "Soziodemografische Merkmale"
           },
           {
             "name": "Value",
