@@ -12,7 +12,30 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Soziodemografische Merkmale",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Insgesamt SH",
+                "Alleinerziehende mit Kind/ern SH",
+                "Paar mit drei oder mehr Kindern SH",
+                "Erwerbslose SH",
+                "Geringqualifizierte SH",
+                "Ohne deutsche Staatsangehörigkeit SH",
+                "Mit Migrationshintergrund SH",
+                "Insgesamt Frueheres Bundesgebiet (ohne Berlin)",
+                "Alleinerziehende mit Kind/ern Frueheres Bundesgebiet (ohne Berlin)",
+                "Paar mit drei oder mehr Kindern Frueheres Bundesgebiet (ohne Berlin)",
+                "Erwerbslose Frueheres Bundesgebiet (ohne Berlin)",
+                "Geringqualifizierte Frueheres Bundesgebiet (ohne Berlin)",
+                "Ohne deutsche Staatsangehörigkeit Frueheres Bundesgebiet (ohne Berlin)",
+                "Mit Migrationshintergrund Frueheres Bundesgebiet (ohne Berlin)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
