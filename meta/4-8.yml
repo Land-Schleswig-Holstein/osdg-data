@@ -2,8 +2,9 @@ indicator_name: 'Bildungsstand der Bevölkerung - Anteil der 25- bis 34-Jährige
 indicator_number: 4-8
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'Quelle'
-source_url_1: 'Link zur Quelle'
+source_organisation_1: 'Arbeitskreis "Nachhaltige Entwicklung" der Statistischen Landesämter'
+source_url_1: 'https://www.statistikportal.de/de/nachhaltigkeit'
+source_url_text_1: 'Dashboard zur Nachhaltigkeit'
 graph_title: 'Anteil der 25- bis 34-Jährigen an, die mindestens über einen Abschluss des Sekundarbereichs II verfügen'
 graph_type: bar
 data_start_values:
@@ -11,6 +12,8 @@ data_start_values:
     value: 'Deutschland'
   - field: 'Gebiet'
     value: 'Schleswig-Holstein'
+  - field: 'Gebiet'
+    value: 'OECD-Durchschnitt'
 graph_target_lines:
   - label_content: 'OECD-Durchschnitt'
     value: 85
@@ -24,3 +27,4 @@ publications:
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
