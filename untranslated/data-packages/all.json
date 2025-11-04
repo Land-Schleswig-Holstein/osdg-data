@@ -2332,13 +2332,14 @@
               "enum": [
                 "Deutschland",
                 "Schleswig-Holstein",
+                "OECD-Durchschnitt",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "string"
           }
         ]
       },
