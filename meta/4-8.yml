@@ -14,9 +14,6 @@ data_start_values:
     value: 'Schleswig-Holstein'
   - field: 'Gebiet'
     value: 'OECD-Durchschnitt'
-graph_target_lines:
-  - label_content: 'OECD-Durchschnitt'
-    value: 85
 footer_fields:
   - label: Hinweis
     value: Ab 2021 basiert die Hochrechnung auf den fortgeschriebenen Ergebnissen des Zensus 2022. Die Ergebnisse des Mikrozensus ab dem Erhebungsjahr 2020 sind durch methodische Veränderungen nur eingeschränkt mit den früheren Erhebungsjahren vergleichbar. Das Erhebungsjahr 2020 ist zudem von Einschränkungen bei der Erhebung betroffen und sollte deshalb nicht für Zeitvergleiche mit nachfolgenden Jahren herangezogen werden. Weitere Informationen dazu finden Sie auf der Informationsseite des Statistischen Bundesamtes.
@@ -27,4 +24,5 @@ publications:
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
