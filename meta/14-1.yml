@@ -23,6 +23,9 @@ data_start_values:
     value: 'schlecht'
   - field: 'Qualität'
     value: 'nicht bestimmt/nicht bewertbar'
+footer_fields:
+  - label: Legende Grafiken
+    value: Die in der Grafik abgebildete Gesamtbewertung der Wasserkörper stellt nur einen kleinen Anteil der zugrunde liegenden Informationen dar. Für mehr Details können die vollständigen Bewirtschaftungspläne der jeweiligen Flussgebietseinheiten hier eingesehen werden: https://www.schleswig-holstein.de/DE/fachinhalte/W/wasserrahmenrichtlinie/bewirtschaftungszeitraum3 
 publications:
   - title: 'Indikator Ökologischer Zustand der Küstengewässer'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/14-1'
@@ -30,6 +33,7 @@ publications:
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
 
 
 
