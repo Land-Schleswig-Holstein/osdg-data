@@ -14,8 +14,10 @@ graph_limits:
     maximum: 16
 publications:
   - title: 'Indikator Materialverbrauch'
-    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-5'
+    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-5'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-5-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-30
 reporting_status: complete
+
