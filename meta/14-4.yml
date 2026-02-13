@@ -19,7 +19,9 @@ graph_target_lines:
 publications:
   - title: 'Stickstoffeintrag über Zuflüsse in Nord- und Ostsee'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/14-4'
+    #link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/14-4-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
