@@ -22,7 +22,9 @@ graph_target_lines:
 publications:
   - title: 'Indikator Stickstoffkonzentration im Übergangsbereich Binnengewässer-Meer'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/14-3'
+    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/14-3-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
