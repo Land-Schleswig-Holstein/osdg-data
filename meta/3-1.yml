@@ -15,7 +15,9 @@ data_start_values:
 publications:
   - title: 'Indikator Sterberate Neugeborene'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-1'
+    #link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
