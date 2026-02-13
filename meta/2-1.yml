@@ -18,7 +18,9 @@ graph_target_lines:
 publications:
   - title: 'Indikator Stickstoffüberschuss in der Landwirtschaft'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/2-1'
+    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/2-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
