@@ -23,7 +23,9 @@ footer_fields:
 publications:
   - title: 'Indikator Anstieg Siedlungs- und Verkehrsflächen'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-1'
+    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
