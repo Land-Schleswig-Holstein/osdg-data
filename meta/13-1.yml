@@ -26,7 +26,9 @@ data_start_values:
 publications:
   - title: 'Indikator Treibhausgasemissionen'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/13-1'
+    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/13-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
