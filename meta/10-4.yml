@@ -16,9 +16,11 @@ footer_fields:
 publications:
   - title: 'Indikator Gini-Koeffizient des verfügbaren Äquivalenzeinkommens'
     link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/10-4'
+    #link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/10-4-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
 
