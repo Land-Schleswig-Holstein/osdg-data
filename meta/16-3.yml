@@ -14,7 +14,9 @@ data_start_values:
 publications:
   - title: 'Indikator Inhaftierungsquote'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/16-3'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/16-3-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-01
 reporting_status: complete
+
