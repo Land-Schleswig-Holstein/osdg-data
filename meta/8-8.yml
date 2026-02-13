@@ -26,7 +26,9 @@ footer_fields:
 publications:
   - title: 'Indikator Erwerbstätigenquote'
     link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/8-8'
+    #link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/8-8-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
