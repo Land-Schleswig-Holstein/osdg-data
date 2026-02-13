@@ -16,7 +16,9 @@ footer_fields:
 publications:
   - title: 'Indikator Adipositas bei Schulanfängerinnen und Schulanfängern'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-5'
+    #link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-5-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
