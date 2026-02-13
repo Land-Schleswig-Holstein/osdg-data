@@ -26,7 +26,9 @@ graph_limits:
 publications:
   - title: 'Indikator Frauen in Führungspositionen in der Politik'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/5-4'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/5-4-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-10
 reporting_status: complete
+
