@@ -35,10 +35,11 @@ footer_fields:
     value: Erster allgemeinbildender Schulabschluss (ESA), Mittlerer Schulabschluss (MSA)
 publications:
   - title: 'Indikator Schulabsolventinnen und Schulabsolventen mit Migrationshintergrund'
-   link: 'http://10.61.63.178/handlungsfelder/bildung/4-2'
+    link: 'http://10.61.63.178/handlungsfelder/bildung/4-2'
     #link: 'http://10.61.63.178/handlungsfelder/bildung/4-2-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
