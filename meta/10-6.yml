@@ -11,7 +11,9 @@ data_start_values:
 publications:
   - title: 'Indikator Kommunen mit Vertretungen für Kinder und Jugendliche'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/10-6'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/10-6-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-20
 reporting_status: complete
+
