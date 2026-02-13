@@ -23,7 +23,9 @@ data_start_values:
 publications:
   - title: 'Indikator Verdienstabstand zwischen Frauen und Männern'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/5-1'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/5-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
