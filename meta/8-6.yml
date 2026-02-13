@@ -14,8 +14,10 @@ graph_target_lines:
     value: 200.0
 publications:
   - title: 'Indikator Rohstoffproduktivität'
-    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-6'
+    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-6'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-6-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-30
 reporting_status: complete
+
