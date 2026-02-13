@@ -18,7 +18,9 @@ graph_limits:
 publications:
   - title: 'Indikator Anteil Naturschutzflächen'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-4'
+    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-4-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
