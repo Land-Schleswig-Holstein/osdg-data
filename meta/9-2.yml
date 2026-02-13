@@ -19,9 +19,10 @@ graph_limits:
 publications:
   - title: 'Indikator Mobilfunkabdeckung'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/9-2'
-    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/9-2-neu'
+    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/9-2-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
