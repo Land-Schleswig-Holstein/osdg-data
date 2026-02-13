@@ -16,7 +16,9 @@ footer_fields:
 publications:
   - title: 'Indikator Staatsdefizit'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-1'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
