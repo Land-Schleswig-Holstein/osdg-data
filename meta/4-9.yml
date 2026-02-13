@@ -18,7 +18,9 @@ footer_fields:
 publications:
   - title: 'Indikator Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen'
     link: 'http://10.61.63.178/handlungsfelder/bildung/4-9'
+    #link: 'http://10.61.63.178/handlungsfelder/bildung/4-9-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
