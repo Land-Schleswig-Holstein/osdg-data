@@ -19,7 +19,9 @@ graph_limits:
 publications:
   - title: 'Indikator Lärmbelastung'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-7'
+    #link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-7-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
