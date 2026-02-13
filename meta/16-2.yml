@@ -19,7 +19,9 @@ data_start_values:
 publications:
   - title: 'Indikator Personalausstattung in Gerichten und Staatsanwaltschaften'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/16-2'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/16-2-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-22
 reporting_status: complete
+
