@@ -30,7 +30,9 @@ data_start_values:
 publications:
   - title: 'Indikator Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind, insbesondere Fokusleistungen'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/16-5'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/16-5-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-18
 reporting_status: complete
+
