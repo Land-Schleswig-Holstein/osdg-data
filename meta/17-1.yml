@@ -17,7 +17,9 @@ graph_limits:
 publications:
   - title: 'Indikator Öffentliche Entwicklungsausgaben'
     link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/17-1'
+    #link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/17-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-18
 reporting_status: complete
+
