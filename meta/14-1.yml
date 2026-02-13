@@ -29,10 +29,12 @@ footer_fields:
 publications:
   - title: 'Indikator Ökologischer Zustand der Küstengewässer'
     link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/14-1'
+    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/14-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
 
 
 
