@@ -24,10 +24,11 @@ data_start_values:
     value: 'sonst./unbek.'
 publications:
   - title: 'Indikator Studierende mit ausländischer Staatsangehörigkeit'
-    link: 'http://10.61.63.178/handlungsfelder/bildung/4-5'
-    #link: 'http://10.61.63.178/handlungsfelder/bildung/4-5-neu'
+    link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/4-5'
+    #link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/4-5-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
