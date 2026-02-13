@@ -13,7 +13,9 @@ graph_limits:
 publications:
   - title: 'Indikator Klimaanpassung im Küstenschutz'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-3'
+    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-3-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
