@@ -24,8 +24,10 @@ graph_limits:
     maximum: 160
 publications:
   - title: 'Indikator Index repräsentative Arten'
-    link: 'tbd'
+    link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-7'
+    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-7-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-21
 reporting_status: complete
+
