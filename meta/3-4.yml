@@ -18,7 +18,9 @@ graph_target_lines:
 publications:
   - title: 'Indikator Masernelimination'
     link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-4'
+    #link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-4-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
