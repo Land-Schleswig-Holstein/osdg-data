@@ -15,7 +15,9 @@ graph_limits:
 publications:
   - title: 'Indikator Schuldenstand'
     link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-2'
+    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-2-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-20
 reporting_status: complete
+
