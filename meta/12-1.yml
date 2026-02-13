@@ -14,7 +14,9 @@ data_start_values:
 publications:
   - title: 'Siedlungsabfallaufkommen'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/12-1'
+    #link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/12-1-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
