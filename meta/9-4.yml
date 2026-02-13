@@ -19,7 +19,9 @@ graph_limits:
 publications:
   - title: 'Indikator Private und öffentliche Ausgaben für Forschung und Entwicklung'
     link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/9-4'
+    #link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/9-4-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
