@@ -17,10 +17,10 @@ graph_target_lines:
     value: 5.3
 publications:
   - title: 'Indikator Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA'
-    link: 'http://10.61.63.178/handlungsfelder/bildung/4-7'
-    #link: 'http://10.61.63.178/handlungsfelder/bildung/4-7-neu'
+    link: 'http://10.61.63.178/start/bildung/4-7'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
