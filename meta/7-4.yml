@@ -15,11 +15,11 @@ graph_target_lines:
     value: 86.0
 publications:
   - title: 'Indikator Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch'
-    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-4'
-    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-4-neu'
+    link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/7-4'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
 
 
