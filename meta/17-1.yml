@@ -16,10 +16,11 @@ graph_limits:
     maximum: 40000000
 publications:
   - title: 'Indikator Öffentliche Entwicklungsausgaben'
-    link: 'http://10.61.63.178/start/handlungsfelder/globale-verantwortung/17-1'
+    link: 'http://10.61.63.178/start/globale-verantwortung/17-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-18
 reporting_status: complete
+
 
 
