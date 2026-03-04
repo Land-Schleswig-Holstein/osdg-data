@@ -19,10 +19,10 @@ graph_target_lines:
     value: 20.0
 publications:
   - title: 'Indikator Feinstaubbelastung'
-    link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-6'
-    #link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-6-neu'
+    link: 'http://10.61.63.178/start/gesundes-leben/3-6'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
 
