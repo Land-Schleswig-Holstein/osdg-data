@@ -15,11 +15,11 @@ footer_fields:
     value: Es handelt sich bei den Werten bis 2023 um Ist-Werte, für 2024 ist ein Soll-Wert dargestellt.
 publications:
   - title: 'Indikator Staatsdefizit'
-    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/8-1'
-    #link: 'http://10.61.63.178/start/good-governance-und-gesellschaftliche-teilhabe/8-1-neu'
+    link: 'http://10.61.63.178/start/good-governance-und-gesellschaftliche-teilhabe/8-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
 
 
