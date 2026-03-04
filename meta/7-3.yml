@@ -18,9 +18,10 @@ data_start_values:
 publications:
   - title: 'Energieverbrauch nach Sektoren'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-3'
-    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-3-neu'
+    #link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/7-3-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
 
