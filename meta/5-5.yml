@@ -20,10 +20,10 @@ data_start_values:
     value: 'Juniorprofessuren'
 publications:
   - title: 'Indikator Frauen in Führungspositionen im öffentlichen Dienst'
-    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/5-5'
-    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/5-5-neu'
+    link: 'http://10.61.63.178/start/good-governance-und-gesellschaftliche-teilhabe/5-5'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-20
 reporting_status: complete
+
 
