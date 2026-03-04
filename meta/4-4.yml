@@ -11,9 +11,9 @@ data_start_values:
 publications:
   - title: 'Indikator Zertifizierte außerschulische Bildungseinrichtungen für Nachhaltigkeit'
     link: 'http://10.61.63.178/handlungsfelder/bildung/4-4'
-    #link: 'http://10.61.63.178/handlungsfelder/bildung/4-4-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-02
 reporting_status: complete
+
 
