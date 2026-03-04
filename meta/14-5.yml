@@ -18,10 +18,10 @@ graph_target_lines:
     value: 775.0
 publications:
   - title: 'Indikator Phosphoreintrag über Zuflüsse in Nord- und Ostsee'
-    link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/14-5'
-    #link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/14-5-neu'
+    link: 'http://10.61.63.178/start/globale-verantwortung/14-5'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
 
