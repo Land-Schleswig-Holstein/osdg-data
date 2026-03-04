@@ -32,10 +32,10 @@ graph_limits:
     maximum: 17
 publications:
   - title: 'Indikator Mindestsicherungsquote'
-    link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/1-2'
-    #link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/1-2-neu'
+    link: 'http://10.61.63.178/start/soziale-gerechtigkeit/1-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
