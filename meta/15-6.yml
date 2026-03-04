@@ -15,10 +15,10 @@ graph_target_lines:
     value: 19.0
 publications:
   - title: 'Indikator Landwirtschaftsflächen mit hohem Naturwert – High Nature Value Farmland (HNV)'
-    link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-6'
-    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-6-neu'
+    link: 'http://10.61.63.178/start/erhalt-der-natuerlichen-lebensgrundlagen/15-6'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
