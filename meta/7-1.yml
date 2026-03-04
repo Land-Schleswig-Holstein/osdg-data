@@ -18,11 +18,11 @@ graph_limits:
     maximum: 250
 publications:
   - title: 'Treibhausgas- und Endenergieproduktivität'
-    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-1'
-    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-1-neu'
+    link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/7-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-20
 reporting_status: complete
+
 
 
