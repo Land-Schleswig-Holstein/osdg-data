@@ -22,11 +22,11 @@ graph_limits:
       maximum: 45
 publications:
   - title: 'Indikator Soziale Sicherung/Niedriglohnsektor'
-    link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/8-4'
-    #link: 'http://10.61.63.178/handlungsfelder/soziale-gerechtigkeit/8-4-neu'
+    link: 'http://10.61.63.178/start/soziale-gerechtigkeit/8-4'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-30
 reporting_status: complete
+
 
 
