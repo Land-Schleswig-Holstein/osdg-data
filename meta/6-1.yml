@@ -17,10 +17,10 @@ graph_target_lines:
     value: 100.0
 publications:
   - title: 'Nitratgehalt im Grundwasser'
-    link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-1'
-    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-1-neu'
+    link: 'http://10.61.63.178/start/erhalt-der-natuerlichen-lebensgrundlagen/6-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-20
 reporting_status: complete
+
 
