@@ -20,10 +20,10 @@ graph_target_lines:
     value: 240
 publications:
   - title: 'Indikator Zukunftsschulen'
-    link: 'http://10.61.63.178/handlungsfelder/bildung/4-3'
-    #link: 'http://10.61.63.178/handlungsfelder/bildung/4-3-neu'
+    link: 'http://10.61.63.178/start/bildung/4-3'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-02
 reporting_status: complete
+
 
