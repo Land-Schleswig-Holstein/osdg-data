@@ -22,10 +22,10 @@ data_start_values:
     value: 'Deutschland'
 publications:
   - title: 'Indikator Eutrophierung der Ökosysteme'
-    link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-5'
-    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/15-5-neu'
+    link: 'http://10.61.63.178/start/erhalt-der-natuerlichen-lebensgrundlagen/15-5'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-16
 reporting_status: complete
+
 
