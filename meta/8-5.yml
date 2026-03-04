@@ -14,11 +14,11 @@ graph_limits:
     maximum: 16
 publications:
   - title: 'Indikator Materialverbrauch'
-    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-5'
-    #link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/8-5-neu'
+    link: 'http://10.61.63.178/start/nachhaltiges-wirtschaften-und-ressourcenschutz/8-5'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-30
 reporting_status: complete
+
 
 
