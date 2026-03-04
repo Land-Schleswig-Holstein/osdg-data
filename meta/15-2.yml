@@ -13,10 +13,10 @@ footer_fields:
     value: Für die Jahre 2005 bis 2007 liegen nur Schätzwerte vor, so dass auf die Darstellung verzichtet wird.
 publications:
   - title: 'Indikator Freiraumverlust'
-    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-2'
-    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/15-2-neu'
+    link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/15-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
