@@ -18,10 +18,11 @@ graph_target_lines:
 publications:
   - title: 'Stromerzeugung aus erneuerbaren Energien'
     link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-2'
-    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/7-2-neu'
+    #link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/7-2-neu'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
 
 
