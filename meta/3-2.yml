@@ -18,10 +18,10 @@ data_start_values:
     value: 'Deutschland (w)'
 publications:
   - title: 'Indikator Vorzeitige Sterblichkeit'
-    link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-2'
-    #link: 'http://10.61.63.178/handlungsfelder/gesundes-leben/3-2-neu'
+    link: 'http://10.61.63.178/start/gesundes-leben/3-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
