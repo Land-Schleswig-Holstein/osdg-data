@@ -17,10 +17,10 @@ footer_fields:
     value: Die Daten für 2007 und 2013 sind nicht berichtet worden.
 publications:
   - title: 'Indikator Sozialer Ausgleich im Bildungssystem - Frühe Schulabgängerinnen und Schulabgänger'
-    link: 'http://10.61.63.178/handlungsfelder/bildung/4-6'
-    #link: 'http://10.61.63.178/handlungsfelder/bildung/4-6-neu'
+    link: 'http://10.61.63.178/start/bildung/4-6'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
 
