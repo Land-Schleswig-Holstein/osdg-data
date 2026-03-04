@@ -22,10 +22,10 @@ graph_target_lines:
     value: 325.0
 publications:
   - title: 'Indikator Gewässergefährdung durch Phosphor'
-    link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-3'
-    #link: 'http://10.61.63.178/handlungsfelder/erhalt-der-natuerlichen-lebensgrundlagen/6-3-neu'
+    link: 'http://10.61.63.178/start/erhalt-der-natuerlichen-lebensgrundlagen/6-3'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-20
 reporting_status: complete
+
 
