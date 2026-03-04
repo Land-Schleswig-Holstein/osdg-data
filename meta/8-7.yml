@@ -12,10 +12,10 @@ data_start_values:
     value: 'Fairtrade-Gemeinden und -Kreise'
 publications:
   - title: 'Faitrade-Gemeinden und -Kreise in Schleswig-Holstein'
-    link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/8-7'
-    #link: 'http://10.61.63.178/handlungsfelder/globale-verantwortung/8-7'
+    link: 'http://10.61.63.178/start/globale-verantwortung/8-7'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-06-30
 reporting_status: complete
+
 
