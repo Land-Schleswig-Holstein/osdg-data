@@ -19,10 +19,10 @@ footer_fields:
     value: Die Letzte offizielle Erhebung stammt aus dem Jahr 2019. Eine länderspezifische Auswertung kann aus personellen Gründen zur Zeit nicht stattfinden.
 publications:
   - title: 'Unternehmen mit Nachhaltigkeitsstandards'
-    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/12-2'
-    #link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/12-2-neu'
+    link: 'http://10.61.63.178/start/nachhaltiges-wirtschaften-und-ressourcenschutz/12-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
 
