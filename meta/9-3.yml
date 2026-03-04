@@ -18,10 +18,10 @@ data_start_values:
     value: 'Zahlen des Breitbandatlasses des Bundes'
 publications:
   - title: 'Indikator Zahl der Haushalte, für die ein Glasfaseranschluss (FTTB/FFTH) verfügbar ist'
-    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/9-3'
-    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/9-3-neu'
+    link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/9-3'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
 
