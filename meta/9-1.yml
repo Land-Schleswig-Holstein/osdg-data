@@ -16,10 +16,10 @@ data_start_values:
     value: 'zukünftiger Abbau'
 publications:
   - title: 'Indikator Infrastruktur: Abbau des Sanierungsstaus/Deckung des Investitionsbedarfs'
-    link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/9-1'
-    #link: 'http://10.61.63.178/good-governance-und-gesellschaftliche-teilhabe/9-1-neu'
+    link: 'http://10.61.63.178/start/good-governance-und-gesellschaftliche-teilhabe/9-1'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-07-04
 reporting_status: complete
+
 
