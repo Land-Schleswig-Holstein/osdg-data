@@ -15,10 +15,10 @@ graph_target_lines:
     value: 50.0
 publications:
   - title: 'Indikator Anzahl kommunaler Klimaschutzkonzepte'
-    link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/13-2'
-    #link: 'http://10.61.63.178/handlungsfelder/infrastruktur-und-klimaschutz/13-2-neu'
+    link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/13-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-05-21
 reporting_status: complete
+
 
