@@ -14,10 +14,10 @@ data_start_values:
     value: 'Patentanmeldungen je 100.000 Einwohner'
 publications:
   - title: 'Indikator Patentanmeldungen'
-    link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/9-5'
-    #link: 'http://10.61.63.178/handlungsfelder/nachhaltiges-wirtschaften-und-ressourcenschutz/9-5neu'
+    link: 'http://10.61.63.178/start/nachhaltiges-wirtschaften-und-ressourcenschutz/9-5'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
     date: 2025-03-31
 reporting_status: complete
+
 
