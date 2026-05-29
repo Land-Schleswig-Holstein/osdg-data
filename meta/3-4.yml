@@ -12,6 +12,10 @@ data_start_values:
     value: 'Eine Impfung (Alter 15 Monate)'
   - field: 'Impfung'
     value: 'Zwei Impfungen (Alter 24 Monate)'
+graph_limits:
+  - unit: Prozent
+    minimum: 50
+    maximum: 100
 graph_target_lines:
   - label_content: 'Ziel Eine Impfung'
     value: 95.0
