@@ -1,1 +1,307 @@
-Year,Value
+Year,Units,Series,Geschlecht,Art der Hilfe,Value
+2006,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,10.1
+2007,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.8
+2008,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.4
+2009,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.3
+2010,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,8.9
+2011,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.0
+2012,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.1
+2013,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.3
+2014,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.5
+2015,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,10.3
+2016,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,10.3
+2017,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,10.0
+2018,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.5
+2019,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.0
+2020,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.1
+2021,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,8.5
+2022,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,8.8
+2023,Prozent,Geschlecht,Schleswig-Holstein insgesamt,,9.0
+2006,Prozent,Geschlecht,Deutschland insgesamt,,9.8
+2007,Prozent,Geschlecht,Deutschland insgesamt,,9.5
+2008,Prozent,Geschlecht,Deutschland insgesamt,,9.1
+2009,Prozent,Geschlecht,Deutschland insgesamt,,9.2
+2010,Prozent,Geschlecht,Deutschland insgesamt,,8.8
+2011,Prozent,Geschlecht,Deutschland insgesamt,,8.7
+2012,Prozent,Geschlecht,Deutschland insgesamt,,8.7
+2013,Prozent,Geschlecht,Deutschland insgesamt,,8.9
+2014,Prozent,Geschlecht,Deutschland insgesamt,,9.1
+2015,Prozent,Geschlecht,Deutschland insgesamt,,9.7
+2016,Prozent,Geschlecht,Deutschland insgesamt,,9.5
+2017,Prozent,Geschlecht,Deutschland insgesamt,,9.2
+2018,Prozent,Geschlecht,Deutschland insgesamt,,8.7
+2019,Prozent,Geschlecht,Deutschland insgesamt,,8.3
+2020,Prozent,Geschlecht,Deutschland insgesamt,,8.3
+2021,Prozent,Geschlecht,Deutschland insgesamt,,8.0
+2022,Prozent,Geschlecht,Deutschland insgesamt,,8.5
+2023,Prozent,Geschlecht,Deutschland insgesamt,,8.6
+2006,Prozent,Geschlecht,Schleswig-Holstein Männer,,10.3
+2007,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.9
+2008,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.4
+2009,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.4
+2010,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.0
+2011,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.2
+2012,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.2
+2013,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.4
+2014,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.7
+2015,Prozent,Geschlecht,Schleswig-Holstein Männer,,10.9
+2016,Prozent,Geschlecht,Schleswig-Holstein Männer,,10.8
+2017,Prozent,Geschlecht,Schleswig-Holstein Männer,,10.4
+2018,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.9
+2019,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.4
+2020,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.5
+2021,Prozent,Geschlecht,Schleswig-Holstein Männer,,8.8
+2022,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.0
+2023,Prozent,Geschlecht,Schleswig-Holstein Männer,,9.3
+2006,Prozent,Geschlecht,Deutschland Männer,,9.9
+2007,Prozent,Geschlecht,Deutschland Männer,,9.6
+2008,Prozent,Geschlecht,Deutschland Männer,,9.0
+2009,Prozent,Geschlecht,Deutschland Männer,,9.2
+2010,Prozent,Geschlecht,Deutschland Männer,,8.8
+2011,Prozent,Geschlecht,Deutschland Männer,,8.7
+2012,Prozent,Geschlecht,Deutschland Männer,,8.7
+2013,Prozent,Geschlecht,Deutschland Männer,,8.9
+2014,Prozent,Geschlecht,Deutschland Männer,,9.2
+2015,Prozent,Geschlecht,Deutschland Männer,,10.1
+2016,Prozent,Geschlecht,Deutschland Männer,,10.0
+2017,Prozent,Geschlecht,Deutschland Männer,,9.5
+2018,Prozent,Geschlecht,Deutschland Männer,,8.9
+2019,Prozent,Geschlecht,Deutschland Männer,,8.5
+2020,Prozent,Geschlecht,Deutschland Männer,,8.6
+2021,Prozent,Geschlecht,Deutschland Männer,,8.2
+2022,Prozent,Geschlecht,Deutschland Männer,,8.6
+2023,Prozent,Geschlecht,Deutschland Männer,,8.8
+2006,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.9
+2007,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.7
+2008,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.4
+2009,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.2
+2010,Prozent,Geschlecht,Schleswig-Holstein Frauen,,8.8
+2011,Prozent,Geschlecht,Schleswig-Holstein Frauen,,8.9
+2012,Prozent,Geschlecht,Schleswig-Holstein Frauen,,8.9
+2013,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.2
+2014,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.3
+2015,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.8
+2016,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.8
+2017,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.5
+2018,Prozent,Geschlecht,Schleswig-Holstein Frauen,,9.1
+2019,Prozent,Geschlecht,Schleswig-Holstein Frauen,,8.7
+2020,Prozent,Geschlecht,Schleswig-Holstein Frauen,,8.7
+2021,Prozent,Geschlecht,Schleswig-Holstein Frauen,,8.1
+2022,Prozent,Geschlecht,Schleswig-Holstein Frauen,,8.7
+2023,Prozent,Geschlecht,Schleswig-Holstein Frauen,,8.7
+2006,Prozent,Geschlecht,Deutschland Frauen,,9.7
+2007,Prozent,Geschlecht,Deutschland Frauen,,9.5
+2008,Prozent,Geschlecht,Deutschland Frauen,,9.1
+2009,Prozent,Geschlecht,Deutschland Frauen,,9.1
+2010,Prozent,Geschlecht,Deutschland Frauen,,8.7
+2011,Prozent,Geschlecht,Deutschland Frauen,,8.6
+2012,Prozent,Geschlecht,Deutschland Frauen,,8.7
+2013,Prozent,Geschlecht,Deutschland Frauen,,8.8
+2014,Prozent,Geschlecht,Deutschland Frauen,,8.9
+2015,Prozent,Geschlecht,Deutschland Frauen,,9.3
+2016,Prozent,Geschlecht,Deutschland Frauen,,9.1
+2017,Prozent,Geschlecht,Deutschland Frauen,,8.8
+2018,Prozent,Geschlecht,Deutschland Frauen,,8.4
+2019,Prozent,Geschlecht,Deutschland Frauen,,8.0
+2020,Prozent,Geschlecht,Deutschland Frauen,,8.0
+2021,Prozent,Geschlecht,Deutschland Frauen,,7.7
+2022,Prozent,Geschlecht,Deutschland Frauen,,8.5
+2023,Prozent,Geschlecht,Deutschland Frauen,,8.5
+2006,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.3
+2007,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.1
+2008,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,7.8
+2009,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.0
+2010,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,7.7
+2011,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,7.6
+2012,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,7.6
+2013,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,7.9
+2014,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.2
+2015,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.9
+2016,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.9
+2017,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.6
+2018,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.2
+2019,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,7.9
+2020,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.0
+2021,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,7.7
+2022,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.3
+2023,Prozent,Geschlecht,Früheres Bundesgebiet insgesamt,,8.4
+2006,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,15.6
+2007,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,15.2
+2008,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,14.3
+2009,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,14.0
+2010,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,13.2
+2011,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,13.1
+2012,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,13.0
+2013,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,12.9
+2014,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,12.8
+2015,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,13.0
+2016,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,12.2
+2017,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,11.4
+2018,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,10.6
+2019,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,9.9
+2020,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,9.7
+2021,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,9.2
+2022,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,9.7
+2023,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) insgesamt,,9.7
+2006,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.3
+2007,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.0
+2008,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,7.6
+2009,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,7.9
+2010,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,7.6
+2011,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,7.5
+2012,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,7.6
+2013,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,7.8
+2014,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.2
+2015,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,9.2
+2016,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,9.2
+2017,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.9
+2018,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.4
+2019,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.0
+2020,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.2
+2021,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,7.8
+2022,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.2
+2023,Prozent,Geschlecht,Früheres Bundesgebiet Männer,,8.5
+2006,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,16.2
+2007,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,15.7
+2008,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,14.7
+2009,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,14.5
+2010,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,13.7
+2011,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,13.6
+2012,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,13.4
+2013,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,13.4
+2014,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,13.3
+2015,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,13.8
+2016,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,12.9
+2017,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,12.1
+2018,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,11.3
+2019,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,10.5
+2020,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,10.5
+2021,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,9.9
+2022,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,10.2
+2023,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Männer,,10.4
+2006,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.3
+2007,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.2
+2008,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,7.9
+2009,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.0
+2010,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,7.7
+2011,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,7.7
+2012,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,7.7
+2013,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.0
+2014,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.1
+2015,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.6
+2016,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.5
+2017,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.4
+2018,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.0
+2019,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,7.7
+2020,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,7.8
+2021,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,7.5
+2022,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.3
+2023,Prozent,Geschlecht,Früheres Bundesgebiet Frauen,,8.3
+2006,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,15.0
+2007,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,14.7
+2008,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,13.9
+2009,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,13.5
+2010,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,12.7
+2011,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,12.6
+2012,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,12.5
+2013,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,12.5
+2014,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,12.3
+2015,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,12.1
+2016,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,11.4
+2017,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,10.7
+2018,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,10.0
+2019,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,9.2
+2020,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,9.1
+2021,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,8.5
+2022,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,9.2
+2023,Prozent,Geschlecht,Neue Bundesländer (einschließlich Berlin) Frauen,,9.1
+2006,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,286363.0
+2007,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,277729.0
+2008,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,265933.0
+2009,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,263092.0
+2010,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,252749.0
+2011,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,252556.0
+2012,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,254287.0
+2013,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,261085.0
+2014,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,269157.0
+2015,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,295124.0
+2016,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,296061.0
+2017,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,287777.0
+2018,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,275913.0
+2019,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,262776.0
+2020,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,263656.0
+2021,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,247773.0
+2022,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,260279.0
+2023,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,Gesamt,266700.0
+2006,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,250657.0
+2007,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,241189.0
+2008,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,227016.0
+2009,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,223701.0
+2010,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,211246.0
+2011,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,208535.0
+2012,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,207297.0
+2013,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,209181.0
+2014,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,210692.0
+2015,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,211892.0
+2016,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,219975.0
+2017,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,223101.0
+2018,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,210752.0
+2019,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,198338.0
+2020,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,196421.0
+2021,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,180693.0
+2022,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,191154.0
+2023,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB II,194285.0
+2006,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,4767.0
+2007,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,4987.0
+2008,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,5498.0
+2009,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,5580.0
+2010,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,6039.0
+2011,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,6372.0
+2012,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,6599.0
+2013,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,7004.0
+2014,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,7435.0
+2015,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,7580.0
+2016,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,7305.0
+2017,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,6865.0
+2018,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,7060.0
+2019,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,6687.0
+2020,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,6680.0
+2021,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,5855.0
+2022,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,5925.0
+2023,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - HLU,5540.0
+2006,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,26519.0
+2007,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,27358.0
+2008,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,29707.0
+2009,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,29999.0
+2010,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,31425.0
+2011,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,33177.0
+2012,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,34982.0
+2013,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,37346.0
+2014,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,38782.0
+2015,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,39708.0
+2016,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,39305.0
+2017,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,41095.0
+2018,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,42339.0
+2019,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,42253.0
+2020,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,43290.0
+2021,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,45175.0
+2022,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,47635.0
+2023,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,SGB XII - Grundsicherung,48760.0
+2006,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,4420.0
+2007,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,4195.0
+2008,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,3712.0
+2009,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,3812.0
+2010,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,4039.0
+2011,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,4472.0
+2012,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,5409.0
+2013,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,7554.0
+2014,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,12248.0
+2015,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,35944.0
+2016,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,29476.0
+2017,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,16716.0
+2018,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,15762.0
+2019,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,15498.0
+2020,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,17265.0
+2021,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,16050.0
+2022,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,15565.0
+2023,Leistungsempfängerinnen und Leistungsempfänger,Art der Hilfe,,AsylbLG,18115.0
