@@ -1312,39 +1312,6 @@
       "title": "Frauen in Führungspositionen in der Politik"
     },
     {
-      "path": "9-5/data.csv",
-      "name": "9-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Patentanmeldungen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Patentanmeldungen",
-                "Patentanmeldungen je 100.000 Einwohner",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Patentanmeldungen"
-    },
-    {
       "path": "14-5/data.csv",
       "name": "14-5",
       "profile": "tabular-data-resource",
@@ -2829,6 +2796,28 @@
         ]
       },
       "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
+    },
+    {
+      "path": "9-5/data.csv",
+      "name": "9-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Patentanmeldungen"
     }
   ]
 }
