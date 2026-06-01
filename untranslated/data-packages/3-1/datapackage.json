@@ -12,18 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Gebiet",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "3-Jahreswert Schleswig-Holstein",
-                "3-Jahreswert Deutschland",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

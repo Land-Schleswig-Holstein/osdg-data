@@ -36,7 +36,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #16-5,complete,,,,,Prozent,bar
 #17-1,complete,,,,,Euro,line
 #2-1,complete,,,,,kg N/ha,line
-#3-1,complete,,,,,je 1.000 Lebendgeborene,line
+#3-1,complete,,True,,,je 1.000 Lebendgeborene,line
 #3-2,complete,,,,,je 100.000 Einwohnerinnen und Einwohner,line
 #3-3,complete,,,,,Anzahl,line
 #3-4,complete,,,,,Prozent,line
