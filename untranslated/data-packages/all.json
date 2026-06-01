@@ -2418,85 +2418,6 @@
       "title": "Ganztagsbetreuung für Kinder"
     },
     {
-      "path": "1-2/data.csv",
-      "name": "1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Leistungsempfängerinnen und Leistungsempfänger",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Geschlecht",
-                "Art der Hilfe",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein insgesamt",
-                "Deutschland insgesamt",
-                "Schleswig-Holstein Männer",
-                "Deutschland Männer",
-                "Schleswig-Holstein Frauen",
-                "Deutschland Frauen",
-                "Früheres Bundesgebiet insgesamt",
-                "Neue Bundesländer (einschließlich Berlin) insgesamt",
-                "Früheres Bundesgebiet Männer",
-                "Neue Bundesländer (einschließlich Berlin) Männer",
-                "Früheres Bundesgebiet Frauen",
-                "Neue Bundesländer (einschließlich Berlin) Frauen",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Art der Hilfe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gesamt",
-                "SGB II",
-                "SGB XII - HLU",
-                "SGB XII - Grundsicherung",
-                "AsylbLG",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Mindestsicherungsquote"
-    },
-    {
       "path": "5-3/data.csv",
       "name": "5-3",
       "profile": "tabular-data-resource",
@@ -2829,6 +2750,28 @@
         ]
       },
       "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
+    },
+    {
+      "path": "1-2/data.csv",
+      "name": "1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Mindestsicherungsquote"
     }
   ]
 }

@@ -12,69 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Prozent",
-                "Leistungsempfängerinnen und Leistungsempfänger",
-                ""
-              ]
-            },
-            "title": "Units"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Geschlecht",
-                "Art der Hilfe",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Geschlecht",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Schleswig-Holstein insgesamt",
-                "Deutschland insgesamt",
-                "Schleswig-Holstein Männer",
-                "Deutschland Männer",
-                "Schleswig-Holstein Frauen",
-                "Deutschland Frauen",
-                "Früheres Bundesgebiet insgesamt",
-                "Neue Bundesländer (einschließlich Berlin) insgesamt",
-                "Früheres Bundesgebiet Männer",
-                "Neue Bundesländer (einschließlich Berlin) Männer",
-                "Früheres Bundesgebiet Frauen",
-                "Neue Bundesländer (einschließlich Berlin) Frauen",
-                ""
-              ]
-            },
-            "title": "Geschlecht"
-          },
-          {
-            "name": "Art der Hilfe",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Gesamt",
-                "SGB II",
-                "SGB XII - HLU",
-                "SGB XII - Grundsicherung",
-                "AsylbLG",
-                ""
-              ]
-            },
-            "title": "Art der Hilfe"
           },
           {
             "name": "Value",
