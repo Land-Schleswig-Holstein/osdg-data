@@ -12,20 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
-          },
-          {
-            "name": "Patentanmeldungen",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Patentanmeldungen",
-                "Patentanmeldungen je 100,000 Einwohner",
-                ""
-              ]
-            },
-            "title": "Patentanmeldungen"
           },
           {
             "name": "Value",
