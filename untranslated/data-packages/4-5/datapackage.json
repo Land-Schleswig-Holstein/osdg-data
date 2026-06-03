@@ -12,7 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Kontinente",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Inländer",
+                "EU ohne DE",
+                "Europa ohne EU und ohne DE",
+                "Afrika",
+                "Amerika",
+                "Asien",
+                "Austr,/Ozean,",
+                "sonst,/unbek,",
+                "Insgesamt",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
