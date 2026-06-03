@@ -1,0 +1,181 @@
+﻿Year,Kontinente,Value
+2005,Inländer,91.861
+2006,Inländer,91.894
+2007,Inländer,91.952
+2008,Inländer,92.142
+2009,Inländer,92.438
+2010,Inländer,92.710
+2011,Inländer,92.782
+2012,Inländer,92.683
+2013,Inländer,92.736
+2014,Inländer,92.524
+2015,Inländer,92.419
+2016,Inländer,91.945
+2017,Inländer,92.146
+2018,Inländer,91.972
+2019,Inländer,91.849
+2020,Inländer,92.057
+2021,Inländer,91.705
+2022,Inländer,91.385
+2023,Inländer,90.953
+2024,Inländer,90.272
+2005,EU ohne DE,1.978
+2006,EU ohne DE,1.840
+2007,EU ohne DE,2.079
+2008,EU ohne DE,1.898
+2009,EU ohne DE,1.712
+2010,EU ohne DE,1.656
+2011,EU ohne DE,1.630
+2012,EU ohne DE,1.648
+2013,EU ohne DE,1.609
+2014,EU ohne DE,1.580
+2015,EU ohne DE,1.557
+2016,EU ohne DE,1.522
+2017,EU ohne DE,1.504
+2018,EU ohne DE,1.421
+2019,EU ohne DE,1.359
+2020,EU ohne DE,1.172
+2021,EU ohne DE,1.192
+2022,EU ohne DE,1.243
+2023,EU ohne DE,1.282
+2024,EU ohne DE,1.261
+2005,Europa ohne EU und ohne DE,2.288
+2006,Europa ohne EU und ohne DE,2.223
+2007,Europa ohne EU und ohne DE,1.804
+2008,Europa ohne EU und ohne DE,1.780
+2009,Europa ohne EU und ohne DE,1.777
+2010,Europa ohne EU und ohne DE,1.708
+2011,Europa ohne EU und ohne DE,1.723
+2012,Europa ohne EU und ohne DE,1.724
+2013,Europa ohne EU und ohne DE,1.662
+2014,Europa ohne EU und ohne DE,1.644
+2015,Europa ohne EU und ohne DE,1.557
+2016,Europa ohne EU und ohne DE,1.522
+2017,Europa ohne EU und ohne DE,1.470
+2018,Europa ohne EU und ohne DE,1.347
+2019,Europa ohne EU und ohne DE,1.258
+2020,Europa ohne EU und ohne DE,1.248
+2021,Europa ohne EU und ohne DE,1.321
+2022,Europa ohne EU und ohne DE,1.275
+2023,Europa ohne EU und ohne DE,1.291
+2024,Europa ohne EU und ohne DE,1.328
+2005,Afrika,0.799
+2006,Afrika,0.835
+2007,Afrika,0.818
+2008,Afrika,0.806
+2009,Afrika,0.734
+2010,Afrika,0.676
+2011,Afrika,0.686
+2012,Afrika,0.666
+2013,Afrika,0.668
+2014,Afrika,0.688
+2015,Afrika,0.695
+2016,Afrika,0.771
+2017,Afrika,0.825
+2018,Afrika,0.881
+2019,Afrika,0.903
+2020,Afrika,0.916
+2021,Afrika,0.907
+2022,Afrika,0.903
+2023,Afrika,0.978
+2024,Afrika,1.056
+2005,Amerika,0.444
+2006,Amerika,0.477
+2007,Amerika,0.493
+2008,Amerika,0.558
+2009,Amerika,0.537
+2010,Amerika,0.596
+2011,Amerika,0.587
+2012,Amerika,0.546
+2013,Amerika,0.540
+2014,Amerika,0.576
+2015,Amerika,0.575
+2016,Amerika,0.606
+2017,Amerika,0.538
+2018,Amerika,0.536
+2019,Amerika,0.544
+2020,Amerika,0.458
+2021,Amerika,0.458
+2022,Amerika,0.458
+2023,Amerika,0.482
+2024,Amerika,0.444
+2005,Asien,2.605
+2006,Asien,2.706
+2007,Asien,2.816
+2008,Asien,2.797
+2009,Asien,2.779
+2010,Asien,2.625
+2011,Asien,2.558
+2012,Asien,2.712
+2013,Asien,2.758
+2014,Asien,2.978
+2015,Asien,3.177
+2016,Asien,3.615
+2017,Asien,3.488
+2018,Asien,3.788
+2019,Asien,4.027
+2020,Asien,4.082
+2021,Asien,4.346
+2022,Asien,4.668
+2023,Asien,4.954
+2024,Asien,5.562
+2005,"Austr,/Ozean,",0.006
+2006,"Austr,/Ozean,",0.006
+2007,"Austr,/Ozean,",0.012
+2008,"Austr,/Ozean,",0.006
+2009,"Austr,/Ozean,",0.012
+2010,"Austr,/Ozean,",0.011
+2011,"Austr,/Ozean,",0.016
+2012,"Austr,/Ozean,",0.011
+2013,"Austr,/Ozean,",0.011
+2014,"Austr,/Ozean,",0.005
+2015,"Austr,/Ozean,",0.010
+2016,"Austr,/Ozean,",0.005
+2017,"Austr,/Ozean,",0.010
+2018,"Austr,/Ozean,",0.014
+2019,"Austr,/Ozean,",0.023
+2020,"Austr,/Ozean,",0.022
+2021,"Austr,/Ozean,",0.018
+2022,"Austr,/Ozean,",0.009
+2023,"Austr,/Ozean,",0.009
+2024,"Austr,/Ozean,",0.014
+2005,"sonst,/unbek,",0.019
+2006,"sonst,/unbek,",0.019
+2007,"sonst,/unbek,",0.025
+2008,"sonst,/unbek,",0.012
+2009,"sonst,/unbek,",0.012
+2010,"sonst,/unbek,",0.017
+2011,"sonst,/unbek,",0.016
+2012,"sonst,/unbek,",0.011
+2013,"sonst,/unbek,",0.016
+2014,"sonst,/unbek,",0.005
+2015,"sonst,/unbek,",0.010
+2016,"sonst,/unbek,",0.015
+2017,"sonst,/unbek,",0.019
+2018,"sonst,/unbek,",0.042
+2019,"sonst,/unbek,",0.037
+2020,"sonst,/unbek,",0.045
+2021,"sonst,/unbek,",0.053
+2022,"sonst,/unbek,",0.059
+2023,"sonst,/unbek,",0.051
+2024,"sonst,/unbek,",0.062
+2005,Insgesamt,100
+2006,Insgesamt,100
+2007,Insgesamt,100
+2008,Insgesamt,100
+2009,Insgesamt,100
+2010,Insgesamt,100
+2011,Insgesamt,100
+2012,Insgesamt,100
+2013,Insgesamt,100
+2014,Insgesamt,100
+2015,Insgesamt,100
+2016,Insgesamt,100
+2017,Insgesamt,100
+2018,Insgesamt,100
+2019,Insgesamt,100
+2020,Insgesamt,100
+2021,Insgesamt,100
+2022,Insgesamt,100
+2023,Insgesamt,100
+2024,Insgesamt,100
