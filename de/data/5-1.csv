@@ -1,1 +1,61 @@
-Year,Value
+Year,Units,Series,Geschlecht,Value
+2006,Euro,Verdienstabstand,Frauen,13.56
+2007,Euro,Verdienstabstand,Frauen,13.72
+2008,Euro,Verdienstabstand,Frauen,13.98
+2009,Euro,Verdienstabstand,Frauen,14.28
+2010,Euro,Verdienstabstand,Frauen,13.87
+2011,Euro,Verdienstabstand,Frauen,14.11
+2012,Euro,Verdienstabstand,Frauen,14.45
+2013,Euro,Verdienstabstand,Frauen,14.59
+2014,Euro,Verdienstabstand,Frauen,14.77
+2015,Euro,Verdienstabstand,Frauen,15.07
+2016,Euro,Verdienstabstand,Frauen,15.41
+2017,Euro,Verdienstabstand,Frauen,15.95
+2018,Euro,Verdienstabstand,Frauen,16.57
+2019,Euro,Verdienstabstand,Frauen,17.13
+2020,Euro,Verdienstabstand,Frauen,17.5
+2021,Euro,Verdienstabstand,Frauen,18.07
+2022,Euro,Verdienstabstand,Frauen,18.92
+2023,Euro,Verdienstabstand,Frauen,19.77
+2024,Euro,Verdienstabstand,Frauen,20.78
+2025,Euro,Verdienstabstand,Frauen,21.69
+2006,Euro,Verdienstabstand,Männer,16.58
+2007,Euro,Verdienstabstand,Männer,16.74
+2008,Euro,Verdienstabstand,Männer,17.18
+2009,Euro,Verdienstabstand,Männer,17.46
+2010,Euro,Verdienstabstand,Männer,16.82
+2011,Euro,Verdienstabstand,Männer,17.02
+2012,Euro,Verdienstabstand,Männer,17.64
+2013,Euro,Verdienstabstand,Männer,17.74
+2014,Euro,Verdienstabstand,Männer,17.83
+2015,Euro,Verdienstabstand,Männer,17.99
+2016,Euro,Verdienstabstand,Männer,18.37
+2017,Euro,Verdienstabstand,Männer,18.59
+2018,Euro,Verdienstabstand,Männer,19.27
+2019,Euro,Verdienstabstand,Männer,19.64
+2020,Euro,Verdienstabstand,Männer,20.15
+2021,Euro,Verdienstabstand,Männer,20.63
+2022,Euro,Verdienstabstand,Männer,21.5
+2023,Euro,Verdienstabstand,Männer,22.51
+2024,Euro,Verdienstabstand,Männer,23.45
+2025,Euro,Verdienstabstand,Männer,24.62
+2006,Prozent,unbereinigter Verdienstabstand,,18.0
+2007,Prozent,unbereinigter Verdienstabstand,,18.0
+2008,Prozent,unbereinigter Verdienstabstand,,19.0
+2009,Prozent,unbereinigter Verdienstabstand,,18.0
+2010,Prozent,unbereinigter Verdienstabstand,,18.0
+2011,Prozent,unbereinigter Verdienstabstand,,17.0
+2012,Prozent,unbereinigter Verdienstabstand,,18.0
+2013,Prozent,unbereinigter Verdienstabstand,,18.0
+2014,Prozent,unbereinigter Verdienstabstand,,17.0
+2015,Prozent,unbereinigter Verdienstabstand,,16.0
+2016,Prozent,unbereinigter Verdienstabstand,,16.0
+2017,Prozent,unbereinigter Verdienstabstand,,14.0
+2018,Prozent,unbereinigter Verdienstabstand,,14.0
+2019,Prozent,unbereinigter Verdienstabstand,,13.0
+2020,Prozent,unbereinigter Verdienstabstand,,13.0
+2021,Prozent,unbereinigter Verdienstabstand,,12.0
+2022,Prozent,unbereinigter Verdienstabstand,,12.0
+2023,Prozent,unbereinigter Verdienstabstand,,12.0
+2024,Prozent,unbereinigter Verdienstabstand,,11.0
+2025,Prozent,unbereinigter Verdienstabstand,,12.0

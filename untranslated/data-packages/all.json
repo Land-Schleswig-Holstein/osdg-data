@@ -497,6 +497,61 @@
       "title": "Energieverbrauch nach Sektoren"
     },
     {
+      "path": "5-1/data.csv",
+      "name": "5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Euro",
+                "Prozent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Verdienstabstand",
+                "unbereinigter Verdienstabstand",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauen",
+                "Männer",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Verdienstabstand zwischen Frauen und Männern"
+    },
+    {
       "path": "6-1/data.csv",
       "name": "6-1",
       "profile": "tabular-data-resource",
@@ -2774,28 +2829,6 @@
         ]
       },
       "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
-    },
-    {
-      "path": "5-1/data.csv",
-      "name": "5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Verdienstabstand zwischen Frauen und Männern"
     }
   ]
 }

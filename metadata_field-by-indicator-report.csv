@@ -52,7 +52,7 @@ Indicator,Reporting status,UN custodian agency,Non-statistical,Show map,Geograph
 #4-7,complete,,,,,Prozent,line
 #4-8,complete,,,,,Prozent,bar
 #4-9,complete,,,,,Prozent,line
-#5-1,complete,,True,,,Euro,bar
+#5-1,complete,,,,,Euro,bar
 #5-2,complete,,,,,Euro,line
 #5-3,complete,,,,,Prozent,bar
 #5-4,complete,,,,,Prozent,bar

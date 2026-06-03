@@ -12,8 +12,44 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Euro",
+                "Prozent",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Verdienstabstand",
+                "unbereinigter Verdienstabstand",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frauen",
+                "Männer",
+                ""
+              ]
+            },
+            "title": "Geschlecht"
           },
           {
             "name": "Value",
