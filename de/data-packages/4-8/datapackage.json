@@ -12,25 +12,12 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Jahr"
           },
           {
-            "name": "Gebiet",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "Schleswig-Holstein",
-                "OECD-Durchschnitt",
-                ""
-              ]
-            },
-            "title": "Gebiet"
-          },
-          {
             "name": "Value",
-            "type": "string",
+            "type": "number",
             "title": "Value"
           }
         ]
