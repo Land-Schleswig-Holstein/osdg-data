@@ -649,6 +649,43 @@
       "title": "Soziale Sicherung/Niedriglohnsektor"
     },
     {
+      "path": "10-5/data.csv",
+      "name": "10-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Erwerbstätigenquote",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre insgesamt)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre m)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre w)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre insgesamt)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre m)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre w)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Erwerbstätigenquote von Menschen mit Migrationshintergrund"
+    },
+    {
       "path": "16-3/data.csv",
       "name": "16-3",
       "profile": "tabular-data-resource",
@@ -2792,28 +2829,6 @@
         ]
       },
       "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
-    },
-    {
-      "path": "10-5/data.csv",
-      "name": "10-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Erwerbstätigenquote von Menschen mit Migrationshintergrund"
     }
   ]
 }

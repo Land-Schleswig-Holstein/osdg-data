@@ -12,8 +12,24 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Erwerbstätigenquote",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre insgesamt)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre m)",
+                "Erwerbstätigenquote  (Anteil Alter 20-64 Jahre w)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre insgesamt)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre m)",
+                "Menschen mit Migrationshintergrund (Anteil Alter 20-64 Jahre w)",
+                ""
+              ]
+            },
+            "title": "Erwerbstätigenquote"
           },
           {
             "name": "Value",
