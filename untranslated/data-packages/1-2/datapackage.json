@@ -12,7 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prozent",
+                "Leistungsempfängerinnen und Leistungsempfänger",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Geschlecht",
+                "Art der Hilfe",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Geschlecht",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Schleswig-Holstein insgesamt",
+                "Deutschland insgesamt",
+                "Schleswig-Holstein Männer",
+                "Deutschland Männer",
+                "Schleswig-Holstein Frauen",
+                "Deutschland Frauen",
+                "Früheres Bundesgebiet insgesamt",
+                "Neue Bundesländer (einschließlich Berlin) insgesamt",
+                "Früheres Bundesgebiet Männer",
+                "Neue Bundesländer (einschließlich Berlin) Männer",
+                "Früheres Bundesgebiet Frauen",
+                "Neue Bundesländer (einschließlich Berlin) Frauen",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Art der Hilfe",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gesamt",
+                "SGB II",
+                "SGB XII - HLU",
+                "SGB XII - Grundsicherung",
+                "AsylbLG",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
