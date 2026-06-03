@@ -2665,40 +2665,6 @@
       "title": "Infrastruktur: Abbau des Sanierungsstaus/Deckung des Investitionsbedarfs"
     },
     {
-      "path": "4-8/data.csv",
-      "name": "4-8",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Raum",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Deutschland",
-                "Schleswig-Holstein",
-                "OECD-Durchschnitt",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Value",
-            "type": "string"
-          }
-        ]
-      },
-      "title": "Bildungsstand der Bevölkerung - Anteil der 25- bis 34-Jährigen, die mindestens über einen Abschluss des Sekundarbereichs II verfügen (Stufen 3-8 der Internationalen Standardklassifikation des Bildungswesens, ISCED)"
-    },
-    {
       "path": "3-1/data.csv",
       "name": "3-1",
       "profile": "tabular-data-resource",
@@ -2829,6 +2795,28 @@
         ]
       },
       "title": "Bildungsstand der Bevölkerung – Anteil der 30- bis 34-Jährigen, die über einen Abschluss des Tertiärbereichs oder einen postsekundaren nicht-tertiären Abschluss verfügen"
+    },
+    {
+      "path": "4-8/data.csv",
+      "name": "4-8",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Bildungsstand der Bevölkerung - Anteil der 25- bis 34-Jährigen, die mindestens über einen Abschluss des Sekundarbereichs II verfügen (Stufen 3-8 der Internationalen Standardklassifikation des Bildungswesens, ISCED)"
     }
   ]
 }
