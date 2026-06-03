@@ -12,12 +12,25 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
           },
           {
+            "name": "Raum",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deutschland",
+                "Schleswig-Holstein",
+                "OECD-Durchschnitt",
+                ""
+              ]
+            },
+            "title": "Raum"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
