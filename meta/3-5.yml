@@ -2,7 +2,7 @@ indicator_name: 'Adipositas bei Schulanfängerinnen und Schulanfängern'
 indicator_number: 3-5
 computation_units: 'Prozent'
 source_active_1: true
-source_organisation_1: 'Kinder- und Jugendgesundheitsdienste (Gesundheitsämter der Kreise und kreisfreien Städte des Landes Schleswig-Holstein) 2006-2023'
+source_organisation_1: 'Kinder- und Jugendgesundheitsdienste (Gesundheitsämter der Kreise und kreisfreien Städte des Landes Schleswig-Holstein)'
 graph_title: 'Anteil adipöser, d. h. stark übergewichtiger Kinder zum Zeitpunkt der Schuleingangsuntersuchung'
 graph_type: line
 data_start_values:
