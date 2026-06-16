@@ -4,7 +4,7 @@ computation_units: 'kg/Einwohner'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
 source_url_1: ''
-graph_title: 'Aufkommen von ausgewählten Siedlungsabfällen, Haus- und Sperrmüll sowie Leichtverpackungsabfällen bezogen auf Einwohnerinnen und Einwohner'
+graph_title: 'Aufkommen von ausgewählten Siedlungsabfällen sowie Haus- und Sperrmüll bezogen auf Einwohnerinnen und Einwohner'
 graph_type: line
 data_start_values:
   - field: 'Aufkommen'
