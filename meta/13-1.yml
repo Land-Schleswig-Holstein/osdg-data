@@ -14,7 +14,7 @@ data_start_values:
   - field: 'Sektor'
     value: 'Industrie'
   - field: 'Sektor'
-    value: 'Gebäude Insgesamt'
+    value: 'Gebäude insgesamt'
   - field: 'Sektor'
     value: 'Verkehr'
   - field: 'Sektor'
