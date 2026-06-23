@@ -23,6 +23,7 @@ Year,Gebiet,Value
 2021,Ostsee,202
 2022,Ostsee,183
 2023,Ostsee,197
+2024,Ostsee,225
 2000,Nordsee,259
 2001,Nordsee,295
 2002,Nordsee,348
@@ -47,6 +48,7 @@ Year,Gebiet,Value
 2021,Nordsee,355
 2022,Nordsee,292
 2023,Nordsee,320
+2024,Nordsee,349
 2000,Elbe,427
 2001,Elbe,494
 2002,Elbe,565
@@ -71,3 +73,4 @@ Year,Gebiet,Value
 2021,Elbe,538
 2022,Elbe,454
 2023,Elbe,486
+2024,Elbe,480
