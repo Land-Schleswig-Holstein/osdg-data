@@ -682,6 +682,51 @@
       "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
     },
     {
+      "path": "16-5/data.csv",
+      "name": "16-5",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Fokusleistungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anlagengenehmigung und -zulassung",
+                "Bauvorbescheid und Baugenehmigung",
+                "Bürgergeld",
+                "Eheschließung",
+                "Einbürgerung",
+                "Elterngeld",
+                "Führerschein",
+                "Handwerksgründung /-register /-karte",
+                "Öffentliche Vergabe",
+                "Personalausweis",
+                "Ummeldung",
+                "Unterhaltsvorschuss",
+                "Unternehmensanmeldung und -genehmigung",
+                "Wohngeld",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind, insbesondere Fokusleistungen"
+    },
+    {
       "path": "11-2/data.csv",
       "name": "11-2",
       "profile": "tabular-data-resource",
@@ -2784,28 +2829,6 @@
         ]
       },
       "title": "Stickstoffüberschuss in der Landwirtschaft"
-    },
-    {
-      "path": "16-5/data.csv",
-      "name": "16-5",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Anteil der Kommunen des Landes, in denen relevante Online-Dienste verfügbar sind, insbesondere Fokusleistungen"
     }
   ]
 }
