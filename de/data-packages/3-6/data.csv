@@ -19,6 +19,7 @@ Year,Jahresmittelwert PM10,Value
 2022,maximaler Jahresmittelwert,19.0
 2023,maximaler Jahresmittelwert,16.0
 2024,maximaler Jahresmittelwert,16.0
+2025,maximaler Jahresmittelwert,17.0
 2005,minimaler Jahresmittelwert,18.0
 2006,minimaler Jahresmittelwert,19.0
 2007,minimaler Jahresmittelwert,17.0
@@ -39,6 +40,7 @@ Year,Jahresmittelwert PM10,Value
 2022,minimaler Jahresmittelwert,13.0
 2023,minimaler Jahresmittelwert,11.0
 2024,minimaler Jahresmittelwert,11.0
+2025,minimaler Jahresmittelwert,11.0
 2005,3 Jahres Mittelwert über alle Stationen,
 2006,3 Jahres Mittelwert über alle Stationen,
 2007,3 Jahres Mittelwert über alle Stationen,22.0
@@ -59,3 +61,4 @@ Year,Jahresmittelwert PM10,Value
 2022,3 Jahres Mittelwert über alle Stationen,15.0
 2023,3 Jahres Mittelwert über alle Stationen,14.0
 2024,3 Jahres Mittelwert über alle Stationen,13.0
+2025,3 Jahres Mittelwert über alle Stationen,13.0
