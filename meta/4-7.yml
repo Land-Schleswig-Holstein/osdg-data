@@ -16,8 +16,8 @@ graph_target_lines:
   - label_content: 'Ziel'
     value: 5.3
 footer_fields:
-  - label: Hinweis: Es sind auch Schülerinnen und Schüler einbezogen, die ein Förderzentrum (in vielen Fällen mit einem sonderpädagogischen Abschluss) verlassen.
-    value: Ab 2021 basiert die Hochrechnung auf den fortgeschriebenen
+  - label: Hinweis 
+    value: Es sind auch Schülerinnen und Schüler einbezogen, die ein Förderzentrum (in vielen Fällen mit einem sonderpädagogischen Abschluss) verlassen.
 publications:
   - title: 'Indikator Sozialer Ausgleich im Bildungssystem – Schulabgängerinnen und Schulabgänger ohne ESA'
     link: 'http://10.61.63.178/start/bildung/4-7'
