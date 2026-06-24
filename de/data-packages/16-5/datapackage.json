@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Jahr"
+          },
+          {
+            "name": "Fokusleistungen",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Anlagengenehmigung und -zulassung",
+                "Bauvorbescheid und Baugenehmigung",
+                "Bürgergeld",
+                "Eheschließung",
+                "Einbürgerung",
+                "Elterngeld",
+                "Führerschein",
+                "Handwerksgründung /-register /-karte",
+                "Öffentliche Vergabe",
+                "Personalausweis",
+                "Ummeldung",
+                "Unterhaltsvorschuss",
+                "Unternehmensanmeldung und -genehmigung",
+                "Wohngeld",
+                ""
+              ]
+            },
+            "title": "Fokusleistungen"
           },
           {
             "name": "Value",
