@@ -16,6 +16,8 @@ Year,Verbrauchssektor,Value
 2020,Industrie,12.03557533
 2021,Industrie,12.48090697
 2022,Industrie,11.7782099
+2023,Industrie,11.19
+2024,Industrie,10.90
 2006,Verkehr,21.903
 2007,Verkehr,21.587
 2008,Verkehr,20.91161004
@@ -33,6 +35,8 @@ Year,Verbrauchssektor,Value
 2020,Verkehr,20.07395595
 2021,Verkehr,20.1486856
 2022,Verkehr,20.25353805
+2023,Verkehr,19.76
+2024,Verkehr,20.09
 2006,Haushalte,28.813
 2007,Haushalte,25.228
 2008,Haushalte,27.80230563
@@ -50,6 +54,8 @@ Year,Verbrauchssektor,Value
 2020,Haushalte,26.71465102
 2021,Haushalte,27.98810712
 2022,Haushalte,25.31919009
+2023,Haushalte,24.29
+2024,Haushalte,24.02
 2006,Gewerbe/ Handel/ Dienstleistungen,14.193
 2007,Gewerbe/ Handel/ Dienstleistungen,12.483
 2008,Gewerbe/ Handel/ Dienstleistungen,13.48035002
@@ -67,3 +73,5 @@ Year,Verbrauchssektor,Value
 2020,Gewerbe/ Handel/ Dienstleistungen,15.39210026
 2021,Gewerbe/ Handel/ Dienstleistungen,15.7832892
 2022,Gewerbe/ Handel/ Dienstleistungen,16.29800733
+2023,Gewerbe/ Handel/ Dienstleistungen,14.13
+2024,Gewerbe/ Handel/ Dienstleistungen,12.85
