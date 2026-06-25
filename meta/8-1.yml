@@ -12,7 +12,7 @@ data_start_values:
     value: 'Struktureller Finanzierungssaldo je Einwohnerin und Einwohner'
 footer_fields:
   - label: Hinweis
-    value: Es handelt sich bei den Werten bis 2023 um Ist-Werte, für 2024 ist ein Soll-Wert dargestellt.
+    value: Es handelt sich bei den Werten um Ist-Werte. Der Wert für das jahr 2025 ist vorläufig. Der Beschluss im Stabilitätsrat erfolgt im Dezember 2026.
 publications:
   - title: 'Indikator Staatsdefizit'
     link: 'http://10.61.63.178/start/good-governance-und-gesellschaftliche-teilhabe/8-1'
