@@ -3,7 +3,8 @@ indicator_number: 12-1
 computation_units: 'kg/Einwohner'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
-source_url_1: ''
+source_url_1: 'https://www.statistik-nord.de/zahlen-fakten/dokumentenansicht/abfallentsorgung-in-schleswig-holstein-2024-67692'
+source_url_text_1: Abfallentsorgung in Schleswig-Holstein 2024 - Statistik Nord
 graph_title: 'Aufkommen von ausgewählten Siedlungsabfällen sowie Haus- und Sperrmüll bezogen auf Einwohnerinnen und Einwohner'
 graph_type: line
 data_start_values:
