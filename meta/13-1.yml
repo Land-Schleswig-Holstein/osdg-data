@@ -26,6 +26,8 @@ data_start_values:
 footer_fields:
   - label: Hinweis
     value: Für das Jahr 2025 sind die Werte als vorläufig zu betrachten.
+  - label: LULUCF
+    value: Land Use, Land-Use Change and Forestry
 publications:
   - title: 'Indikator Treibhausgasemissionen'
     link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/13-1'
