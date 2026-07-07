@@ -15,6 +15,9 @@ graph_target_lines:
     value: 45000.0
   - label_content: 'Ziel 2025 gesamt'
     value: 37000.0
+footer_fields:
+  - label: Hinweis
+    value: Für das Jahr 2025 sind die Werte als vorläufig zu betrachten.
 publications:
   - title: 'Stromerzeugung aus erneuerbaren Energien'
     link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/7-2'
