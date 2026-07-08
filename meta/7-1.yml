@@ -12,13 +12,13 @@ data_start_values:
     value: 'Treibhausgasproduktivität'
   - field: 'Produktivitätsindex'
     value: 'Endenergieproduktivität'
+footer_fields:
+  - label: Hinweis
+    value: Für das Jahr 2025 sind die Werte als vorläufig zu betrachten.
 graph_limits:
   - unit: Index
     minimum: 50
     maximum: 250
-footer_fields:
-  - label: Hinweis
-    value: Für das Jahr 2025 sind die Werte als vorläufig zu betrachten.
 publications:
   - title: 'Treibhausgas- und Endenergieproduktivität'
     link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/7-1'
