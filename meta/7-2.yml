@@ -1,15 +1,15 @@
-indicator_name: 'Stromerzeugung aus erneuerbaren Energien'
+indicator_name: 'Stromerzeugung aus Erneuerbaren Energien'
 indicator_number: 7-2
 computation_units: 'GWh'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
-graph_title: 'Stromerzeugung aus erneuerbaren Energien'
+graph_title: 'Stromerzeugung aus Erneuerbaren Energien'
 graph_type: line
 data_start_values:
-  - field: 'Strommenge aus erneuerbaren Energien'
-    value: 'Strommenge aus erneuerbaren Energien (an Land)'
-  - field: 'Strommenge aus erneuerbaren Energien'
-    value: 'Strommenge aus erneuerbaren Energien (gesamt)'
+  - field: 'Strommenge aus Erneuerbaren Energien'
+    value: 'Strommenge aus Erneuerbaren Energien (an Land)'
+  - field: 'Strommenge aus Erneuerbaren Energien'
+    value: 'Strommenge aus Erneuerbaren Energien (gesamt)'
 footer_fields:
   - label: Hinweis
     value: Für das Jahr 2025 sind die Werte als vorläufig zu betrachten.
@@ -19,7 +19,7 @@ graph_target_lines:
   - label_content: 'Ziel 2025 gesamt'
     value: 37000.0
 publications:
-  - title: 'Stromerzeugung aus erneuerbaren Energien'
+  - title: 'Stromerzeugung aus Erneuerbaren Energien'
     link: 'http://10.61.63.178/start/infrastruktur-und-klimaschutz/7-2'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
