@@ -679,7 +679,7 @@
           }
         ]
       },
-      "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
+      "title": "Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch"
     },
     {
       "path": "16-5/data.csv",
@@ -1321,7 +1321,7 @@
           }
         ]
       },
-      "title": "Stromerzeugung aus erneuerbaren Energien"
+      "title": "Stromerzeugung aus Erneuerbaren Energien"
     },
     {
       "path": "1-2/data.csv",
