@@ -16,16 +16,16 @@
             "title": "Jahr"
           },
           {
-            "name": "Strommenge aus erneuerbaren Energien",
+            "name": "Strommenge aus Erneuerbaren Energien",
             "type": "string",
             "constraints": {
               "enum": [
-                "Strommenge aus erneuerbaren Energien (gesamt)",
-                "Strommenge aus erneuerbaren Energien (an Land)",
+                "Strommenge aus Erneuerbaren Energien (gesamt)",
+                "Strommenge aus Erneuerbaren Energien (an Land)",
                 ""
               ]
             },
-            "title": "Strommenge aus erneuerbaren Energien"
+            "title": "Strommenge aus Erneuerbaren Energien"
           },
           {
             "name": "Value",

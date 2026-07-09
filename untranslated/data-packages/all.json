@@ -679,7 +679,7 @@
           }
         ]
       },
-      "title": "Anteil erneuerbarer Energien am Brutto-Endenergieverbrauch"
+      "title": "Anteil Erneuerbarer Energien am Brutto-Endenergieverbrauch"
     },
     {
       "path": "16-5/data.csv",
@@ -1305,12 +1305,12 @@
             "type": "integer"
           },
           {
-            "name": "Strommenge aus erneuerbaren Energien",
+            "name": "Strommenge aus Erneuerbaren Energien",
             "type": "string",
             "constraints": {
               "enum": [
-                "Strommenge aus erneuerbaren Energien (gesamt)",
-                "Strommenge aus erneuerbaren Energien (an Land)",
+                "Strommenge aus Erneuerbaren Energien (gesamt)",
+                "Strommenge aus Erneuerbaren Energien (an Land)",
                 ""
               ]
             }
