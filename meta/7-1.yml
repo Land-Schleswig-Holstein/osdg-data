@@ -3,8 +3,8 @@ indicator_number: 7-1
 computation_units: 'Index'
 source_active_1: true
 source_organisation_1: 'Statistikamt Nord'
-source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/themen/energie/energiewende/Daten/_documents/monitoring'
-source_url_text_1: Monitoringbericht Energiewende und Klimaschutz in Schleswig-Holstein 2025
+source_url_1: 'https://www.schleswig-holstein.de/DE/fachinhalte/K/klimaschutz/energiewendeKlimaschutzberichte'
+source_url_text_1: Monitoringbericht Energiewende und Klimaschutz in Schleswig-Holstein 2026
 graph_title: 'Entwicklung der Treibhausgas- und Endenergieproduktivität auf Basis des preisbereinigten Bruttoinlandsprodukts'
 graph_type: line
 data_start_values:
