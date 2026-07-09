@@ -16,15 +16,15 @@
             "title": "Jahr"
           },
           {
-            "name": "Anteil erneuerbarer Energien am Brutto-EEV",
+            "name": "Anteil Erneuerbarer Energien am Brutto-EEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Anteil erneuerbarer Energien am Brutto-EEV",
+                "Anteil Erneuerbarer Energien am Brutto-EEV",
                 ""
               ]
             },
-            "title": "Anteil erneuerbarer Energien am Brutto-EEV"
+            "title": "Anteil Erneuerbarer Energien am Brutto-EEV"
           },
           {
             "name": "Value",
