@@ -2,7 +2,7 @@ indicator_name: 'Treibhausgas- und Endenergieproduktivität'
 indicator_number: 7-1
 computation_units: 'Index'
 source_active_1: true
-source_organisation_1: 'Ministerium für Energiewende, Klimaschutz, Umwelt und Natur'
+source_organisation_1: 'Statistikamt Nord'
 source_url_1: 'https://www.schleswig-holstein.de/DE/landesregierung/themen/energie/energiewende/Daten/_documents/monitoring'
 source_url_text_1: Monitoringbericht Energiewende und Klimaschutz in Schleswig-Holstein 2025
 graph_title: 'Entwicklung der Treibhausgas- und Endenergieproduktivität auf Basis des preisbereinigten Bruttoinlandsprodukts'
