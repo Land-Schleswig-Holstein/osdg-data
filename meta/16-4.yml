@@ -1,4 +1,4 @@
-indicator_name: 'Anzahl in Schleswig-Holstein verfügbarer Onlinedienste'
+indicator_name: 'Anzahl in Schleswig-Holstein verfügbarer Online-Dienste'
 indicator_number: 16-4
 computation_units: 'Anzahl'
 source_active_1: true
@@ -10,7 +10,7 @@ data_start_values:
   - field: 'Online-Dienste in SH'
     value: 'Online-Dienste'
 publications:
-  - title: 'Indikator Anzahl in Schleswig-Holstein verfügbarer Onlinedienste'
+  - title: 'Indikator Anzahl in Schleswig-Holstein verfügbarer Online-Dienste'
     link: 'http://10.61.63.178/start/good-governance-und-gesellschaftliche-teilhabe/16-4'
     description: ' '
     placeholder: 'Noch keine Daten hinterlegt...'
